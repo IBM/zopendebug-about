@@ -1,0 +1,75 @@
+INFORMACJE LICENCYJNE
+
+Programy wymienione poniøej sπ licencjonowane na podstawie przedstawionych poniøej warunkÛw Informacji licencyjnych, ktÛre stanowiπ uzupe≥nienie warunkÛw licencji na Program uzgodnionych uprzednio miÍdzy Klientem a IBM. Jeúli Klient nie dysponuje warunkami licencji uzgodnionymi uprzednio z IBM w odniesieniu do Programu, zastosowanie majπ warunki licencji MiÍdzynarodowa Umowa Licencyjna na Program (Z125-3301-14).
+
+Nazwa Programu (Numer Programu):
+IBM Wazi Development Client 1.0 (Component)
+IBM Z Open Editor 1.0 (Component)
+IBM Z Open Debug 1.0 (Component)
+IBM User Build 1.0 (Component)
+IBM Z Distribution for Zowe (Zowe Explorer) (Component)
+IBM RSE API Plug-in for Zowe CLI 1.0 (Component)
+IBM Z Distribution for Zowe (Zowe CLI) (Component)
+
+Poniøsze standardowe warunki majπ zastosowanie do uøywania Programu przez LicencjobiorcÍ.
+
+Ograniczone prawo do uøywania
+
+Zgodnie z MiÍdzynarodowπ Umowπ Licencyjnπ na Program ("IPLA") i niniejszym dokumentem Informacje licencyjne IBM udziela Licencjobiorcy ograniczonego prawa do uøywania Programu. Prawo to jest ograniczone do poziomu Autoryzowanego Uøywania, takiego jak Procesorowa Jednostka Wartoúci ("PVU"), Jednostka Wartoúci ZasobÛw ("RVU"), Jednostka Wartoúci ("VU") lub inny okreúlony poziom uøywania, op≥acony przez LicencjobiorcÍ i potwierdzony dokumentem Proof of Entitlement (PoE). Uøywanie Programu przez LicencjobiorcÍ moøe byÊ rÛwnieø ograniczone do okreúlonej maszyny, moøe podlegaÊ innym ograniczeniom lub moøe obejmowaÊ uøywanie Programu wy≥πcznie jako Programu Wspierajπcego. Jako øe Licencjobiorca nie zap≥aci≥ za ca≥π wartoúÊ ekonomicznπ Programu, uøywanie Programu w dowolnym innym celu bez uiszczenia dodatkowych op≥at jest zabronione. Ponadto Licencjobiorca nie jest upowaøniony do uøywania Programu do úwiadczenia osobom trzecim komercyjnych us≥ug informatycznych, us≥ug serwerowych ani us≥ug podzia≥u czasu, jak rÛwnieø nie jest upowaøniony do udzielania dalszych licencji na Program oraz wypoøyczania i wydzierøawiania Programu, chyba øe stosowne umowy, na mocy ktÛrych Licencjobiorca jest upowaøniony do uøywania Programu, wyraünie stanowiπ inaczej. Licencjobiorca moøe uzyskaÊ dodatkowe prawa pod warunkiem uiszczenia dodatkowych op≥at lub na mocy innych bπdü uzupe≥niajπcych warunkÛw. IBM zastrzega sobie prawo do decydowania, czy takie dodatkowe prawa zostanπ przyznane Licencjobiorcy.
+
+Specyfikacja
+
+Specyfikacje Programu znajdujπ siÍ w zbiorczych punktach zawierajπcych opisy i informacje techniczne w dokumentach "Aktualnoúci produktowe" dotyczπcych Programu.
+
+Niedozwolone uøywanie
+
+Licencjobiorca nie moøe uøywaÊ ani upowaøniaÊ kogokolwiek do uøywania Programu w przypadku, gdy jego awaria mog≥aby doprowadziÊ do úmierci, uszczerbku na zdrowiu, szkody w mieniu albo szkody w úrodowisku naturalnym.
+
+Ograniczenia dotyczπce uøywania Programu
+
+Program ten jest dostarczany jedynie w celu uøywania z Okreúlonymi Programami i/lub Us≥ugami zidentyfikowanymi poniøej lub ich kolejnymi wersjami. Licencjobiorcy nie wolno uøywaÊ tego Programu w po≥πczeniu z øadnym innym oprogramowaniem lub us≥ugπ.
+
+Okreúlone Programy i/lub Us≥ugi:
+IBM Developer for z/OS Enterprise Edition V14.2.3
+IBM Wazi for Red Hat CodeReady Workspaces V1.0.0
+
+NarzÍdzie programistyczne
+
+Ten Program zosta≥ zaprojektowany z myúlπ o udzielaniu pomocy w projektowaniu oprogramowania i systemÛw. Licencjobiorca ponosi wy≥πcznπ odpowiedzialnoúÊ za aplikacje i systemy stworzone przy uøyciu Programu oraz przyjmuje na siebie wszelkie ryzyko i odpowiedzialnoúÊ z nimi zwiπzane.
+
+Kod Licencjonowany Oddzielnie
+
+Postanowienia niniejszego akapitu nie majπ zastosowania w zakresie, w jakim sπ niewaøne lub niewykonalne na mocy prawa, ktÛremu podlega niniejsza licencja. Kaødy z wymienionych poniøej komponentÛw uznawany jest za "Kod Licencjonowany Oddzielnie". Kod Licencjonowany Oddzielnie IBM jest licencjonowany na rzecz Licencjobiorcy na warunkach stosownej umowy lub umÛw licencyjnych osÛb trzecich, przedstawionych w pliku (plikach) NON_IBM_LICENSE do≥πczonym (do≥πczonych) do Programu. Bez wzglÍdu na jakiekolwiek inne warunki Umowy lub jakiejkolwiek innej umowy z IBM, uøywanie ca≥ego Kodu Licencjonowanego Oddzielnie podlega warunkom takiej umowy licencyjnej osoby trzeciej (takich umÛw licencyjnych osÛb trzecich), chyba øe poniøsze warunki stanowiπ inaczej.
+
+Przysz≥e aktualizacje lub poprawki do Programu mogπ zawieraÊ dodatkowy Kod Licencjonowany Oddzielnie. Takie dodatkowe komponenty Kodu Licencjonowanego Oddzielnie oraz zwiπzane z nimi licencje sπ wymienione w kolejnym pliku NON_IBM_LICENSE do≥πczonym do aktualizacji lub poprawki do Programu. Licencjobiorca potwierdza, øe zapozna≥ siÍ z treúciπ umÛw licencyjnych zawartych w pliku lub plikach NON_IBM_LICENSE i wyrazi≥ na nie zgodÍ. Jeúli Licencjobiorca nie wyrazi zgody na warunki tych umÛw licencyjnych osÛb trzecich, wÛwczas nie bÍdzie mÛg≥ uøywaÊ Kodu Licencjonowanego Oddzielnie.
+
+W przypadku ProgramÛw nabytych na warunkach MiÍdzynarodowej Umowy Licencyjnej na Program (International Program License Agreement, zwanej dalej "IPLA") lub MiÍdzynarodowej Umowy Licencyjnej na Programy nieobjÍte Gwarancjπ (International Program License Agreement for Non Warranted Program, zwanej dalej "ILAN"), jeúli Licencjobiorca nie wyrazi zgody na umowy licencyjne osÛb trzecich, wÛwczas moøe zwrÛciÊ Program zgodnie z warunkami paragrafu "Gwarancja zwrotu pieniÍdzy" umowy z IBM (IPLA lub ILAN), z uwzglÍdnieniem okreúlonych tam ram czasowych.
+
+Uwaga: Bez wzglÍdu na jakiekolwiek warunki umÛw licencyjnych z osobami trzecimi, niniejszej Umowy czy teø jakiejkolwiek innej umowy, jakπ Licencjobiorca mÛg≥ zawrzeÊ z IBM:
+(a) IBM dostarcza Licencjobiorcy niniejszy Kod Licencjonowany Oddzielnie BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (W TYM TAKØE R KOJMI);
+(b) IBM NIE UDZIELA JAKICHKOLWIEK GWARANCJI (W TYM TAKØE R KOJMI) I NIE USTALA JAKICHKOLWIEK WARUNK”W, WYRAèNYCH CZY DOMNIEMANYCH, A W SZCZEG”LNOåCI NIE UDZIELA GWARANCJI PRAWA W£ASNOåCI, NIENARUSZANIA PRAW OS”B TRZECICH LUB NIEINGEROWANIA W NIE, DOMNIEMANYCH GWARANCJI I WARUNK”W PRZYDATNOåCI HANDLOWEJ ANI TEØ PRZYDATNOåCI DO OKREåLONEGO CELU W ODNIESIENIU DO KOMPONENT”W KODU LICENCJONOWANEGO ODDZIELNIE;
+(c) IBM nie ponosi wobec Licencjobiorcy odpowiedzialnoúci za jakiekolwiek roszczenia wynikajπce z uøywania Kodu Licencjonowanego Oddzielnie lub z nim zwiπzane ani teø nie bÍdzie zabezpieczaÊ ani broniÊ Licencjobiorcy przed takimi roszczeniami oraz;
+(d) IBM nie ponosi odpowiedzialnoúci za jakiekolwiek szkody bezpoúrednie, poúrednie, uboczne, szczegÛlne, szkody, ktÛrych nie moøna by≥o przewidzieÊ przy zawieraniu umowy oraz szkody zwiπzane z naruszeniem dÛbr osobistych, w tym w szczegÛlnoúci utratÍ danych czy spodziewanych korzyúci, w odniesieniu do Kodu Licencjonowanego Oddzielnie.
+
+Bez wzglÍdu na powyøsze zastrzeøenia w Niemczech i w Austrii gwarancja i odpowiedzialnoúÊ IBM w odniesieniu do Kodu Licencjonowanego Oddzielnie podlega jedynie odpowiednim warunkom umÛw licencyjnych IBM dla Niemiec i Austrii.
+
+Uwaga: IBM moøe úwiadczyÊ us≥ugi wsparcia w ograniczonym zakresie dla okreúlonych komponentÛw Kodu Licencjonowanego Oddzielnie. Jeúli wsparcie takie bÍdzie dostÍpne, szczegÛ≥owe informacje o nim oraz dodatkowe dotyczπce go warunki zostanπ przedstawione w dokumencie "Informacje licencyjne".
+
+Poniøej wymieniono elementy Kodu Licencjonowanego Oddzielnie:
+spdx-expression-parse v1.0.2
+spdx-exceptions v1.0.4
+spdx-exceptions v2.2.0
+
+Ochrona prywatnoúci
+
+Licencjobiorca potwierdza i zgadza siÍ na uøywanie przez IBM informacji cookie i technik úledzenia w celu gromadzenia danych osobowych w zwiπzku ze zbieraniem danych statystycznych dotyczπcych uøywania produktÛw oraz informacji majπcych na celu usprawnianie obs≥ugi uøytkownikÛw i/lub dostosowywanie interakcji z uøytkownikami w sposÛb zgodny ze Strategiπ Ochrony Prywatnoúci Online IBM dostÍpnπ pod adresem http://www.ibm.com/privacy/.
+
+Komponenty èrÛd≥owe i Materia≥y Przyk≥adowe
+
+Program moøe zawieraÊ komponenty w postaci kodu ürÛd≥owego (zwane dalej "Komponentami èrÛd≥owymi") oraz inne materia≥y okreúlone jako Materia≥y Przyk≥adowe. Licencjobiorca moøe kopiowaÊ i modyfikowaÊ Komponenty èrÛd≥owe i Materia≥y Przyk≥adowe jedynie na uøytek wewnÍtrzny, pod warunkiem, øe uøytek taki mieúci siÍ w granicach praw licencyjnych na mocy niniejszej Umowy, zaú Licencjobiorca nie bÍdzie zmieniaÊ ani usuwaÊ øadnych informacji czy uwag o prawach autorskich zawartych w Komponentach èrÛd≥owych lub Materia≥ach Przyk≥adowych. IBM dostarcza Komponenty èrÛd≥owe i Materia≥y Przyk≥adowe bez zobowiπzania do wsparcia, W STANIE, W JAKIM SI  ZNAJDUJ• ("AS IS"), BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (R KOJMI  R”WNIEØ WY£•CZA SI ), WYRAèNYCH LUB DOMNIEMANYCH, A W SZCZEG”LNOåCI GWARANCJI PRAWA W£ASNOåCI, NIENARUSZANIA PRAW OS”B TRZECICH ORAZ DOMNIEMANYCH GWARANCJI i WARUNK”W PRZYDATNOåCI HANDLOWEJ I PRZYDATNOåCI DO OKREåLONEGO CELU.
+
+L/N:  L-JYZG-BNYHF4
+D/N:  L-JYZG-BNYHF4
+P/N:  L-JYZG-BNYHF4
+
+

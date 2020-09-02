@@ -1,0 +1,75 @@
+LIZENZINFORMATION
+
+Für die Lizenzierung der nachstehend aufgelisteten Programme gelten zusätzlich zu den bereits zwischen dem Kunden und IBM vereinbarten Programmlizenzbedingungen die Bedingungen der folgenden Lizenzinformation. Falls der Kunde den für das Programm geltenden Lizenzbedingungen nicht bereits zugestimmt hat, kommt Internationale Nutzungsbedingungen für Programmpakete (Z125-3301-14) zur Anwendung.
+
+Programmname (Programmnummer):
+IBM Wazi Development Client 1.0 (Component)
+IBM Z Open Editor 1.0 (Component)
+IBM Z Open Debug 1.0 (Component)
+IBM User Build 1.0 (Component)
+IBM Z Distribution for Zowe (Zowe Explorer) (Component)
+IBM RSE API Plug-in for Zowe CLI 1.0 (Component)
+IBM Z Distribution for Zowe (Zowe CLI) (Component)
+
+Die folgenden Standardbedingungen gelten für die Programmnutzung durch den Lizenznehmer.
+
+Eingeschränktes Nutzungsrecht
+
+Gemäß der Beschreibung in den Internationalen Nutzungsbedingungen für Programmpakete ("IPLA") und dieser Lizenzinformation gewährt IBM dem Lizenznehmer ein beschränktes Recht zur Nutzung des Programms. Dieses Recht ist auf die Art der Nutzungsberechtigung, z. B. Prozessor-Value-Unit ("PVU"), Ressourcen-Value-Unit ("RVU") oder Value-Unit ("VU"), oder eine andere angegebene Nutzungsstufe beschränkt, für die der Lizenznehmer laut Berechtigungsnachweis (Proof of Entitlement = PoE) bezahlt hat. Die Nutzung des Lizenznehmers kann außerdem auf eine bestimmte Maschine beschränkt sein, ggf. darf er das Programm nur als Unterstützungsprogramm verwenden oder die Nutzung kann sonstigen Beschränkungen unterliegen. Da der Lizenznehmer nicht für den gesamten wirtschaftlichen Wert des Programms bezahlt hat, sind andere Nutzungsarten ohne Zahlung zusätzlicher Gebühren untersagt. Ferner ist der Lizenznehmer nicht berechtigt, das Programm zur Bereitstellung kommerzieller IT-Services für Dritte, zur Bereitstellung kommerzieller Hosting-Services oder für kommerziell betriebenes Time-Sharing einzusetzen oder das Programm zu vermieten, zu verleasen oder Unterlizenzen für das Programm zu vergeben, sofern dies in den maßgeblichen Vereinbarungen, unter denen der Lizenznehmer die Berechtigungen zur Nutzung des Programms erworben hat, nicht ausdrücklich vorgesehen ist. Dem Lizenznehmer werden abhängig von der Zahlung zusätzlicher Gebühren oder unter abweichenden oder ergänzenden Bedingungen ggf. weitere Rechte eingeräumt. IBM behält sich das Recht vor, darüber zu entscheiden, ob dem Lizenznehmer weitere Rechte gewährt werden.
+
+Spezifikationen
+
+Die Programmspezifikationen sind in den Abschnitten "Description" und "Technical Information" der Ankündigungsschreiben des Programms zu finden.
+
+Untersagte Nutzungen
+
+Der Lizenznehmer darf das Programm nicht nutzen oder Dritten die Berechtigung zur Nutzung des Programms erteilen, wenn ein Versagen des Programms zu Todesfällen, Personenschäden, Sach- oder Umweltschäden führen kann.
+
+Programm mit beschränktem Nutzungsrecht (Limited Use)
+
+Dieses Programm wird nur zur Nutzung mit den nachfolgend aufgeführten genannten Programmen und/oder Services oder ihren Nachfolgeprodukten bereitgestellt. Es ist dem Lizenznehmer nicht gestattet, dieses Programm in Verbindung mit anderer Software oder anderen Services zu nutzen.
+
+Genannte Programme und/oder Services:
+IBM Developer for z/OS Enterprise Edition V14.2.3
+IBM Wazi for Red Hat CodeReady Workspaces V1.0.0
+
+Entwicklungstool
+
+Dieses Programm wurde zur Unterstützung bei der Entwicklung von Softwareanwendungen oder Systemen konzipiert. Der Lizenznehmer ist allein verantwortlich für die Anwendungen und Systeme, die er unter Einsatz des Programms entwickelt, und trägt das gesamte Risiko und die Verantwortung dafür.
+
+Separat lizenzierter Code
+
+Die Bedingungen dieses Abschnitts kommen nicht zur Anwendung, wenn sie im Rahmen des geltenden Rechts, dem diese Lizenz unterliegt, als ungültig oder undurchführbar erachtet werden. Jede Komponente in der folgenden Liste wird als "separat lizenzierter Code" eingestuft. IBM stellt dem Lizenznehmer diesen Code unter Lizenz auf Basis der Bedingungen der geltenden Lizenzvereinbarungen der Dritthersteller in den NON_IBM_LICENSE-Dateien zur Verfügung, die dem Programm beigepackt sind. Ungeachtet der Bedingungen in der Vereinbarung oder einer anderen Vereinbarung zwischen dem Lizenznehmer und IBM unterliegt die Nutzung des gesamten separat lizenzierten Codes durch den Lizenznehmer den Bedingungen der Lizenzvereinbarungen der Dritthersteller, sofern nachfolgend nichts anderes angegeben ist.
+
+Zukünftige Programmupdates oder Fixes können weiteren separat lizenzierten Code enthalten, der zusammen mit den zugehörigen Lizenzen ebenfalls in einer NON_IBM_LICENSE-Datei aufgeführt ist, die dem Programmupdate oder Fix beigepackt ist. Der Lizenznehmer bestätigt, dass er die Lizenzvereinbarungen in den NON_IBM_LICENSE-Dateien gelesen und akzeptiert hat. Wenn der Lizenznehmer die Bedingungen dieser Lizenzvereinbarungen der Dritthersteller nicht akzeptiert, darf er den separat lizenzierten Code nicht nutzen.
+
+Für ein Programm, das der Lizenznehmer unter den Internationalen Nutzungsbedingungen für Programmpakete (IPLA) oder den Internationalen Nutzungsbedingungen für Programme ohne Gewährleistung (ILAN) bezogen hat, gilt Folgendes: Wenn der Lizenznehmer der ursprüngliche Lizenznehmer des Programms ist und die Lizenzvereinbarungen der Dritthersteller nicht akzeptiert, kann er in Übereinstimmung mit den Bedingungen im Abschnitt "Geld-zurück-Garantie" in den beiden oben genannten IBM Vereinbarungen und unter Einhaltung der dort angegebenen Frist das Programm zurückgeben.
+
+Hinweis: Ungeachtet der Bedingungen in der Lizenzvereinbarung des Drittherstellers, der Vereinbarung oder einer anderen Vereinbarung zwischen dem Lizenznehmer und IBM gilt Folgendes:
+(a) IBM stellt den separat lizenzierten Code ohne jede Gewährleistung zur Verfügung;
+(b) IBM übernimmt keine Gewährleistung (ausdrücklich oder stillschweigend) für den separat lizenzierten Code, einschließlich, aber nicht beschränkt auf die Gewährleistung für Rechtsmängel, für die Freiheit von Rechten Dritter, für das Recht auf Nichtbeeinträchtigung, für die Handelsüblichkeit und für die Verwendungsfähigkeit für einen bestimmten Zweck;
+(c) IBM ist dem Lizenznehmer gegenüber nicht haftbar und übernimmt keine Verpflichtung, ihn für irgendwelche Schäden hinsichtlich des separat lizenzierten Codes schadlos zu halten, zu entschädigen oder Ansprüche abzuwehren; und
+(d) IBM haftet nicht für unmittelbare, mittelbare oder sonstige Folgeschäden, einschließlich, aber nicht beschränkt auf Datenverlust, entgangene Gewinne und entgangene Einsparungen hinsichtlich des separat lizenzierten Codes.
+
+Ungeachtet der genannten Ausschlüsse unterliegen die Gewährleistung und Haftung von IBM für den separat lizenzierten Code in Deutschland und Österreich ausschließlich den Bedingungen, die in den IBM Lizenzvereinbarungen für Deutschland und Österreich angegeben sind.
+
+Hinweis: IBM kann für Teile des separat lizenzierten Codes unter Umständen eingeschränkte Unterstützung bereitstellen. Wenn Unterstützung angeboten wird, sind Einzelheiten und zusätzlich geltende Bedingungen in der Lizenzinformation (LI) zu finden.
+
+Diese Liste enthält den separat lizenzierten Code:
+spdx-expression-parse v1.0.2
+spdx-exceptions v1.0.4
+spdx-exceptions v2.2.0
+
+Datenschutz
+
+Der Lizenznehmer bestätigt und erklärt sich damit einverstanden, dass IBM beim Zusammenstellen von Produktverwendungsstatistiken und -informationen Cookie- und Tracking-Technologien zur Erfassung personenbezogener Informationen verwenden kann, die dazu vorgesehen sind, das Benutzererlebnis zu verbessern und/oder die Interaktionen mit Benutzern in Übereinstimmung mit der IBM Datenschutzrichtlinie anzupassen, die unter http://www.ibm.com/privacy/ zu finden ist.
+
+Quellenkomponenten und Beispielmaterialien
+
+Das Programm kann einige Komponenten in Form von Quellcode ("Quellenkomponenten") und sonstige Materialien, die als Beispielmaterialien gekennzeichnet sind, enthalten. Der Lizenznehmer darf die Quellenkomponenten und Beispielmaterialien nur für den internen Gebrauch kopieren und ändern, sofern eine solche Verwendung im Rahmen der Lizenzrechte dieser Vereinbarung erfolgt und der Lizenznehmer die in den Quellenkomponenten oder Beispielmaterialien enthaltenen Copyrightvermerke oder Hinweise weder ändert noch löscht. IBM stellt die Quellenkomponenten und Beispielmaterialien ohne eine Verpflichtung zur Unterstützung, im gegenwärtigen Zustand (auf "as-is"-Basis) und ohne jegliche Gewährleistung (ausdrücklich oder stillschweigend) zur Verfügung, insbesondere ohne Gewährleistung für Rechtsmängel, für die Freiheit von Rechten Dritter, für das Recht auf Nichtbeeinträchtigung, für die Handelsüblichkeit und für die Verwendungsfähigkeit für einen bestimmten Zweck.
+
+L/N:  L-JYZG-BNYHF4
+D/N:  L-JYZG-BNYHF4
+P/N:  L-JYZG-BNYHF4
+
+

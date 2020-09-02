@@ -1,0 +1,75 @@
+INFORMATIONS SUR LA LICENCE
+
+Les Logiciels spécifiés ci-dessous sont concédés sous licence conformément aux dispositions des Informations sur la Licence suivantes qui s'ajoutent à celles des dispositions de la licence du Logiciel précédemment acceptée par le Client et IBM. Si le Client n'a pas précédemment accepté les dispositions de la licence en vigueur pour le Logiciel, les Conditions Internationales d'Utilisation de Logiciel (Z125-3301-14) s'appliquent.
+
+Nom du Logiciel (Référence du Logiciel) : 
+IBM Wazi Development Client 1.0 (Component)
+IBM Z Open Editor 1.0 (Component)
+IBM Z Open Debug 1.0 (Component)
+IBM User Build 1.0 (Component)
+IBM Z Distribution for Zowe (Zowe Explorer) (Component)
+IBM RSE API Plug-in for Zowe CLI 1.0 (Component)
+IBM Z Distribution for Zowe (Zowe CLI) (Component)
+
+Les dispositions suivantes s'appliquent à l'utilisation du Logiciel par le Détenteur de la Licence.
+
+Autorisation d'Utilisation Restreinte
+
+Tel que décrit dans les Conditions Internationales d'Utilisation de Logiciel ("IPLA") et dans le présent document Informations sur la Licence, IBM concède au Détenteur de la Licence un droit limité pour utiliser le Logiciel. Ce droit est limité au niveau d'Utilisation Autorisée, telle qu'une Unité de Valeur par Coeur Processeur ("PVU"), une Unité de Valeur Ressource ("RVU"), une Unité de Valeur ("VU") ou tout autre niveau d'utilisation spécifié, payé par le Détenteur de la Licence comme en témoigne l'Autorisation d'Utilisation. L'utilisation par le Détenteur de la Licence peut également être limitée à une machine spécifiée, ou à une utilisation en tant que Logiciel Auxiliaire, ou être soumise à d'autres restrictions. Si le Détenteur de la Licence n'a pas payé la totalité de la valeur économique du Logiciel, aucune autre utilisation n'est autorisée sans le paiement de frais supplémentaires. En outre, le Détenteur de la Licence n'est pas autorisé à utiliser le Logiciel pour fournir des services informatiques commerciaux à une tierce partie, pour fournir un hébergement ou un partage de temps commercial, ou pour accorder des sous-licences pour le Logiciel ni pour le louer, sauf indication contraire expresse dans les contrats applicables au titre desquels le Détenteur de la Licence a obtenu les Autorisations d'Utilisation du Logiciel. Des droits supplémentaires pourront être concédés au Détenteur de la Licence sous réserve du paiement de frais supplémentaires ou sous des conditions différentes ou supplémentaires. Ces droits supplémentaires seront concédés au Détenteur de la Licence à la seule discrétion d'IBM.
+
+Spécifications
+
+Les spécifications de ce Logiciel se trouvent dans les sections collectives "Description" et "Technical Information" des Lettres d'annonce dudit Logiciel.
+
+Utilisations interdites
+
+Le Détenteur de la Licence n'est pas autorisé à utiliser ou à permettre à d'autres personnes d'utiliser le Logiciel si un dysfonctionnement du Logiciel est susceptible d'entraîner la mort, des préjudices corporels ou une dégradation matérielle ou environnementale.
+
+Logiciel à Utilisation Restreinte
+
+Ce Logiciel n'est fourni que dans le cadre de l'utilisation du/des Logiciel(s) ou Service(s) Nommé(s) répertorié(s) ci-dessous ou de leurs/ses versions ultérieures. Le Détenteur de la Licence n'est pas autorisé à utiliser ledit Logiciel en relation avec tout autre logiciel ou service.
+
+Logiciel(s) et/ou Service(s) Nommé(s) :
+IBM Developer for z/OS Enterprise Edition V14.2.3
+IBM Wazi for Red Hat CodeReady Workspaces V1.0.0
+
+Outil de développement
+
+Ce Logiciel est conçu pour faciliter le développement d'applications et de systèmes logiciels. Le Détenteur de la Licence est seul responsable des applications et des systèmes qu'il développe à l'aide de ce Logiciel et il assume tous les risques et responsabilités applicables.
+
+Code sous Licence Distincte
+
+Les dispositions du présent paragraphe s'appliquent, sauf si elles sont considérées comme non valables ou inapplicables dans le cadre de la loi en vigueur régissant la présente licence. Chacun des composants répertoriés ci-dessous doit être considéré comme du "Code sous Licence Distincte". Le Code sous Licence Distincte est concédé sous licence au Détenteur de la Licence par IBM dans le cadre des dispositions du contrat de licence tiers applicable indiqué dans le(s) fichier(s) NON_IBM_LICENSE joint(s) au Logiciel. Nonobstant toute disposition du Contrat ou de tout autre contrat conclu entre le Détenteur de la Licence et IBM, les dispositions de ce contrat de licence tiers régissent l'utilisation de l'intégralité du Code sous Licence Distincte par le Détenteur de la Licence, sauf indication contraire ci-après.
+
+Les mises à jour ou correctifs ultérieurs du Logiciel pourront contenir du Code sous Licence Distincte supplémentaire. Ce Code sous Licence Distincte supplémentaire et les licences correspondantes seront répertoriés dans un autre fichier NON_IBM_LICENSE joint à la mise à jour ou au correctif du Logiciel. Le Détenteur de la Licence reconnaît avoir lu le(s) fichier(s) NON_IBM_LICENSE et accepte les dispositions de licence y figurant. Si le Détenteur de la Licence n'accepte pas les dispositions des contrats de licence tiers, il n'est pas autorisé à utiliser le Code sous Licence Distincte.
+
+Pour les Logiciels dont la licence a été acquise dans le cadre des Conditions Internationales d'Utilisation de Logiciels IBM ou des Conditions Internationales d'Utilisation de Logiciels IBM non garantis, si le Détenteur de la Licence est le détenteur initial de la licence et qu'il n'accepte pas les dispositions des contrats de licence tiers, le Détenteur de la Licence est autorisé à renvoyer le Logiciel conformément aux dispositions énoncées dans la clause "Garantie "satisfait ou remboursé"" du Contrat IBM et ce, durant la période qui y est spécifiée.
+
+Remarque : Sauf disposition contraire énoncée dans le Contrat de licence tiers, dans le Contrat ou dans tout autre contrat conclu entre le Détenteur de la Licence et IBM :
+(a) IBM fournit ce Code sous Licence Distincte au Détenteur de la Licence SANS GARANTIE D'AUCUNE SORTE ;
+(b) IBM NE FOURNIT AUCUNE GARANTIE EXPLICITE OU IMPLICITE, Y COMPRIS, ET DE FAÇON NON LIMITATIVE, EN MATIÈRE DE DROIT DE PROPRIÉTÉ, AUCUNE GARANTIE DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, ET AUCUNE GARANTIE OU CONDITION IMPLICITE D'APTITUDE À L'EXÉCUTION D'UN TRAVAIL DONNÉ EN CE QUI CONCERNE LE CODE SOUS LICENCE DISTINCTE ;
+(c) IBM ne pourra être tenue responsable envers le Détenteur de la Licence ni ne l'indemnisera pour toute réclamation relative au Code sous Licence Distincte ; et
+(d) IBM ne pourra être tenue responsable pour toute demande d'indemnisation ou pour tout dommage direct et indirect, accessoire, particulier, à titre d'exemple, à caractère répressif (notamment perte de bénéfices, de revenus, d'économies escomptées, d'activité commerciale) ou tout autre dommage lié au Code sous Licence Distincte.
+
+Nonobstant ces exclusions, en Allemagne et en Autriche, la garantie et la responsabilité d'IBM en ce qui concerne le Code sous Licence Distincte sont régies uniquement par les dispositions respectives applicables à l'Allemagne et à l'Autriche dans les contrats de licence IBM.
+
+Remarque : IBM peut fournir un support limité pour certains composants du Code sous Licence Distincte. Si ce support est disponible, les détails et les éventuelles dispositions supplémentaires y afférents seront énoncés dans le document Informations sur la Licence.
+
+Les composants suivants sont du Code sous Licence Distincte :
+spdx-expression-parse v1.0.2
+spdx-exceptions v1.0.4
+spdx-exceptions v2.2.0
+
+Données Personnelles
+
+Le Détenteur de la Licence reconnaît et accepte qu'IBM puisse utiliser des cookies et des technologies de suivi pour collecter des informations personnelles, telles que des données statistiques concernant l'utilisation du produit et des informations dans le but d'aider à améliorer l'expérience utilisateur et/ou d'adapter les interactions aux utilisateurs conformément à la Déclaration de confidentialité IBM disponible à l'adresse suivante http://www.ibm.com/privacy/.
+
+Composants Source, Échantillons et Exemples
+
+Le Logiciel peut contenir des composants inclus sous la forme de code source ("Composants Source") ainsi que d'autres éléments appelés Échantillons et Exemples. Le Détenteur de la Licence est autorisé à copier et modifier les Composants Source ainsi que les Échantillons et Exemples à des fins internes, sous réserve que ladite utilisation reste dans les limites des droits de licence concédés au titre du présent Contrat ; et ce, à condition que le Détenteur de la Licence ne modifie ni ne supprime les mentions de droits d'auteur ou les Fichiers Notices contenus dans les Composants Source ou les Échantillons et Exemples. IBM fournit les Composants Source ainsi que les Échantillons et Exemples sans obligation de support. Ces Composants Source, Échantillons et Exemples sont fournis "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE, Y COMPRIS TOUTE GARANTIE DE TITRE, DE NON-CONTREFAÇON OU DE NON-INTERFÉRENCE, AINSI QUE LES GARANTIES IMPLICITES EN MATIÈRE DE VALEUR MARCHANDE ET D'APTITUDE À UNE UTILISATION PARTICULIÈRE.
+
+L/N:  L-JYZG-BNYHF4
+D/N:  L-JYZG-BNYHF4
+P/N:  L-JYZG-BNYHF4
+
+

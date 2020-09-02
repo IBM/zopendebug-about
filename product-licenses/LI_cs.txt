@@ -1,0 +1,75 @@
+LICENÈNÍ INFORMACE
+
+Níže uvedené Programy jsou licencovány na základì následujících podmínek uvedených v dokumentu Licenèní informace, které doplòují licenèní podmínky pro Program, s nimiž døíve Zákazník a IBM vyjádøili souhlas Pokud Zákazník døíve nevyjádøil souhlas s úèinnými licenèními podmínkami pro Program, uplatní se licence Mezinárodní licenèní smlouva pro programy (Z125-3301-14).
+
+Název Programu (Èíslo Programu):
+IBM Wazi Development Client 1.0 (Component)
+IBM Z Open Editor 1.0 (Component)
+IBM Z Open Debug 1.0 (Component)
+IBM User Build 1.0 (Component)
+IBM Z Distribution for Zowe (Zowe Explorer) (Component)
+IBM RSE API Plug-in for Zowe CLI 1.0 (Component)
+IBM Z Distribution for Zowe (Zowe CLI) (Component)
+
+Na používání Programu Držitelem licence se vztahují následující standardní podmínky.
+
+Omezená uživatelská práva
+
+Jak je popsáno v Mezinárodní licenèní smlouvì IBM pro programy ("IPLA") a v tomto dokumentu Licenèní informace, IBM udìluje Držiteli licence omezené právo k užívání Programu. Toto právo je omezeno na úroveò Oprávnìného užívání, jako je napøíklad Hodnotová jednotka procesoru ("Jednotka PVU"), Hodnotová jednotka prostøedku ("Jednotka RVU"), Hodnotová jednotka ("Jednotka VU"), nebo na jinou specifickou úroveò užívání, za níž Držitel licence zaplatil, jak je doloženo Dokumentem o oprávnìní. Užívání Držitelem licence mùže být omezeno rovnìž na nìjaký specifikovaný stroj nebo na užívání pouze jako Podpùrného programu nebo v souladu s jinými omezeními. Jelikož Držitel licence nezaplatil za celou ekonomickou hodnotu Programu, není povoleno žádné jiné užívání, ledaže by byly zaplaceny dodateèné poplatky. Kromì toho není Držitel licence oprávnìn užívat Program k poskytování komerèních služeb v oblasti IT jakékoli tøetí stranì nebo k poskytování komerèního hostingu nebo služeb v oblasti sdílení èasu, ani není oprávnìn Program sublicencovat, pùjèovat nebo pronajímat, ledaže by to bylo výslovnì uvedeno v pøíslušných platných smlouvách, na jejichž základì získal Držitel licence oprávnìní k užívání Programu. Držitel licence mùže mít na základì úhrady dodateèných poplatkù nebo na základì odlišných èi dodateèných podmínek dodateèná práva. IBM si vyhrazuje právo stanovit, zda budou Držiteli licence taková dodateèná práva poskytnuta.
+
+Specifikace
+
+Specifikace Programu naleznete ve souhrnných èláncích Popis a Technické informace, které jsou uvedeny v Oznamovacích letácích Programu.
+
+Zakázané užívání
+
+Držitel licence nesmí používat nebo autorizovat ostatní pro použití Programu, pokud by selhání Programu mohlo zpùsobit smrt, škodu na zdraví nebo škody na majetku èi životním prostøedí.
+
+Program s omezením užívání (Limited Use Program)
+
+Tento Program je dodáván pouze pro užívání spoleènì se Jmenovanými programy a/nebo Službami uvedenými níže nebo jejich následníky. Držiteli licence není povoleno užívat tento Program ve spojení s jakýmkoli jiným softwarem nebo službou.
+
+Jmenované programy a/nebo Služby:
+IBM Developer for z/OS Enterprise Edition V14.2.3
+IBM Wazi for Red Hat CodeReady Workspaces V1.0.0
+
+Development Tool
+
+Úèelem tohoto Programu je podpora vývoje softwarových aplikací a systémù. Držitel licence nese výhradní odpovìdnost za aplikace a systémy, které Držitel licence vyvine s využitím tohoto Programu; Držitel licence pøebírá veškerá rizika a odpovìdnost za takové aplikace a systémy.
+
+Samostatnì licencovaný kód
+
+Podmínky tohoto odstavce se neaplikují v míøe, v níž jsou považována za neplatná nebo nevymahatelná na základì právních pøedpisù, jimiž se øídí tato licence. Každá z komponent uvedených níže je považována za "Samostatnì licencovaný kód". Licence na Samostatnì licencovaný kód IBM je udìlována Držiteli licence na základì podmínek platné licenèní smlouvy (platných licenèních smluv) tøetích stran, jak je uvedeno v souboru(ech) NON_IBM_LICENSE pøipojeném(ých) k Programu. Nestanoví-li tato Smlouva nebo jiná licenèní smlouva, kterou mùže Držitel licence uzavøít s IBM, jinak, øídí se jeho užívání veškerého Samostatnì licencovaného kódu podmínkami takové(vých) licenèní(ch) smlouvy (smluv) tøetích stran, pokud není níže uvedeno jinak.
+
+Budoucí aktualizace Programu nebo sady oprav k Programu mohou obsahovat dodateèný Samostatnì licencovaný kód. Takový dodateèný Samostatnì licencovaný kód a související licence jsou uvedeny v jiném souboru "NON_IBM_LICENSE" pøipojeném k aktualizaci Programu nebo sadì oprav k Programu. Držitel licence potvrzuje, že pøeèetl podmínky licenèní smlouvy obsažené v souboru(ech) NON_IBM_LICENSE a že s nimi souhlasí. Jestliže Držitel licence nesouhlasí s podmínkami tìchto licenèních smluv tøetích stran, nesmí užívat Samostatnì licencovaný kód.
+
+Pro Programy zakoupené na základì Mezinárodní licenèní smlouvy na programy ("IPLA") nebo Mezinárodní licenèní smlouvy pro programy bez záruky ("ILAN") a za pøedpokladu, že Držitel licence je pùvodním držitelem licence na Program, platí, že jestliže Držitel licence nesouhlasí s podmínkami licenèních smluv tøetích stran, mùže vrátit Program v souladu s podmínkami (a v rámci stanoveného èasového období) uvedenými v oddíle "Záruka vrácení penìz" ve smlouvì IBM IPLA nebo ILAN.
+
+Poznámka: Bez ohledu na jakékoliv podmínky licenèní smlouvy tøetí strany, této Smlouvy s IBM nebo jakékoliv jiné smlouvy, kterou mùžete mít s IBM uzavøenou:
+(a) IBM poskytuje Držiteli licence tento Samostatnì licencovaný kód BEZ ZÁRUK JAKÉHOKOLIV DRUHU;
+(b) IBM VYLUÈUJE VEŠKERÉ ZÁRUKY A PODMÍNKY VÝSLOVNÌ VYJÁDØENÉ A VYPLÝVAJÍCÍ Z OKOLNOSTÍ VÈETNÌ - A TO ZEJMÉNA - ZÁRUKY VLASTNICKÉHO NÁROKU, ZÁRUKY NEPORUŠENÍ PRÁV TØETÍCH STRAN A ZÁRUK A PODMÍNEK PRODEJNOSTI A VHODNOSTI PRO URÈITÝ ÚÈEL, POKUD JDE O SAMOSTATNÌ LICENCOVANÝ KÓD;
+(c) IBM nenese vùèi Držiteli licence odpovìdnost, ani jej nebude hájit a neodškodní jej v souvislosti s jakýmikoli nároky na náhradu škody vztahujícími se k Samostatnì licencovanému kódu; a
+(d) IBM nenese odpovìdnost za žádné pøímé, nepøímé, nahodilé, zvláštní, exemplární škody ani za sankèní náhrady škody nebo za následné škody vèetnì - a to zejména - ztráty dat, ztráty úspor, ušlého zisku, v souvislosti se Samostatnì licencovaným kódem.
+
+Bez ohledu na tato vylouèení se záruka a odpovìdnost IBM za Samostatnì licencovaný kód øídí na území Nìmecka a Rakouska pouze pøíslušnými podmínkami platnými pro Nìmecko a Rakousko v licenèních smlouvách IBM.
+
+Poznámka: IBM mùže poskytnout omezenou podporu pro urèitý Samostatnì licencovaný kód. Je-li taková podpora dostupná, budou podrobné informace a dodateèné podmínky vztahující se k takové podpoøe stanoveny v dokumentu Licenèní informace.
+
+Níže je uveden Samostatnì licencovaný kód:
+spdx-expression-parse v1.0.2
+spdx-exceptions v1.0.4
+spdx-exceptions v2.2.0
+
+Soukromí
+
+Držitel licence potvrzuje a souhlasí s tím, že IBM mùže užívat soubory cookie a sledovací technologie pro úèely shromažïování osobních informací v rámci sbìru statistických dat týkajících se užívání produktù a informací, jejichž cílem je napomáhat zlepšení uživatelských zkušeností, a/nebo pro úèely pøizpùsobení interakce s uživateli, a to v souladu s Online Prohlášením IBM o ochranì soukromí, které je dostupné na adrese http://www.ibm.com/privacy/.
+
+Komponenty ve vzorovém kódu a Vzorové materiály
+
+Program mùže obsahovat nìkteré komponenty ve formì zdrojového kódu ("Komponenty ve zdrojovém kódu") a jiné materiály oznaèované jako Vzorové materiály. Držitel licence smí kopírovat a upravovat Zdrojové komponenty a Vzorové materiály pouze pro interní úèely, za pøedpokladu, že toto užívání splòuje limity licenèních práv podle této Smlouvy, avšak pod podmínkou, že Držitel licence nesmí pozmìòovat ani odstraòovat žádné informace o autorských právech nebo výhrady autorských práv, které jsou uvedeny ve Zdrojových komponentách èi Vzorových materiálech. IBM poskytuje tyto Komponenty ve zdrojovém kódu a Vzorové materiály bez závazku podpory a "JAK JSOU", BEZ ZÁRUKY JAKÉHOKOLIV DRUHU, VYJÁDØENÉ VÝSLOVNÌ ÈI VYPLÝVAJÍCÍ Z OKOLNOSTÍ, VÈETNÌ ZÁRUKY VLASTNICTVÍ, NEPORUŠENÍ PRÁV TØETÍCH STRAN A ZÁRUK A PODMÍNEK PRODEJNOSTI A VHODNOSTI PRO DANÝ ÚÈEL.
+
+L/N:  L-JYZG-BNYHF4
+D/N:  L-JYZG-BNYHF4
+P/N:  L-JYZG-BNYHF4
+
+
