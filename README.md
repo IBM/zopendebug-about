@@ -29,4 +29,4 @@ IBM Z Open Debug provides two `launch.json` configuration types for working with
 
 ## LICENSE
 
-See License in Lic_en.txt
+See LICENSE
