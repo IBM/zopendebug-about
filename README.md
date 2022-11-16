@@ -1,6 +1,6 @@
 # IBM Z® Open Debug
 
-**IBM Z Open Debug is a set of extensions for Visual Studio Code that provides interactive debugging support for debugging z/OS COBOL, PL/I and HLASM applications, when used in conjunction with IBM z/OS Debugger.**
+**IBM Z Open Debug is a set of extensions for Visual Studio Code that provide interactive debugging support for debugging z/OS COBOL, PL/I and HLASM applications, when used in conjunction with IBM z/OS Debugger.**
 
 
 ## Table of contents
