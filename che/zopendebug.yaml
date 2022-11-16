@@ -12,5 +12,5 @@ category: Language
 firstPublicationDate: "2022-06-14"
 spec:
   extensions:
-  - https://github.com/IBM/zopendebug-about/releases/download/2.0.0/zopendebug-2.1.0.vsix
-  - https://github.com/IBM/zopendebug-about/releases/download/2.0.0/zopendebug-profileui-2.1.0.vsix
+  - https://github.com/IBM/zopendebug-about/releases/download/2.1.0/zopendebug-2.1.0.vsix
+  - https://github.com/IBM/zopendebug-about/releases/download/2.1.0/zopendebug-profileui-2.1.0.vsix
