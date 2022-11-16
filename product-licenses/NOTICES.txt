@@ -1,6 +1,6 @@
 NOTICES AND INFORMATION
 
-IBM Z Open Debug V1.4
+IBM Z Open Debug V2.0
 
 The IBM license agreement and any applicable information on the web
 download page for IBM products refers Licensee to this file for details
@@ -25,7 +25,7 @@ and all liability for errors and omissions or for any damages accruing
 from the use of this NOTICES file or its contents, including without
 limitation URLs or references to any third party websites.
 
-Start of Notices and Information for IBM Z Open Debug 1.4
+Start of Notices and Information for IBM Z Open Debug 2.0
 
 =====================================================================
 START OF APACHE LICENSE 2.0 NOTICES AND INFORMATION
