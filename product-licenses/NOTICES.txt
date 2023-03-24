@@ -1,6 +1,6 @@
 NOTICES AND INFORMATION
 
-IBM Z Open Debug V2.3
+IBM Z Open Debug V2.4
 
 The IBM license agreement and any applicable information on the web
 download page for IBM products refers Licensee to this file for details
@@ -41,11 +41,11 @@ in this file.  For more information on the Apache Software Foundation, please
 see http://www.apache.org.
 
 
-@carbon/icon-helpers v10.4.0, v10.15.0
-@carbon/icons-react v10.6.1, v10.9.0
 carbon-components v10.10.3
 carbon-components-react v7.6.4
 carbon-icons v7.0.7
+icon-helpers v10.4.0, v10.15.0
+icons-react v10.6.1, v10.9.0
 
 
 Apache License
@@ -239,26 +239,6 @@ The Program includes some or all of the following that IBM obtained
 under the MIT License:
 
 
-@babel/runtime v7.16.3, v7.17.7
- Copyright (c) 2014-present Sebastian McKenzie and other contributors
-@colors/colors	v1.5.0
- - Copyright (c) Marak Squires
- - Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
- - Copyright (c) DABH (https://github.com/DABH)
-@dabh/diagnostics	v2.0.3
- Copyright (c) 2015 Arnout Kazemier, Martijn Swaagman, the Contributors.
-@types/node	v12.7.12
- Copyright (c) Microsoft Corporation.
-@types/prop-types	v15.7.3
- Copyright (c) Microsoft Corporation. All rights reserved.
-@types/react	v16.8.20
- Copyright (c) Microsoft Corporation. All rights reserved.
-@types/react-dom	v16.8.4
- Copyright (c) Microsoft Corporation. All rights reserved.
-@vscode/debugadapter v1.54.0
- Copyright (c) Microsoft Corporation\r\n\r\nAll rights reserved.
-@vscode/debugprotocol  v1.54.0
- Copyright (c) Microsoft Corporation\r\n\r\nAll rights reserved.
 async v3.2.3
  Copyright (c) 2010-2018 Caolan McMahon
 axios v0.26.1
@@ -273,12 +253,22 @@ color-name v1.1.3
  Copyright (c) 2015 Dmitry Ivanov
 color-string v1.9.0
  Copyright (c) 2011 Heather Arthur <fayearthur@gmail.com>
+colors	v1.5.0
+ - Copyright (c) Marak Squires
+ - Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+ - Copyright (c) DABH (https://github.com/DABH)
 colorspace v1.1.4
  Copyright (c) 2015 Arnout Kazemier, Martijn Swaagman, the Contributors.
 core-js v3.1.4
  Copyright (c) 2014-2019 Denis Pushkarev
 csstype v2.6.16
  Copyright (c) 2017-2018 Fredrik Nicol
+debugadapter v1.54.0
+ Copyright (c) Microsoft Corporation\r\n\r\nAll rights reserved.
+debugprotocol  v1.54.0
+ Copyright (c) Microsoft Corporation\r\n\r\nAll rights reserved.
+diagnostics	v2.0.3
+ Copyright (c) 2015 Arnout Kazemier, Martijn Swaagman, the Contributors.
 downshift v1.31.16
  Copyright (c) 2017 PayPal
 enabled v2.0.0
@@ -296,7 +286,7 @@ focus-trap v4.0.2
 focus-trap-react v6.0.0
  Copyright (c) 2015 David Clark
 follow-redirects v1.14.9
- Copyright 2014-present Olivier Lalonde <olalonde@gmail.com>, James Talmage <james@talmage.io>, Ruben Verborgh
+ Copyright 2014–present Olivier Lalonde <olalonde@gmail.com>, James Talmage <james@talmage.io>, Ruben Verborgh
 html-parse-stringify v3.0.1
 i18next v19.0.3
  Copyright (c) 2017 i18next
@@ -330,6 +320,8 @@ moment v2.29.4
  Copyright (c) JS Foundation and other contributors
 ms v2.1.3
  Copyright (c) 2020 Vercel, Inc.
+node	v12.7.12
+ Copyright (c) Microsoft Corporation.
 object-assign v4.1.1
  Copyright (c) Sindre Sorhus (sindresorhus@gmail.com) (sindresorhus.com)
 object-hash v2.2.0
@@ -338,10 +330,16 @@ one-time v1.0.0
  Copyright (c) 2015 Unshift.io, Arnout Kazemier,  the Contributors.
 prop-types v15.7.2
  Copyright (c) 2013-present, Facebook, Inc.
+prop-types	v15.7.3
+ Copyright (c) Microsoft Corporation. All rights reserved.
 react v16.8.6
  Copyright (c) Facebook, Inc. and its affiliates.
+react	v16.8.20
+ Copyright (c) Microsoft Corporation. All rights reserved.
 react-dom v16.8.6
  Copyright (c) Facebook, Inc. and its affiliates.
+react-dom	v16.8.4
+ Copyright (c) Microsoft Corporation. All rights reserved.
 react-i18next v11.14.3
  Copyright (c) 2021 i18next
 react-is v16.13.1
@@ -350,6 +348,8 @@ readable-stream v3.6.0
  Copyright Node.js contributors. All rights reserved.', u'Copyright Joyent, Inc. and other Node contributors. All rights reserved.
 regenerator-runtime v0.13.7, v0.13.9
  Copyright (c) 2014-present, Facebook, Inc.
+runtime v7.16.3, v7.17.7
+ Copyright (c) 2014-present Sebastian McKenzie and other contributors
 safe-buffer v5.2.1
  Copyright (c) Feross Aboukhadijeh
 safe-stable-stringify	v2.3.1
@@ -487,9 +487,9 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 END OF ISC LICENSE NOTICES AND INFORMATION
 =====================================================================
 
-End of Notices and Information for IBM Z Open Debug 2.3
+End of Notices and Information for IBM Z Open Debug 2.4
 =======================================================================
 
-L/N: L-QJPL-EFTH3Y
-D/N: L-QJPL-EFTH3Y
-P/N: L-QJPL-EFTH3Y
+L/N: L-NEUJ-UBYYWV
+D/N: L-NEUJ-UBYYWV
+P/N: L-NEUJ-UBYYWV
