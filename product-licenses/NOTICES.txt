@@ -1,6 +1,6 @@
 NOTICES AND INFORMATION
 
-IBM Z Open Debug V2.4
+IBM Z Open Debug V3.0
 
 The IBM license agreement and any applicable information on the web
 download page for IBM products refers Licensee to this file for details
@@ -25,9 +25,6 @@ and all liability for errors and omissions or for any damages accruing
 from the use of this NOTICES file or its contents, including without
 limitation URLs or references to any third party websites.
 
-=====================================================================
-START OF APACHE LICENSE 2.0 NOTICES AND INFORMATION
-=====================================================================
 
 APACHE SOFTWARE LICENSE 2.0.  
 
@@ -41,14 +38,16 @@ in this file.  For more information on the Apache Software Foundation, please
 see http://www.apache.org.
 
 
-carbon-components v10.10.3
-carbon-components-react v7.6.4
-carbon-icons v7.0.7
-icon-helpers v10.4.0, v10.15.0
-icons-react v10.6.1, v10.9.0
+carbon-components 		10.58.3
+carbon-components-react 7.59.6
+carbon-icons 			7.0.7
+feature-flags			0.7.0
+@carbon/icon-helpers 	10.39.0
+@carbon/icons-react 	10.9.0, 10.49.0
+@carbon/layout			10.37.1
+@carbon/telemetry		0.1.0
 
 
-Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
@@ -229,163 +228,205 @@ Apache License
 END OF APACHE LICENSE 2.0 NOTICES AND INFORMATION
 =====================================================================
 
-=====================================================================
-START OF MIT LICENSE NOTICES AND INFORMATION
-=====================================================================
-
 MIT LICENSE
 
 The Program includes some or all of the following that IBM obtained 
 under the MIT License:
 
-
-async v3.2.3
+async 		3.2.4 
  Copyright (c) 2010-2018 Caolan McMahon
-axios v0.26.1
- Copyright (c) 2014-present Matt Zabriskie
-classnames v2.2.6
- Copyright (c) 2017 Jed Watson
-color v3.2.1
+asynckit 	0.4.0
+ Copyright (c) 2016 Alex Indigo
+axios 		1.3.4
+ Copyright (c) 2014-present Matt Zabriskie & Collaborators
+boolean		3.2.0
+ Copyright (c) 2014-2022 the native web.
+classnames 	2.3.1
+ Copyright (c) 2018 Jed Watson
+color 		3.2.1
  Copyright (c) 2012 Heather Arthur
-color-convert v1.9.3
+color-convert 	1.9.3
  Copyright (c) 2011-2016 Heather Arthur (fayearthur@gmail.com)
-color-name v1.1.3
+color-name		1.1.3
  Copyright (c) 2015 Dmitry Ivanov
-color-string v1.9.0
+color-string 	1.9.1
  Copyright (c) 2011 Heather Arthur <fayearthur@gmail.com>
-colors	v1.5.0
+colors		1.5.0
  - Copyright (c) Marak Squires
  - Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
  - Copyright (c) DABH (https://github.com/DABH)
-colorspace v1.1.4
+colorspace 	1.1.4
  Copyright (c) 2015 Arnout Kazemier, Martijn Swaagman, the Contributors.
-core-js v3.1.4
- Copyright (c) 2014-2019 Denis Pushkarev
-csstype v2.6.16
+combined-stream		1.0.8
+ Copyright (c) 2011 Debuggable Limited <felix@debuggable.com>
+compute-scroll-into-view	1.0.20
+ Copyright (c) 2022 Cody Olsen
+copy-to-clipboard	3.3.3
+ Copyright (c) 2017 sudodoki <smd.deluzion@gmail.com>
+@messageformat/core		3.1.0
+ Copyright OpenJS Foundation and contributors, https://openjsf.org/
+core-js 	3.29.1
+ Copyright (c) 2014-2023 Denis Pushkarev
+csstype 	3.1.1
  Copyright (c) 2017-2018 Fredrik Nicol
-debugadapter v1.54.0
- Copyright (c) Microsoft Corporation\r\n\r\nAll rights reserved.
-debugprotocol  v1.54.0
- Copyright (c) Microsoft Corporation\r\n\r\nAll rights reserved.
-diagnostics	v2.0.3
+@messageformat/date-skeleton 	1.0.1
+ Copyright OpenJS Foundation and contributors, https://openjsf.org/
+debug		4.3.4
+ Copyright (c) 2014-2017 TJ Holowaychuk <tj@vision-media.ca>
+ Copyright (c) 2018-2021 Josh Junon
+@vscode/debugadapter 	1.59.0
+ Copyright (c) Microsoft Corporation
+@vscode/debugprotocol 	1.59.0 
+ Copyright (c) Microsoft Corporation
+delayed-stream	1.0.0 
+ Copyright (c) 2011 Debuggable Limited <felix@debuggable.com>
+diagnostics 2.0.3
  Copyright (c) 2015 Arnout Kazemier, Martijn Swaagman, the Contributors.
-downshift v1.31.16
+downshift	5.2.1
  Copyright (c) 2017 PayPal
-enabled v2.0.0
+enabled 	2.0.0
  Copyright (c) 2015 Arnout Kazemier, Martijn Swaagman, the Contributors.
-fecha v4.2.1
+fecha 		4.2.3
  Copyright (c) 2015 Taylor Hakes
-file-stream-rotator v0.6.1
+file-stream-rotator 	0.6.1
  Copyright © 2022 Roger Castells
-flatpickr v4.6.1
+flatpickr 	4.6.1, 4.6.9
  Copyright (c) 2017 Gregory Petrosyan
-fn.name	1.1.0
+fn.name		1.1.0
  Copyright (c) 2015 Arnout Kazemier, Martijn Swaagman, the Contributors. 
-focus-trap v4.0.2
- Copyright (c) 2015-2016 David Clark
-focus-trap-react v6.0.0
- Copyright (c) 2015 David Clark
-follow-redirects v1.14.9
- Copyright 2014–present Olivier Lalonde <olalonde@gmail.com>, James Talmage <james@talmage.io>, Ruben Verborgh
-html-parse-stringify v3.0.1
-i18next v19.0.3
+follow-redirects 1.15.2
+ opyright 2014–present Olivier Lalonde <olalonde@gmail.com>, James Talmage <james@talmage.io>, Ruben Verborgh
+form-data	4.0.0
+ Copyright (c) 2012 Felix Geisendörfer (felix@debuggable.com) and contributors
+html-parse-stringify 	3.0.1
+i18n		0.15.1
+ Copyright (c) 2011-present Marcus Spiegel <marcus.spiegel@gmail.com>
+i18next 	19.9.2
  Copyright (c) 2017 i18next
-i18next v21.6.14
+i18next 	22.4.13
  Copyright (c) 2022 i18next
-i18next-browser-languagedetector v4.0.1
+i18next-browser-languagedetector 4.3.1
  Copyright (c) 2015 i18next
-invariant v2.2.4
+invariant 	2.2.4
  Copyright (c) 2013-present, Facebook, Inc.
-is-arrayish v0.3.2
+is-arrayish 0.3.2
  Copyright (c) 2015 JD Ballard
 is-stream v2.0.1
- Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
-js-tokens v4.0.0
+ Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com) 
+js-tokens 	4.0.0
  Copyright (c) 2014, 2015, 2016, 2017, 2018 Simon Lydell
-kuler v2.0.0
+kuler 		2.0.0
  Copyright 2014 Arnout Kazemier
-lodash.debounce v4.0.8
+lodash.debounce 4.0.8
  Copyright jQuery Foundation and other contributors (https://jquery.org/)', u'Copyright and related rights for sample code are waived via CC0. Sample
-lodash.isequal v4.5.0
- Copyright JS Foundation and other contributors (https://js.foundation/)', u'Copyright and related rights for sample code are waived via CC0. Sample
-lodash.omit v4.5.0
- Copyright jQuery Foundation and other contributors (https://jquery.org/)', u'Copyright and related rights for sample code are waived via CC0. Sample
-logform v2.4.0
+lodash.findlast	4.6.0
+ Copyright jQuery Foundation and other contributors <https://jquery.org/>
+lodash.isequal 	4.5.0
+ Copyright JS Foundation and other contributors <https://js.foundation/>
+lodash.omit 	4.5.0
+ Copyright jQuery Foundation and other contributors <https://jquery.org/>
+lodash.throttle	4.1.1
+ Copyright jQuery Foundation and other contributors <https://jquery.org/>
+logform 	2.5.1
  Copyright (c) 2017 Charlie Robbins & the Contributors.
 loose-envify v1.4.0
  Copyright (c) 2015 Andres Suarez (zertosh@gmail.com)
-mkdirp	v1.0.4
- Copyright James Halliday (mail@substack.net) and Isaac Z. Schlueter (i@izs.me)
-moment v2.29.4
+math-interval-parser	2.0.1
+ Copyright (c) Dmitry Semigradsky <semigradskyd@gmail.com> (https://github.com/Semigradsky)
+mime-db		1.52.0
+ Copyright (c) 2014 Jonathan Ong <me@jongleberry.com>
+ Copyright (c) 2015-2022 Douglas Christopher Wilson <doug@somethingdoug.com>
+mime-types 	2.1.35
+ Copyright (c) 2014 Jonathan Ong <me@jongleberry.com>
+ Copyright (c) 2015 Douglas Christopher Wilson <doug@somethingdoug.com>
+moment 	2.29.4
  Copyright (c) JS Foundation and other contributors
-ms v2.1.3
+ms 2.1.2
+ Copyright (c) 2016 Zeit, Inc.
+ms 2.1.3
  Copyright (c) 2020 Vercel, Inc.
-node	v12.7.12
- Copyright (c) Microsoft Corporation.
-object-assign v4.1.1
+mustache		4.2.0
+ Copyright (c) 2009 Chris Wanstrath (Ruby)
+ Copyright (c) 2010-2014 Jan Lehnardt (JavaScript)
+ Copyright (c) 2010-2015 The mustache.js community
+number-skeleton	1.1.0
+ Copyright OpenJS Foundation and contributors, https://openjsf.org/
+object-assign 	4.1.1
  Copyright (c) Sindre Sorhus (sindresorhus@gmail.com) (sindresorhus.com)
-object-hash v2.2.0
+object-hash 	2.2.0
  Copyright (c) 2014 object-hash contributors
-one-time v1.0.0
+one-time 		1.0.0
  Copyright (c) 2015 Unshift.io, Arnout Kazemier,  the Contributors.
-prop-types v15.7.2
+@messageformat/parser 5.0.0
+ Copyright OpenJS Foundation and contributors, https://openjsf.org/
+@types/prop-types 	15.7.5
+ Copyright (c) Microsoft Corporation.
+prop-types		15.8.1
  Copyright (c) 2013-present, Facebook, Inc.
-prop-types	v15.7.3
- Copyright (c) Microsoft Corporation. All rights reserved.
-react v16.8.6
+proxy-from-env	1.1.0
+ Copyright (C) 2016-2018 Rob Wu <rob@robwu.nl>
+react 			17.0.2
  Copyright (c) Facebook, Inc. and its affiliates.
-react	v16.8.20
- Copyright (c) Microsoft Corporation. All rights reserved.
-react-dom v16.8.6
+@types/react	17.0.53
+ Copyright (c) Microsoft Corporation.
+@types/react-dom	17.0.19
+ Copyright (c) Microsoft Corporation.
+react-dom		17.0.2
  Copyright (c) Facebook, Inc. and its affiliates.
-react-dom	v16.8.4
- Copyright (c) Microsoft Corporation. All rights reserved.
-react-i18next v11.14.3
- Copyright (c) 2021 i18next
-react-is v16.13.1
+react-i18next 	11.18.6
+ Copyright (c) 2022 i18next
+react-is 		16.13.1
  Copyright (c) Facebook, Inc. and its affiliates.
-readable-stream v3.6.0
- Copyright Node.js contributors. All rights reserved.', u'Copyright Joyent, Inc. and other Node contributors. All rights reserved.
-regenerator-runtime v0.13.7, v0.13.9
+react-is 		17.0.2 
+ Copyright (c) Facebook, Inc. and its affiliates.
+readable-stream 3.6.2
+ Copyright Node.js contributors. All rights reserved.
+regenerator-runtime 		0.13.11
  Copyright (c) 2014-present, Facebook, Inc.
-runtime v7.16.3, v7.17.7
+resize-observer-polyfill	1.5.1
+ Copyright (c) 2016 Denis Rul
+@messageformat/runtime 	3.0.1
+ Copyright OpenJS Foundation and contributors, https://openjsf.org/
+@babel/runtime			7.21.0 
  Copyright (c) 2014-present Sebastian McKenzie and other contributors
-safe-buffer v5.2.1
+safe-buffer 			5.2.1
  Copyright (c) Feross Aboukhadijeh
-safe-stable-stringify	v2.3.1
+safe-stable-stringify	2.4.3
  Copyright (c) Ruben Bridgewater
-scheduler v0.13.6
+@types/scheduler 	0.16.2
+ Copyright (c) Microsoft Corporation.
+scheduler			0.20.2
  Copyright (c) Facebook, Inc. and its affiliates.
-simple-swizzle v0.2.2
+simple-swizzle 		0.2.2
  Copyright (c) 2015 Josh Junon
-stack-trace v0.0.10
+stack-trace 		0.0.10
  Copyright (c) 2011 Felix Geisend\xf6rfer (felix@debuggable.com)
-string_decoder v1.3.0
- Copyright Node.js contributors. All rights reserved.', u'Copyright Joyent, Inc. and other Node contributors. All rights reserved.
-tabbable v3.1.2
- Copyright (c) 2015 David Clark
-text-hex v1.0.0
+string_decoder 		1.3.0
+ Copyright Node.js contributors. All rights reserved.
+text-hex 			1.0.0
  Copyright (c) 2014-2015 Arnout Kazemier (opensource@3rd-Eden.com)
+toggle-selection	1.0.6
 triple-beam v1.3.0
  Copyright (c) 2017 winstonjs
-util-deprecate v1.0.2
+@types/triple-beam 	1.3.2
+ Copyright (c) Microsoft Corporation.
+use-resize-observer	6.1.0
+ Copyright 2018 Viktor Hubert <rpgmorpheus@gmail.com>
+util-deprecate 	1.0.2
  Copyright (c) 2014 Nathan Rajlich (nathan@tootallnate.net)
-void-elements v3.1.0
+void-elements 	3.1.0
  Copyright (c) 2014 hemanth
-vscode-nls v4.1.2
- Copyright (c) Microsoft Corporation\n\nAll rights reserved.
-window-or-global v1.0.1
+vscode-nls 		5.2.0
+ Copyright (c) Microsoft Corporation
+window-or-global 1.0.1
  Copyright (c) Purpose Industries
-winston v3.6.0
+winston 		3.8.2
  Copyright (c) 2010 Charlie Robbins
-winston-daily-rotate-file v4.6.1
+winston-daily-rotate-file 	4.7.1
  Copyright (c) 2015 winstonjs
-winston-transport v4.5.0
+winston-transport 			4.5.0
  Copyright (c) 2015 Charlie Robbins & the contributors.
-xtend v4.0.2
- Copyright (c) 2012-2014 Raynos.
 
-MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -409,20 +450,16 @@ SOFTWARE.
 END OF MIT LICENSE NOTICES AND INFORMATION
 =====================================================================
 
-=====================================================================
-START OF BSD-3-CLAUSE LICENSE NOTICES AND INFORMATION
-=====================================================================
-
 BSD-3-Clause License
 
 The Program includes some or all of the following that IBM obtained 
 under the BSD-3-Clause License:
 
-warning v3.0.0
+moo			0.5.2
+fast-printf	1.6.9
+warning 	3.0.0
  Copyright (c) 2013-2015, Facebook, Inc.
 
-
-BSD-3-CLAUSE LICENSE
 
 All rights reserved.
 
@@ -454,22 +491,14 @@ ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF S
 END OF BSD-3-CLAUSE LICENSE NOTICES AND INFORMATION
 =====================================================================
 
-
-=====================================================================
-START OF ISC LICENSE NOTICES AND INFORMATION
-=====================================================================
-
 ISC License
 
 The Program includes some or all of the following that IBM obtained 
 under the ISC License: 
 
-await-notify v1.0.1
-
-inherits v2.0.4
- Copyright (c) Isaac Z. Schlueter
-
-ISC License
+await-notify	1.0.1
+inherits 		2.0.4
+safe-identifier	0.4.2
 
 Permission to use, copy, modify, and/or distribute this software for any
 purpose with or without fee is hereby granted, provided that the above
@@ -487,9 +516,64 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 END OF ISC LICENSE NOTICES AND INFORMATION
 =====================================================================
 
-End of Notices and Information for IBM Z Open Debug 2.4
+The Program includes some or all of the following that IBM obtained 
+under the Unicode License: 
+
+make-plural		7.2.0
+
+Copyright © Eemeli Aro <eemeli@gmail.com>
+Copyright © 1991-2020 Unicode, Inc. All rights reserved.
+Distributed under the Terms of Use in https://www.unicode.org/copyright.html.
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Unicode data files and any associated documentation
+(the "Data Files") or Unicode software and any associated documentation
+(the "Software") to deal in the Data Files or Software
+without restriction, including without limitation the rights to use,
+copy, modify, merge, publish, distribute, and/or sell copies of
+the Data Files or Software, and to permit persons to whom the Data Files
+or Software are furnished to do so, provided that either
+(a) this copyright and permission notice appear with all copies
+of the Data Files or Software, or
+(b) this copyright and permission notice appear in associated
+Documentation.
+
+THE DATA FILES AND SOFTWARE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF
+ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT OF THIRD PARTY RIGHTS.
+IN NO EVENT SHALL THE COPYRIGHT HOLDER OR HOLDERS INCLUDED IN THIS
+NOTICE BE LIABLE FOR ANY CLAIM, OR ANY SPECIAL INDIRECT OR CONSEQUENTIAL
+DAMAGES, OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE,
+DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER
+TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THE DATA FILES OR SOFTWARE.
+
+Except as contained in this notice, the name of a copyright holder
+shall not be used in advertising or otherwise to promote the sale,
+use or other dealings in these Data Files or Software without prior
+written authorization of the copyright holder.
+
+=====================================================================
+END OF Unicode LICENSE NOTICES AND INFORMATION
+=====================================================================
+
+This Program includes - wicg-inert	3.1.2
+
+IBM is required to provide to You the following notices and other important 
+information with respect to this component.
+
+All Reports in this Repository are licensed by Contributors
+under the
+[W3C Software and Document License](http://www.w3.org/Consortium/Legal/2015/copyright-software-and-document).
+
+Contributions to Specifications are made under the
+[W3C CLA](https://www.w3.org/community/about/agreements/cla/).
+
+=====================================================================
+End of Notices and Information for IBM Z Open Debug 3.0
 =======================================================================
 
-L/N: L-NEUJ-UBYYWV
-D/N: L-NEUJ-UBYYWV
-P/N: L-NEUJ-UBYYWV
+L/N: L-UMCA-X2GR57
+D/N: L-UMCA-X2GR57
+P/N: L-UMCA-X2GR57
