@@ -1,6 +1,6 @@
 NOTICES AND INFORMATION
 
-IBM Z Open Debug V3.0
+IBM Z Open Debug V3.1
 
 The IBM license agreement and any applicable information on the web
 download page for IBM products refers Licensee to this file for details
@@ -252,9 +252,9 @@ color-name		1.1.3
 color-string 	1.9.1
  Copyright (c) 2011 Heather Arthur <fayearthur@gmail.com>
 colors		1.5.0
- - Copyright (c) Marak Squires
- - Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
- - Copyright (c) DABH (https://github.com/DABH)
+ Copyright (c) Marak Squires
+ Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+ Copyright (c) DABH (https://github.com/DABH)
 colorspace 	1.1.4
  Copyright (c) 2015 Arnout Kazemier, Martijn Swaagman, the Contributors.
 combined-stream		1.0.8
@@ -295,7 +295,7 @@ flatpickr 	4.6.1, 4.6.9
 fn.name		1.1.0
  Copyright (c) 2015 Arnout Kazemier, Martijn Swaagman, the Contributors. 
 follow-redirects 1.15.2
- opyright 2014–present Olivier Lalonde <olalonde@gmail.com>, James Talmage <james@talmage.io>, Ruben Verborgh
+ Copyright 2014–present Olivier Lalonde <olalonde@gmail.com>, James Talmage <james@talmage.io>, Ruben Verborgh
 form-data	4.0.0
  Copyright (c) 2012 Felix Geisendörfer (felix@debuggable.com) and contributors
 html-parse-stringify 	3.0.1
@@ -406,7 +406,7 @@ string_decoder 		1.3.0
 text-hex 			1.0.0
  Copyright (c) 2014-2015 Arnout Kazemier (opensource@3rd-Eden.com)
 toggle-selection	1.0.6
-triple-beam v1.3.0
+triple-beam 		1.3.0
  Copyright (c) 2017 winstonjs
 @types/triple-beam 	1.3.2
  Copyright (c) Microsoft Corporation.
@@ -521,8 +521,8 @@ under the Unicode License:
 
 make-plural		7.2.0
 
-Copyright © Eemeli Aro <eemeli@gmail.com>
-Copyright © 1991-2020 Unicode, Inc. All rights reserved.
+  Copyright © Eemeli Aro <eemeli@gmail.com>
+  Copyright © 1991-2020 Unicode, Inc. All rights reserved.
 Distributed under the Terms of Use in https://www.unicode.org/copyright.html.
 
 Permission is hereby granted, free of charge, to any person obtaining
@@ -571,9 +571,9 @@ Contributions to Specifications are made under the
 [W3C CLA](https://www.w3.org/community/about/agreements/cla/).
 
 =====================================================================
-End of Notices and Information for IBM Z Open Debug 3.0
+End of Notices and Information for IBM Z Open Debug 3.1
 =======================================================================
 
-L/N: L-UMCA-X2GR57
-D/N: L-UMCA-X2GR57
-P/N: L-UMCA-X2GR57
+L/N: L-JXRE-BZYUBQ
+D/N: L-JXRE-BZYUBQ
+P/N: L-JXRE-BZYUBQ
