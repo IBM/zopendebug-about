@@ -1,7 +1,7 @@
 apiVersion: v2
 publisher: ibm
 name: zopendebug
-version: 3.1.1
+version: 3.1.2
 type: VS Code extension
 displayName: IBM Z Open Debug
 title: IBM Z Open Debug
@@ -9,8 +9,8 @@ description: Provides debug client support for IBM z/OS Debugger in VS Code and 
 icon: https://raw.githubusercontent.com/IBM/zopendebug-about/master/images/ibm-z-open-debug.svg
 repository: https://github.com/IBM/zopendebug-about.git
 category: Language
-firstPublicationDate: "2023-11-28"
+firstPublicationDate: "2024-02-06"
 spec:
   extensions:
-  - https://github.com/IBM/zopendebug-about/releases/download/3.1.1/zopendebug-3.1.1.vsix
-  - https://github.com/IBM/zopendebug-about/releases/download/3.1.1/zopendebug-profileui-3.1.1.vsix
+  - https://github.com/IBM/zopendebug-about/releases/download/3.1.2/zopendebug-3.1.2.vsix
+  - https://github.com/IBM/zopendebug-about/releases/download/3.1.2/zopendebug-profileui-3.1.2.vsix
