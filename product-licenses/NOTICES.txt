@@ -1,6 +1,6 @@
 NOTICES AND INFORMATION
 
-IBM Z Open Debug V4.0
+IBM Z Open Debug 4.1
 
 The IBM license agreement and any applicable information on the web
 download page for IBM products refers Licensee to this file for details
@@ -38,20 +38,33 @@ in this file.  For more information on the Apache Software Foundation, please
 see http://www.apache.org.
 
 
-@carbon/colors  			Copyright (c) 2015 IBM Corp
-@carbon/feature-flags   	Copyright (c) 2015 IBM Corp
-@carbon/grid    			Copyright (c) 2015 IBM Corp
-@carbon/icon-helpers    	Copyright (c) 2015 IBM Corp
-@carbon/icons-react  		Copyright (c) 2015 IBM Corp
-@carbon/layout	    		Copyright (c) 2015 IBM Corp
-log4js  					Copyright (c) 2015 Gareth Jones (with contributions from many other people)
-@carbon/motion  			Copyright (c) 2015 IBM Corp
-@carbon/react   			Copyright (c) 2015 IBM Corp
-@carbon/styles				Copyright (c) 2015 IBM Corp
-@carbon/telemetry   	
-@ibm/telemetry-js   
-@carbon/themes   			Copyright (c) 2015 IBM Corp
-@carbon/type    			Copyright (c) 2015 IBM Corp
+@carbon/colors						Copyright 2015 IBM Corp
+@carbon/feature-flags				Copyright 2015 IBM Corp
+@carbon/grid						Copyright 2015 IBM Corp
+@carbon/icon-helpers				Copyright 2015 IBM Corp
+@carbon/icons-react					Copyright 2015 IBM Corp
+@carbon/layout						Copyright 2015 IBM Corp
+@carbon/motion						Copyright 2015 IBM Corp
+@carbon/react						Copyright 2015 IBM Corp
+@carbon/styles						Copyright 2015 IBM Corp
+@carbon/telemetry		
+@carbon/themes						Copyright 2015 IBM Corp
+@carbon/type						Copyright 2015 IBM Corp
+@ibm/telemetry-js  				
+@pkgjs/parseargs	 	
+@sigstore/bundle 					Copyright 2023 The Sigstore Authors
+@sigstore/core	 					Copyright 2023 The Sigstore Authors
+@sigstore/protobuf-specs	 		Copyright 2023 The Sigstore Authors
+									Copyright 2022 The Sigstore Authors
+@sigstore/sign	 				 	Copyright 2023 The Sigstore Authors
+@sigstore/tuf	 		 			Copyright 2023 The Sigstore Authors
+@sigstore/verify	 	
+exponential-backoff	 	
+log4js								Copyright 2015 Gareth Jones (with contributions from many other people)
+sigstore	 			 			Copyright 2023 The Sigstore Authors
+spdx-correct	 		 			Copyright spdx-correct.js contributors
+validate-npm-package-license 	 	Copyright Kyle E. Mitchell
+
 
 
                            Version 2.0, January 2004
@@ -234,476 +247,199 @@ log4js  					Copyright (c) 2015 Gareth Jones (with contributions from many other
 END OF APACHE LICENSE 2.0 NOTICES AND INFORMATION
 =====================================================================
 
-MIT LICENSE
+Blue Oak Model License 1.0.0
 
 The Program includes some or all of the following that IBM obtained 
-under the MIT License:
+under the Blue Oak Model License 1.0.0:
 
-agent-base
-	Copyright (c) 2013 Nathan Rajlich <nathan@tootallnate.net>
-agentkeepalive
-	Copyright (c) node-modules and other contributors.
-	Copyright (c) 2012 - 2015 fengmk2 <fengmk2@gmail.com>
-aggregate-error
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-ansi-regex
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-ansi-styles	
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-argparse	
-	Copyright (c) 2012 by Vitaly Puzrin (https://github.com/puzrin)
-array-timsort	
-	Copyright (c) 2015 Marco Ziccardi
-asn1	
-	Copyright (c) 2011 Mark Cavage, All rights reserved
-asynckit	
-	Copyright (c) 2016 Alex Indigo
-axios	
-	Copyright (c) 2014 Matt Zabriskie & Collaborators
-balanced-match	
-	Copyright (c) 2013 Julian Gruber <julian@juliangruber.com>
-brace-expansion	
-	Copyright (c) 2013 Julian Gruber <julian@juliangruber.com>
-braces	
-	Copyright (c) 2014-2018 Jon Schlinkert
-	Copyright (c) 2019 [Jon Schlinkert](https://github.com/jonschlinkert)
-buildcheck
-	Copyright (c) Brian White.
-builtins	
-	Copyright (c) 2015 Julian Gruber <julian@juliangruber.com>
-camelcase	
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-chalk	
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-classnames	
-	Copyright (c) 2018 Jed Watson
-clean-stack	
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-cli-table3	
-	Copyright (c) 2010 LearnBoost <dev@learnboost.com>
-	Copyright (c) 2014 James Talmage <james.talmage@jrtechnical.com>
-color	
-	Copyright (c) 2012 Heather Arthur
-color-convert	
-	Copyright (c) 2011-2016 Heather Arthur and Josh Junon
-	Copyright (c) 2011-2016 Heather Arthur <fayearthur@gmail.com>
-color-name	
-	Copyright (c) 2015 Dmitry Ivanov
-colors	
-	Copyright (c) Marak Squires
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-@colors/colors	
-	Copyright (c) DABH (https://github.com/DABH)
-	Copyright (c) Marak Squires
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-color-string	
-	Copyright (c) 2011 Heather Arthur <fayearthur@gmail.com>
-combined-stream	
-	Copyright (c) 2011 Debuggable Limited <felix@debuggable.com>
-commander	
-	Copyright (c) 2011 TJ Holowaychuk <tj@vision-media.ca>
-comment-json	
-	Copyright (c) 2013 kaelzhang <>, contributors
-compute-scroll-into-view	
-	Copyright (c) 2023 Cody Olsen
-concat-map	
-	Copyright (c) James Halliday
-copy-to-clipboard	
-	Copyright (c) 2017 sudodoki <smd.deluzion@gmail.com>
-core-util-is	
-	Copyright (c) Node.js contributors
-cpu-features	
-	Copyright (c) Brian White
-cross-spawn	
-	Copyright (c) 2018 Made With MOXY Lda <hello@moxy.studio>
-csstype	
-	Copyright (c) 2017-2018 Fredrik Nicol
-dataobject-parser	
-	Copyright (c) 2014 Gigzolo Inc.
-date-format	
-	Copyright (c) 2013 Gareth Jones
-debug	
-	Copyright (c) 2017 TJ Holowaychuk <tj@vision-media.ca>
-	Copyright (c) 2021 Josh Junon
-@vscode/debugadapter	
-	Copyright (c) Microsoft Corporation
-@vscode/debugprotocol	
-	Copyright (c) Microsoft Corporation
-decamelize	
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-deepmerge	
-	Copyright (c) 2012 James Halliday, Josh Duff, and other contributors
-delayed-stream	
-	Copyright (c) 2011 Debuggable Limited <felix@debuggable.com>
-depd	
-	Copyright (c) 2014-2017 Douglas Christopher Wilson
-diff2html	
-	Copyright (c) 2014-2016 Rodrigo Fernandes https
-	Copyright (c) 2014 Rodrigo Fernandes
-diff-sequences	
-	Copyright (c) Facebook, Inc. and its affiliates
-downshift	
-  Copyright (c) 2017 PayPal
-emoji-regex	
-	Copyright (c) Mathias Bynens <https://mathiasbynens.be/>
-encoding	
-	Copyright (c) 2012-2014 Andris Reinman
-err-code	
-escape-string-regexp	
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-fastest-levenshtein	
-	Copyright (c) 2020 Kasper Unn Weihe
-fast-glob	
-	Copyright (c) Denis Malinochkin
-fill-range	
-	Copyright (c) 2014 Jon Schlinkert
-	Copyright (c) 2019 Jon Schlinkert (https://github.com/jonschlinkert)
-find-process	
-	Copyright (c) 2016 Zoujie
-find-up	
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-flatpickr	
-	Copyright (c) 2017 Gregory Petrosyan
-follow-redirects	
-	Copyright (c) 2014 Olivier Lalonde <olalonde@gmail.com>, James Talmage <james@talmage.io>, Ruben Verborgh
-form-data	
-	Copyright (c) 2012 Felix Geisendörfer (felix@debuggable.com) and contributors
-@nodelib/fs.scandir	
-	Copyright (c) Denis Malinochkin
-@nodelib/fs.stat	
-	Copyright (c) Denis Malinochkin
-@nodelib/fs.walk	
-	Copyright (c) Denis Malinochkin
-fs-extra	
-	Copyright (c) 2011-2017 JP Richardson
-get-stream	
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
-handlebars	
-	Copyright (c) 2011-2019 by Yehuda Katz
-has-flag	
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-has-own-prop	
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-@types/hoist-non-react-statics	
-	Copyright (c) Microsoft Corporation
-html-parse-stringify	
-http-proxy-agent	
-	Copyright (c) 2013 Nathan Rajlich <nathan@tootallnate.net>
-https-proxy-agent	
-	Copyright (c) 2013 Nathan Rajlich <nathan@tootallnate.net>
-humanize-ms	
-i18next	
-	Copyright (c) 2017 i18next
-i18next	
-	Copyright (c) 2022 i18next
-i18next-browser-languagedetector	
-	Copyright (c) 2015 i18next
-iconv-lite	
-	Copyright (c) 2011 Alexander Shtuchkin
-immer	
-	Copyright (c) 2017 Michel Weststrate
-imurmurhash	
-	Copyright (c) 2013 Gary Court, Jens Taylor
-indent-string	
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-invariant	
-	Copyright (c) 2013 Facebook, Inc
-ip-address	
-	Copyright (c) 2011 by Beau Gunderson
-is-arrayish	
-	Copyright (c) 2015 JD Ballard
-is-extglob	
-	Copyright (c) 2016 Jon Schlinkert (https://github.com/jonschlinkert)
-	Copyright (c) 2014-2016 Jon Schlinkert
-is-fullwidth-code-point	
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-is-glob	
-	Copyright (c) 2019 Jon Schlinkert (https://github.com/jonschlinkert)
-	Copyright (c) 2014-2017 Jon Schlinkert
-is-lambda	
-	Copyright (c) 2016-2017 Thomas Watson Steen
-is-number	
-	Copyright (c) 2018 Jon Schlinkert (https://github.com/jonschlinkert)
-	Copyright (c) 2014 Jon Schlinkert
-jest-diff	
-	Copyright (c) Facebook, Inc. and its affiliates
-jest-get-type	
-	Copyright (c) Facebook, Inc. and its affiliates
-jsbn	
-	Copyright (c) 2003-2005  Tom Wu
-jsonfile	
-	Copyright (c) 2012-2015 JP Richardson <jprichardson@gmail.com>
-	Copyright (c) 2012-2016 JP Richardson  <jprichardson@gmail.com>
-jsonparse	
-	Copyright (c) 2011-2012 Tim Caswell
-	Copyright (c) 2012 Tim Caswell
-json-parse-even-better-errors	
-	Copyright (c) npm, Inc
-	Copyright (c) 2017 Kat Marchán
-jsonschema	
-	Copyright (c) 2012-2015 Tom de Grunt <tom@degrunt.nl>
-js-tokens	
-	Copyright (c) 2014-2015 2016, 2017, 2018 Simon Lydell
-js-yaml	
-	Copyright (c) 2011-2015 by Vitaly Puzrin
-linkify-it	
-	Copyright (c) 2015 Vitaly Puzrin
-locate-path	
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-lodash.debounce	
-	Copyright (c) jQuery Foundation and other contributors <https://jquery.org/>
-lodash.findlast	
-	Copyright (c) 2009-2016 Jeremy Ashkenas,
-	Copyright (c) jQuery Foundation and other contributors <https://jquery.org/>
-	Copyright (c) 2012-2016 The Dojo Foundation <http://dojofoundation.org/>"
-lodash.isequal	
-	Copyright (c) 2023 JS Foundation
-lodash.omit	
-	Copyright (c) 2009-2016 Jeremy Ashkenas,
-	Copyright (c) jQuery Foundation and other contributors <https://jquery.org/>
-	Copyright (c) 2012-2016 The Dojo Foundation <http://dojofoundation.org/>"
-lodash.throttle	
-	Copyright (c) jQuery Foundation and other contributors <https://jquery.org/>
-lodash	
-	Copyright (c) jQuery Foundation and other contributors <https://jquery.org/>
-lodash-deep	
-	Copyright (c) 2014-2016 Mark Lagendijk
-loose-envify	
-	Copyright (c) 2015 Andres Suarez <zertosh@gmail.com>
-markdown-it	
-	Copyright (c) 2014 Vitaly Puzrin, Alex Kocharin
-mdurl	
-	Copyright (c) 2015 Vitaly Puzrin, Alex Kocharin
-merge2	
-	Copyright (c) 2014-2020 Teambition
-micromatch	
-	Copyright (c) 2021 Jon Schlinkert (https://github.com/jonschlinkert)
-	Copyright (c) 2014 Jon Schlinkert
-mime-db	
-	Copyright (c) 2014 Jonathan Ong <me@jongleberry.com>
-	Copyright (c) 2015-2022 Douglas Christopher Wilson <doug@somethingdoug.com>
-mime-types	
-	Copyright (c) 2014 Jonathan Ong <me@jongleberry.com>
-	Copyright (c) 2015 Douglas Christopher Wilson <doug@somethingdoug.com>
-minimist	
-minipass-fetch	
-	Copyright (c) Isaac Z. Schlueter and Contributors
-	Copyright (c) 2016 David Frank
-minipass-json-stream	
-	Copyright (c) 2011 Dominic Tarr
-	Copyright (c) Isaac Z
-minizlib	
-	Copyright (c) Isaac Z. Schlueter and Contributors
-	Copyright (c) Node.js contributors. All rights reserved.
-	Copyright (c) Joyent, Inc. and other Node contributors. All rights reserved.
-mkdirp	
-	Copyright (c) James Halliday (mail@substack.net) and Isaac Z
-@npmcli/move-file	
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
-	Copyright (c) npm, Inc.
-ms	
-	Copyright (c) 2016 Zeit, Inc.
-mustache	
-	Copyright (c) 2010-2015 The mustache.js community
-	Copyright (c) 2009 Chris Wanstrath (Ruby)	
-	Copyright (c) 2010-2014 Jan Lehnardt (JavaScript)
-nan	
-	Copyright (c) 2018 NAN contributors (https://github.com/nodejs/nan#wg-members--collaborators)
-neo-async	
-	Copyright (c) 2014-2018 Suguru Motegi
-	Copyright (c) Caolan McMahon
-object-assign	
-	Copyright (c) Sindre Sorhus (sindresorhus@gmail.com) (sindresorhus.com)
-@tootallnate/once	
-opener	
-	Copyright (c) 2012-2020 Domenic Denicola <d@domenic.me>
-	Copyright (c) 2004 Sam Hocevar <sam@hocevar.net>
-path-exists	
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-path-is-absolute	
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-path-key	
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-picomatch	
-	Copyright (c) 2017 Jon Schlinkert (https://github.com/jonschlinkert)
-p-limit	
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-p-locate	
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-p-map	
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
-pretty-format	
-	Copyright (c) Facebook, Inc. and its affiliates
-prettyjson	
-	Copyright (c) 2011 Rafael de Oleza <rafeca@gmail.com>
-progress	
-	Copyright (c) 2017 TJ Holowaychuk <tj@vision-media.ca>
-promise-retry	
-	Copyright (c) 2014 IndigoUnited
-@gar/promisify	
-	Copyright (c) 2020-2022 Michael Garvin
-@types/prop-types	
-	Copyright (c) Microsoft Corporation.
-prop-types	
-	Copyright (c) 2013-present, Facebook, Inc.
-proxy-from-env	
-	Copyright (c) 2016-2018 Rob Wu <rob@robwu.nl>
-p-try	
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-queue-microtask	
-	Copyright (c) Feross Aboukhadijeh
-react	
-	Copyright (c) Facebook, Inc. and its affiliates
-@types/react	
-	Copyright (c) Microsoft Corporation
-react-dom	
-	Copyright (c) Facebook, Inc. and its affiliates
-react-i18next	
-	Copyright (c) 2022 i18next
-react-is	
-	Copyright (c) Facebook, Inc. and its affiliates.
-react-redux	
-	Copyright (c) 2015 Dan Abramov
-readline-sync	
-	Copyright (c) 2019 anseki
-redux	
-	Copyright (c) 2015 Dan Abramov
-redux-thunk
-	Copyright (c) 2015 Dan Abramov
-regenerator-runtime	
-   Copyright (c) 2014 Facebook, Inc.
-repeat-string	
-	Copyright (c) 2014-2015 Jon Schlinkert
-	Copyright (c) 2014-2016 Jon Schlinkert
-	Copyright (c) 2016 Jon Schlinkert (http://github.com/jonschlinkert)
-require-directory	
-	Copyright (c) 2011 Troy Goode <troygoode@gmail.com>
-reselect	
-	Copyright (c) 2015-2018 Reselect Contributors
-resize-observer-polyfill	
-	Copyright (c) 2016 Denis Rul
-retry	
-	Copyright (c) (c) 2011: Tim Koschützki (tim@debuggable.com), Felix Geisendörfer (felix@debuggable.com)
-reusify	
-	Copyright (c) 2015 Matteo Collina
-rfdc	
-	Copyright (c) 2019 David Mark Clements <david.mark.clements@gmail.com>
-run-parallel	
-	Copyright (c) Feross Aboukhadijeh
-@babel/runtime	
-	Copyright (c) 2014 Sebastian McKenzie and other contributors
-safer-buffer	
-	Copyright (c) 2018 Nikita Skovoroda <chalkerx@gmail.com>
-@types/scheduler	
-	Copyright (c) Microsoft Corporation
-scheduler	
-	Copyright (c) Facebook, Inc. and its affiliates
-shebang-command	
-	Copyright (c) Kevin Mårtensson <kevinmartensson@gmail.com> (github.com/kevva)
-shebang-regex	
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-simple-swizzle	
-	Copyright (c) 2015 Josh Junon
-smart-buffer	
-	Copyright (c) 2013-2017 Josh Glazebrook
-socks	
-	Copyright (c) 2013 Josh Glazebrook
-socks-proxy-agent	
-	Copyright (c) 2013 Nathan Rajlich <nathan@tootallnate.net>
-ssh2	
-	Copyright (c) Brian White
-stack-trace	
-	Copyright (c) 2011 Felix Geisendörfer (felix@debuggable.com)
-streamroller	
-	Copyright (c) 2013 Gareth Jones
-string-width	
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-strip-ansi	
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-supports-color	
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-toggle-selection	
-	Copyright (c) 2017.0 sudodoki
-@reduxjs/toolkit	
-	Copyright (c) 2018 Mark Erikson
-to-regex-range	
-	Copyright (c) 2015 Jon Schlinkert
-	Copyright (c) 2019 Jon Schlinkert (https://github.com/jonschlinkert)
-uc.micro	
-	Copyright (c) Mathias Bynens <https://mathiasbynens.be/>
-underscore	
-	Copyright (c) 2009-2022 Jeremy Ashkenas
-universalify	
-	 Copyright (c) 2017 Ryan Zimmerman <opensrc@ryanzim.com>
-use-resize-observer
-	Copyright (c) 2018 Viktor Hubert <rpgmorpheus@gmail.com>
-@types/use-sync-external-store
-	Copyright (c) Microsoft Corporation
-use-sync-external-store
-	Copyright (c) Facebook, Inc. and its affiliates
-uuid	
-	Copyright (c) 2010-2020 Robert Kieffer and other contributors
-void-elements	
-	Copyright (c) 2014 hemanth
-@types/vscode	
-	Copyright (c) Microsoft Corporation
-window-or-global	
-	Copyright (c) Purpose Industries
-wordwrap	
-wrap-ansi	
-	Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
-yamljs	
-	Copyright (c) 2010 Jeremy Faivre
-yargs	
-	Copyright (c) 2010 James Halliday (mail@substack.net)
-	Copyright (c) 2014 Contributors (ben@npmjs.com)
-@types/yargs	
-	Copyright (c) Microsoft Corporation
-@types/yargs-parser	
-	Copyright (c) Microsoft Corporation
-zod	
-	Copyright (c) 2020 Colin McDonnell
-	
+jackspeak	
+path-scurry	
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Blue Oak Model License
+Version 1.0.0
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Purpose
+
+This license gives everyone as much permission to work with
+this software as possible, while protecting contributors
+from liability.
+
+Acceptance
+
+In order to receive this license, you must agree to its
+rules.  The rules of this license are both obligations
+under that agreement and conditions to your license.
+You must not do anything with this software that triggers
+a rule that you cannot or will not follow.
+
+Copyright
+
+Each contributor licenses you to do everything with this
+software that would otherwise infringe that contributor's
+copyright in it.
+
+Notices
+
+You must ensure that everyone who gets a copy of
+any part of this software from you, with or without
+changes, also gets the text of this license or a link to
+<https://blueoakcouncil.org/license/1.0.0>.
+
+Excuse
+
+If anyone notifies you in writing that you have not
+complied with [Notices](#notices), you can keep your
+license by taking all practical steps to comply within 30
+days after the notice.  If you do not do so, your license
+ends immediately.
+
+Patent
+
+Each contributor licenses you to do everything with this
+software that would otherwise infringe any patent claims
+they can license or become able to license.
+
+Reliability
+
+No contributor can revoke this license.
+
+No Liability
+
+As far as the law allows, this software comes as is,
+without any warranty or condition, and no contributor
+will be liable to anyone for any damages related to this
+software or this license, under any kind of legal claim.
 
 =====================================================================
-END OF MIT LICENSE NOTICES AND INFORMATION
+END OF Blue Oak Model License 1.0.0 NOTICES AND INFORMATION
+=====================================================================
+
+BSD ZERO LICENSE
+
+The Program includes some or all of the following that IBM obtained under the 0BSD License:
+ 
+tslib		  	Copyright Microsoft Corporation.
+	
+Permission to use, copy, modify, and/or distribute this software for any\
+purpose with or without fee is hereby granted.
+
+THE SOFTWARE IS PROVIDED \"AS IS\" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THIS SOFTWARE.
+
+=====================================================================
+END OF BSD ZERO LICENSE NOTICES AND INFORMATION
+=====================================================================
+
+BSD-2-Clause License
+
+The Program includes some or all of the following that IBM obtained 
+under the BSD-2-Clause License:
+
+entities					Copyright Felix Böhm
+esprima				 		Copyright JS Foundation and other contributors, https://js.foundation/
+http-cache-semantics	 	Copyright 2016-2018 Kornel Lesi
+normalize-package-data 	 	Copyright 2013 Meryn Stol
+npm-install-checks		 	Copyright Robert Kowalski and Isaac Z. Schlueter ("Authors")
+uglify-js					Copyright 2012-2019 Mihai Bazon <mihai.bazon@gmail.com>
+
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+=====================================================================
+END OF BSD-2-CLAUSE LICENSE NOTICES AND INFORMATION
+=====================================================================
+
+BSD-3-Clause License
+
+The Program includes some or all of the following that IBM obtained 
+under the BSD-3-Clause License:
+
+bcrypt-pbkdf	  	
+	Copyright 2016 Joyent Inc
+	Copyright 2013 Ted Unangst <tedu@openbsd.org>		
+	Copyright 1997 Niels Provos <provos@physnet.uni-hamburg.de>
+diff			   			Copyright 2009-2015 Kevin Decker <kpdecker@gmail.com>
+highlight.js	  			Copyright 2006 Ivan Sagalaev
+hoist-non-react-statics	  	Copyright 2015 Yahoo!
+source-map		  			Copyright 2009-2011 Mozilla Foundation and contributors
+sprintf-js	 	 		 	Copyright 2014 Alexandru Marasteanu
+sprintf-js	 			 	Copyright 2007 Alexandru Mărășteanu <hello@alexei.ro>
+wontache		
+
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, is permitted 
+provided that the following conditions are met:
+
+    Redistributions of source code must retain the above copyright notice, this list of 
+    conditions and the following disclaimer.
+
+    Redistributions in binary form must reproduce the above copyright notice, this list of 
+    conditions and the following disclaimer in the documentation and/or other materials 
+    provided with the distribution.
+
+    Neither the name of the <ORGANIZATION> nor the names of its contributors may be used 
+    to endorse or promote products derived from this software without specific prior written 
+    permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS 
+OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY 
+AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR 
+CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL 
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, 
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, 
+WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN 
+ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+=====================================================================
+END OF BSD-3-CLAUSE LICENSE NOTICES AND INFORMATION
 =====================================================================
 
 Eclipse Public License
+
 The Program contains open source software obtained from the Eclipse Foundation (herein collectively referred to as "Eclipse Code"). Notices and important information, including instructions for obtaining source code, for the Eclipse Code may be found in associated "about.html" files ("About Files") that accompany the Eclipse Code. These About Files are provided for informational purposes only, and notwithstanding anything to the contrary therein, your use of such Eclipse Code shall be governed by the terms of the IBM end user license agreement.
 
-@zowe/cli					
-@zowe/core-for-zowe-sdk		
-@zowe/imperative			
+@zowe/cli						
+@zowe/core-for-zowe-sdk			
+@zowe/imperative				
 @zowe/provisioning-for-zowe-sdk	
-@zowe/secrets-for-zowe-sdk	
+@zowe/secrets-for-zowe-sdk		
 @zowe/zos-console-for-zowe-sdk	
 @zowe/zos-files-for-zowe-sdk	
-@zowe/zos-jobs-for-zowe-sdk	
-@zowe/zos-logs-for-zowe-sdk	
-@zowe/zosmf-for-zowe-sdk	
-@zowe/zos-tso-for-zowe-sdk	
-@zowe/zos-uss-for-zowe-sdk	
+@zowe/zos-jobs-for-zowe-sdk		
+@zowe/zos-logs-for-zowe-sdk		
+@zowe/zosmf-for-zowe-sdk		
+@zowe/zos-tso-for-zowe-sdk		
+@zowe/zos-uss-for-zowe-sdk	 	
 @zowe/zos-workflows-for-zowe-sdk	
-@zowe/zowe-explorer-api		
+@zowe/zowe-explorer-api			
 
 
 Eclipse Public License - v 2.0
@@ -791,190 +527,81 @@ THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS ECLIPSE PUBLIC LICE
 END OF Eclipse 2.0 LICENSE NOTICES AND INFORMATION
 =====================================================================
 
-
-BSD ZERO LICENSE
-
-The Program includes some or all of the following that IBM obtained under the 0BSD License:
- tslib	
-	Copyright (c) Microsoft Corporation.
-	
-Permission to use, copy, modify, and/or distribute this software for any\
-purpose with or without fee is hereby granted.
-
-THE SOFTWARE IS PROVIDED \"AS IS\" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
-REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
-AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
-INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
-LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
-OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
-PERFORMANCE OF THIS SOFTWARE.
-
-=====================================================================
-END OF BSD ZERO LICENSE NOTICES AND INFORMATION
-=====================================================================
-
-BSD-2-Clause License
-
-The Program includes some or all of the following that IBM obtained 
-under the BSD-2-Clause License:
-
-entities		
-	Copyright (c) Felix Böhm
-esprima			
-	Copyright (c) JS Foundation and other contributors, https://js.foundation/
-http-cache-semantics	
-	Copyright (c) 2016-2018 Kornel Lesi
-npm-install-checks	
-	Copyright (c) Robert Kowalski and Isaac Z. Schlueter ("Authors")
-uglify-js		
-	Copyright (c) 2012-2019 (c) Mihai Bazon <mihai.bazon@gmail.com>
-
-All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
-
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
-
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-=====================================================================
-END OF BSD-2-CLAUSE LICENSE NOTICES AND INFORMATION
-=====================================================================
-
-BSD-3-Clause License
-
-The Program includes some or all of the following that IBM obtained 
-under the BSD-3-Clause License:
-
-bcrypt-pbkdf	
-	Copyright (c) 2016 Joyent Inc
-	Copyright (c) 2013 Ted Unangst <tedu@openbsd.org>		
-	Copyright (c) 1997 Niels Provos <provos@physnet.uni-hamburg.de>
-diff		
-	Copyright (c) 2009-2015 Kevin Decker <kpdecker@gmail.com>
-highlight.js	
-	Copyright (c) 2006 Ivan Sagalaev
-hoist-non-react-statics
-	Copyright (c) 2015 Yahoo!
-source-map		
-	Copyright (c) 2009-2011 Mozilla Foundation and contributors
-sprintf-js	
-	Copyright (c) 2014 Alexandru Marasteanu
-sprintf-js	 
-	Copyright (c) 2007 Alexandru Mărășteanu <hello@alexei.ro>
-wontache	
-
-All rights reserved.
-
-Redistribution and use in source and binary forms, with or without modification, is permitted 
-provided that the following conditions are met:
-
-    Redistributions of source code must retain the above copyright notice, this list of 
-    conditions and the following disclaimer.
-
-    Redistributions in binary form must reproduce the above copyright notice, this list of 
-    conditions and the following disclaimer in the documentation and/or other materials 
-    provided with the distribution.
-
-    Neither the name of the <ORGANIZATION> nor the names of its contributors may be used 
-    to endorse or promote products derived from this software without specific prior written 
-    permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS 
-OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY 
-AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR 
-CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL 
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, 
-DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, 
-WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN 
-ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-
-=====================================================================
-END OF BSD-3-CLAUSE LICENSE NOTICES AND INFORMATION
-=====================================================================
-
 ISC License
 
 The Program includes some or all of the following that IBM obtained 
 under the ISC License: 
 
-cacache						Copyright (c) npm, Inc
-chownr	        			Copyright (c) Isaac Z. Schlueter and Contributors
-@npmcli/ci-detect	 		Copyright (c) npm, Inc
-cliui	 					Copyright (c) 2015 Contributors
-fastq	 					Copyright (c) 2015-2020 Matteo Collina <matteo.collina@gmail.com>
-flatted	   					Copyright (c) 2018-2020 Andrea Giammarchi
-@npmcli/fs	 				Copyright (c) npm, Inc
-fs.realpath	 				Copyright (c) Isaac Z. Schlueter and Contributors
-fs-minipass	 				Copyright (c) Isaac Z. Schlueter and Contributors
-get-caller-file	 			Copyright (c) 2018 Stefan Penner
-@npmcli/git	 				Copyright (c) npm, Inc
-glob	 					Copyright (c) Isaac Z. Schlueter and Contributors
-glob-parent	 				Copyright (c) 2015-2019 Elan Shanker
-graceful-fs	   				Copyright (c) Isaac Z. Schlueter, Ben Noordhuis, and Contributors
-hosted-git-info	            Copyright (c) 2015 Rebecca Turner	
-ignore-walk	 				Copyright (c) Isaac Z. Schlueter and Contributors
-infer-owner	 				Copyright (c) npm, Inc. and Contributors
-inflight	  				Copyright (c) Isaac Z. Schlueter
-inherits	  				Copyright (c) Isaac Z. Schlueter
-@npmcli/installed-package-contents	   	Copyright (c) npm, Inc
-isexe	 					Copyright (c) Isaac Z. Schlueter and Contributors
-lru-cache	 		  		Copyright (c) Isaac Z. Schlueter and Contributors
-lru-cache	    			Copyright (c) 2010-2023 Isaac Z. Schlueter and Contributors
-make-fetch-happen	 		Copyright (c) npm, Inc
-minimatch	 				Copyright (c) Isaac Z. Schlueter and Contributors
-minimatch	 				Copyright (c) 2011-2022 Isaac Z. Schlueter and Contributors
-minipass	 				Copyright (c) 2017-2022 npm, Inc
-minipass	   				Copyright (c) 2017-2023 npm, Inc
-minipass-collect	   		Copyright (c) Isaac Z. Schlueter and Contributors
-minipass-flush	 			Copyright (c) Isaac Z. Schlueter and Contributors
-minipass-pipeline	   		Copyright (c) Isaac Z. Schlueter and Contributors
-minipass-sized	  			Copyright (c) Isaac Z. Schlueter and Contributors
-mute-stream	   				Copyright (c) Isaac Z. Schlueter and Contributors
-npm-bundled	   				Copyright (c) npm, Inc. and Contributors
-npm-normalize-package-bin	Copyright (c) npm, Inc.
-npm-package-arg	   			Copyright (c) npm, Inc.
-npm-packlist	   			Copyright (c) Isaac Z. Schlueter and Contributors
-npm-pick-manifest	 		Copyright (c) npm, Inc.
-npm-registry-fetch	  		Copyright (c) npm, Inc.
-once	   					Copyright (c) Isaac Z. Schlueter and Contributors
-pacote	 					Copyright (c) Isaac Z. Schlueter, Kat Marchán, npm, Inc., and Contributors
-proc-log	   				Copyright (c) GitHub, Inc.
-promise-inflight	   		Copyright (c) 2017 Rebecca Turner <me@re-becca.org>	
-@npmcli/promise-spawn	 	Copyright (c) npm, Inc.
-read	  					Copyright (c) Isaac Z. Schlueter and Contributors
-read-package-json-fast	 	Copyright (c) npm, Inc. and Contributors
-require-main-filename	   	Copyright (c) 2016 Contributors
-rimraf	 		  			Copyright (c) npm, Inc. and Contributors
-semver	 		  			Copyright (c) Isaac Z. Schlueter and Contributors
-set-blocking	  			Copyright (c) 2016 Contributors
-ssri	   					Copyright (c) npm, Inc.
-tar	   						Copyright (c) Isaac Z. Schlueter and Contributors
-unique-filename	   			Copyright (c) npm, Inc.
-unique-slug	  				Copyright (c) npm, Inc.
-validate-npm-package-name	Copyright (c) 2015 npm, Inc.
-which	 					Copyright (c) Isaac Z. Schlueter and Contributors
-which-module	   			Copyright (c) 2016 Contributors
-wrappy	  					Copyright (c) Isaac Z. Schlueter and Contributors
-y18n	   					Copyright (c) 2015 Contributors
-yallist	 		  			Copyright (c) Isaac Z. Schlueter and Contributors
-yargs-parser	 	  		Copyright (c) 2016 Contributors
+@isaacs/cliui	 			Copyright 2015 Contributors
+@npmcli/agent	 	
+@npmcli/fs		 			Copyright npm, Inc
+@npmcli/git		 			Copyright npm, Inc
+@npmcli/installed-package-contents	   	Copyright npm, Inc
+@npmcli/node-gyp 		  	
+@npmcli/package-json	  	Copyright GitHub Inc.
+@npmcli/promise-spawn	 	Copyright npm, Inc.
+@npmcli/run-script		 	Copyright npm, Inc.
+
+cacache			 			Copyright npm, Inc
+chownr						Copyright Isaac Z. Schlueter and Contributors
+cliui			 			Copyright 2015 Contributors
+fastq			 			Copyright 2015-2020 Matteo Collina <matteo.collina@gmail.com>
+flatted			 			Copyright 2018-2020 Andrea Giammarchi
+foreground-child	  		Copyright 2015-2023 Isaac Z. Schlueter and Contributors
+fs.realpath		 			Copyright Isaac Z. Schlueter and Contributors
+fs-minipass					Copyright Isaac Z. Schlueter and Contributors
+get-caller-file	 			Copyright 2018 Stefan Penner
+glob						Copyright Isaac Z. Schlueter and Contributors
+glob-parent		 			Copyright 2015-2019 Elan Shanker
+graceful-fs		 			Copyright Isaac Z. Schlueter, Ben Noordhuis, and Contributors
+hosted-git-info			  	Copyright 2015 Rebecca Turner	
+ignore-walk		 			Copyright Isaac Z. Schlueter and Contributors
+inflight		  			Copyright Isaac Z. Schlueter
+inherits		  			Copyright Isaac Z. Schlueter
+isexe			 			Copyright Isaac Z. Schlueter and Contributors
+isexe			   			Copyright 2016-2022 Isaac Z. Schlueter and Contributors
+lru-cache 			  		Copyright Isaac Z. Schlueter and Contributors
+lru-cache				 	Copyright 2010-2023 Isaac Z. Schlueter and Contributors
+make-fetch-happen			Copyright npm, Inc
+minimatch		 			Copyright Isaac Z. Schlueter and Contributors
+minimatch		 			Copyright 2011-2022 Isaac Z. Schlueter and Contributors
+minimatch		 			Copyright 2011-2023 Isaac Z. Schlueter and Contributors
+minipass		 			Copyright 2017-2022 npm, Inc
+minipass		 			Copyright 2017-2023 npm, Inc
+minipass-collect	   		Copyright Isaac Z. Schlueter and Contributors
+minipass-flush	 			Copyright Isaac Z. Schlueter and Contributors
+minipass-pipeline	   		Copyright Isaac Z. Schlueter and Contributors
+minipass-sized	 			Copyright Isaac Z. Schlueter and Contributors
+mute-stream		   			Copyright Isaac Z. Schlueter and Contributors
+nopt			  			Copyright Isaac Z. Schlueter and Contributors
+npm-bundled		   			Copyright npm, Inc. and Contributors
+npm-normalize-package-bin	Copyright npm, Inc.
+npm-package-arg	 		 	Copyright npm, Inc.
+npm-packlist	   			Copyright Isaac Z. Schlueter and Contributors
+npm-pick-manifest	 		Copyright npm, Inc.
+npm-registry-fetch	  		Copyright npm, Inc.
+once			 			Copyright Isaac Z. Schlueter and Contributors
+pacote			 	  		Copyright Isaac Z. Schlueter, Kat Marchán, npm, Inc., and Contributors
+proc-log		 			Copyright GitHub, Inc.
+promise-inflight	   		Copyright 2017 Rebecca Turner <me@re-becca.org>	
+read			  			Copyright Isaac Z. Schlueter and Contributors
+read-package-json	  		Copyright Isaac Z. Schlueter
+read-package-json-fast	 	Copyright npm, Inc. and Contributors
+require-main-filename	   	Copyright 2016 Contributors
+semver			 		  	Copyright Isaac Z. Schlueter and Contributors
+set-blocking	  			Copyright 2016 Contributors
+signal-exit	 	  			Copyright 2015-2023 Benjamin Coe
+ssri			  			Copyright npm, Inc.
+tar				  			Copyright Isaac Z. Schlueter and Contributors
+unique-filename	   			Copyright npm, Inc.
+unique-slug		 			Copyright npm, Inc.
+validate-npm-package-name	Copyright 2015 npm, Inc.
+which			 			Copyright Isaac Z. Schlueter and Contributors
+which-module	   			Copyright 2016 Contributors
+wrappy	 		   			Copyright Isaac Z. Schlueter and Contributors
+y18n	 		   			Copyright 2015 Contributors
+yallist	 		 			Copyright Isaac Z. Schlueter and Contributors
+yargs-parser	 	 		Copyright 2016 Contributors
 
 
 Permission to use, copy, modify, and/or distribute this software for any
@@ -992,13 +619,312 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 =====================================================================
 END OF ISC LICENSE NOTICES AND INFORMATION
 =====================================================================
+
+MIT LICENSE
+
+The Program includes some or all of the following that IBM obtained 
+under the MIT License:
+
+@babel/runtime					Copyright 2014 Sebastian McKenzie and other contributors
+@colors/colors		 			Copyright DABH (https://github.com/DABH)
+								Copyright Marak Squires
+								Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+@hookform/resolvers 		 	Copyright 2019 Beier(Bill) Luo
+@nodelib/fs.scandir	 			Copyright Denis Malinochkin
+@nodelib/fs.stat	 		 	Copyright Denis Malinochkin
+@nodelib/fs.walk	 		 	Copyright Denis Malinochkin
+@reduxjs/toolkit			 	Copyright 2018 Mark Erikson
+@tufjs/canonical-json		 	Copyright 2022 GitHub and the TUF Contributors
+@tufjs/models	 				Copyright 2022 GitHub and the TUF Contributors
+@types/hoist-non-react-statics	Copyright Microsoft Corporation
+@types/prop-types 				Copyright Microsoft Corporation
+@types/react	 				Copyright Microsoft Corporation
+@types/scheduler				Copyright Microsoft Corporation
+@types/use-sync-external-store	Copyright Microsoft Corporation
+@types/vscode	 			 	Copyright Microsoft Corporation
+@types/yargs	 			 	Copyright Microsoft Corporation
+@types/yargs-parser	 		 	Copyright Microsoft Corporation
+@vscode/debugadapter 		 	Copyright Microsoft Corporation
+@vscode/debugprotocol		 	Copyright Microsoft Corporation
+abbrev	 						Copyright Isaac Z. Schlueter and Contributors
+agent-base 			 			Copyright 2013 Nathan Rajlich <nathan@tootallnate.net>
+aggregate-error 	 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+ansi-regex 					 	Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+ansi-styles						Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+argparse 						Copyright 2012 by Vitaly Puzrin (https://github.com/puzrin)
+array-timsort 					Copyright 2015 Marco Ziccardi
+asn1 				 			Copyright 2011 Mark Cavage, All rights reserved
+asynckit 			 			Copyright 2016 Alex Indigo
+axios	 			 			Copyright 2014 Matt Zabriskie & Collaborators
+balanced-match 					Copyright 2013 Julian Gruber <julian@juliangruber.com>
+brace-expansion				 	Copyright 2013 Julian Gruber <julian@juliangruber.com>
+braces	 			 			Copyright 2014-2018 Jon Schlinkert
+								Copyright 2019 [Jon Schlinkert](https://github.com/jonschlinkert)
+buildcheck	 		 			Copyright Brian White.
+builtins	 		 			Copyright 2015 Julian Gruber <julian@juliangruber.com>
+camelcase	 		 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+chalk	 					 	Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+classnames	 		 			Copyright 2018 Jed Watson
+clean-stack	 		 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+cli-table3 			 			Copyright 2010 LearnBoost <dev@learnboost.com>
+								Copyright 2014 James Talmage <james.talmage@jrtechnical.com>
+color	 			 			Copyright 2012 Heather Arthur
+color-convert				 	Copyright 2011-2016 Heather Arthur and Josh Junon
+								Copyright 2011-2016 Heather Arthur <fayearthur@gmail.com>
+color-name 						Copyright 2015 Dmitry Ivanov
+colors	 			 			Copyright Marak Squires
+								Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+color-string 		 			Copyright 2011 Heather Arthur <fayearthur@gmail.com>
+combined-stream					Copyright 2011 Debuggable Limited <felix@debuggable.com>
+commander	 		 			Copyright 2011 TJ Holowaychuk <tj@vision-media.ca>
+comment-json				 	Copyright 2013 kaelzhang <>, contributors
+compute-scroll-into-view 	 	Copyright 2023 Cody Olsen
+concat-map	 					Copyright James Halliday
+copy-to-clipboard		 		Copyright 2017 sudodoki <smd.deluzion@gmail.com>
+core-util-is 		 			Copyright Node.js contributors
+cpu-features 		 			Copyright Brian White
+cross-spawn 					Copyright 2018 Made With MOXY Lda <hello@moxy.studio>
+csstype 						Copyright 2017-2018 Fredrik Nicol
+dataobject-parser		 		Copyright 2014 Gigzolo Inc.
+date-format 		 			Copyright 2013 Gareth Jones
+debug 	 			 			Copyright 2017 TJ Holowaychuk <tj@vision-media.ca>
+								Copyright 2021 Josh Junon
+decamelize	 		 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+deepmerge	 					Copyright 2012 James Halliday, Josh Duff, and other contributors
+delayed-stream		 			Copyright 2011 Debuggable Limited <felix@debuggable.com>
+diff2html	 					Copyright 2014-2016 Rodrigo Fernandes https
+								Copyright 2014 Rodrigo Fernandes
+diff-sequences					Copyright Facebook, Inc. and its affiliates
+downshift	 		 			Copyright 2017 PayPal
+eastasianwidth		
+emoji-regex 				 	Copyright Mathias Bynens <https://mathiasbynens.be/>
+encoding  	 		 			Copyright 2012-2014 Andris Reinman
+env-paths	 					Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+err-code 			 			
+escape-string-regexp 		 	Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+fastest-levenshtein	 		 	Copyright 2020 Kasper Unn Weihe
+fast-glob	 					Copyright Denis Malinochkin
+fill-range	 		 			Copyright 2014 Jon Schlinkert
+								Copyright 2019 Jon Schlinkert (https://github.com/jonschlinkert)
+find-process		 			Copyright 2016 Zoujie
+find-up	 						Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+flatpickr	 		 			Copyright 2017 Gregory Petrosyan
+follow-redirects				Copyright 2014 Olivier Lalonde <olalonde@gmail.com>, 
+											James Talmage <james@talmage.io>, Ruben Verborgh
+form-data 						Copyright 2012 Felix Geisendörfer (felix@debuggable.com) and contributors
+fs-extra 					 	Copyright 2011-2017 JP Richardson
+function-bind		 			Copyright 2013 Raynos
+get-stream	 		 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
+handlebars	 					Copyright 2011-2019 by Yehuda Katz
+has	 							Copyright 2013 Thiago de Arruda
+has-flag	 					Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+has-own-prop		 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+html-parse-stringify		
+http-proxy-agent  		  		Copyright 2013 Nathan Rajlich <nathan@tootallnate.net>
+https-proxy-agent 				Copyright 2013 Nathan Rajlich <nathan@tootallnate.net>
+i18next	 						Copyright 2017 i18next
+i18next	 						Copyright 2024 i18next
+i18next-browser-languagedetector		 	Copyright 2015 i18next
+iconv-lite	 					Copyright 2011 Alexander Shtuchkin
+immer				 			Copyright 2017 Michel Weststrate
+imurmurhash	 		 			Copyright 2013 Gary Court, Jens Taylor
+indent-string 					Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+invariant 						Copyright 2013 Facebook, Inc
+ip-address	 					Copyright 2011 by Beau Gunderson
+is-arrayish	 					Copyright 2015 JD Ballard
+is-core-module					Copyright 2014 Dave Justice
+is-extglob 						Copyright 2016 Jon Schlinkert (https://github.com/jonschlinkert)
+								Copyright 2014-2016 Jon Schlinkert
+is-fullwidth-code-point		 	Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+is-glob	 						Copyright 2019 Jon Schlinkert (https://github.com/jonschlinkert)
+								Copyright 2014-2017 Jon Schlinkert
+is-lambda	 		 			Copyright (2016-2017 Thomas Watson Steen
+is-number	 					Copyright 2018 Jon Schlinkert (https://github.com/jonschlinkert)
+								Copyright 2014 Jon Schlinkert
+jest-diff	 					Copyright Facebook, Inc. and its affiliates
+jest-get-type 		 			Copyright Facebook, Inc. and its affiliates
+jsbn	 						Copyright 2003-2005  Tom Wu
+jsonfile	 				 	Copyright 2012-2015 JP Richardson <jprichardson@gmail.com>
+								Copyright 2012-2016 JP Richardson  <jprichardson@gmail.com>
+jsonparse	 					Copyright 2011-2012 Tim Caswell
+								Copyright 2012 Tim Caswell
+json-parse-even-better-errors  	Copyright npm, Inc
+								Copyright 2017 Kat Marchán
+jsonschema	 					Copyright 2012-2015 Tom de Grunt <tom@degrunt.nl>
+js-tokens	 		 			Copyright 2014-2015 2016, 2017, 2018 Simon Lydell
+js-yaml	 			 			Copyright 2011-2015 by Vitaly Puzrin
+linkify-it	 					Copyright 2015 Vitaly Puzrin
+locate-path	 					Copyright (indre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+lodash	 				 		Copyright jQuery Foundation and other contributors <https://jquery.org/>
+lodash.debounce		 			Copyright jQuery Foundation and other contributors <https://jquery.org/>
+lodash.findlast		 			Copyright 2009-2016 Jeremy Ashkenas,
+								Copyright jQuery Foundation and other contributors <https://jquery.org/>
+								Copyright 2012-2016 The Dojo Foundation <http://dojofoundation.org/>"
+lodash.isequal					Copyright 2023 JS Foundation
+lodash.omit	 					Copyright 2009-2016 Jeremy Ashkenas,
+								Copyright jQuery Foundation and other contributors <https://jquery.org/>
+								Copyright 2012-2016 The Dojo Foundation <http://dojofoundation.org/>"
+lodash.throttle		 			Copyright jQuery Foundation and other contributors <https://jquery.org/>
+lodash-deep	 		 			Copyright 2014-2016 Mark Lagendijk
+loose-envify					Copyright 2015 Andres Suarez <zertosh@gmail.com>
+markdown-it	 		 			Copyright 2014 Vitaly Puzrin, Alex Kocharin
+mdurl	 			 			Copyright 2015 Vitaly Puzrin, Alex Kocharin
+merge2	 			 			Copyright 2014-2020 Teambition
+micromatch			 			Copyright 2021 Jon Schlinkert (https://github.com/jonschlinkert)
+								Copyright 2014 Jon Schlinkert
+mime-db	 			 			Copyright 2014 Jonathan Ong <me@jongleberry.com>
+								Copyright 2015-2022 Douglas Christopher Wilson <doug@somethingdoug.com>
+mime-types			 			Copyright 2014 Jonathan Ong <me@jongleberry.com>
+								Copyright 2015 Douglas Christopher Wilson <doug@somethingdoug.com>
+minimist			
+minipass-fetch		 			Copyright Isaac Z. Schlueter and Contributors
+								Copyright 2016 David Frank
+minipass-json-stream 		 	Copyright 2011 Dominic Tarr
+								Copyright Isaac Z
+minizlib			 			Copyright Isaac Z. Schlueter and Contributors
+								Copyright Node.js contributors. All rights reserved.
+								Copyright Joyent, Inc. and other Node contributors. All rights reserved.
+mkdirp				 			Copyright James Halliday (mail@substack.net) and Isaac Z
+ms	 				 			Copyright 2016 Zeit, Inc.
+mustache	 		 			Copyright 2009 Chris Wanstrath (Ruby)
+								Copyright 2010-2014 Jan Lehnardt (JavaScript)
+								Copyright 2010-2015 The mustache.js community
+nan	 				 			Copyright 2018 NAN contributors (https://github.com/nodejs/nan#wg-members--collaborators)
+negotiator	 					Copyright 2014-2015 Douglas Christopher Wilson
+								Copyright 2012-2014 Federico Romero
+								Copyright 2012-2014 Isaac Z. Schlueter
+neo-async			 			Copyright 2014-2018 Suguru Motegi
+								Copyright Caolan McMahon
+node-gyp 			
+object-assign		 			Copyright Sindre Sorhus (sindresorhus@gmail.com) (sindresorhus.com)
+opener	 						Copyright 2012-2020 Domenic Denicola <d@domenic.me>
+								Copyright 2004 Sam Hocevar <sam@hocevar.net>
+path-exists	 		 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+path-is-absolute		 		Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+path-key			 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+picomatch	 		 			Copyright 2017 Jon Schlinkert (https://github.com/jonschlinkert)
+p-limit	 			 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+p-locate	 		 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+p-map	 			 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
+pretty-format		 			Copyright Facebook, Inc. and its affiliates
+prettyjson	 		 			Copyright 2011 Rafael de Oleza <rafeca@gmail.com>
+progress	 		 			Copyright 2017 TJ Holowaychuk <tj@vision-media.ca>
+promise-retry		 			Copyright 2014 IndigoUnited
+prop-types	 		 			Copyright 2013-present, Facebook, Inc.
+proxy-from-env		  			Copyright 2016-2018 Rob Wu <rob@robwu.nl>
+p-try	 			 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+punycode.js	 		 			Copyright Mathias Bynens <https://mathiasbynens.be/>
+queue-microtask		 			Copyright Feross Aboukhadijeh
+react	 						Copyright Facebook, Inc. and its affiliates
+react-dom	 		 			Copyright Facebook, Inc. and its affiliates
+react-hook-form		 			Copyright 2019 Beier(Bill) Luo
+react-i18next					Copyright 2022 i18next
+react-is			 			Copyright Facebook, Inc. and its affiliates.
+react-redux	 		 			Copyright 2015 Dan Abramov
+readline-sync		 			Copyright 2019 anseki
+redux	 			 			Copyright 2015 Dan Abramov
+redux-thunk	 		 			Copyright 2015 Dan Abramov
+regenerator-runtime 			Copyright 2014 Facebook, Inc.
+repeat-string		 			Copyright 2014-2015 Jon Schlinkert
+								Copyright 2014-2016 Jon Schlinkert
+								Copyright 2016 Jon Schlinkert (http://github.com/jonschlinkert)
+require-directory 				Copyright 2011 Troy Goode <troygoode@gmail.com>
+reselect	 		 			Copyright 2015-2018 Reselect Contributors
+resize-observer-polyfill 		Copyright 2016 Denis Rul
+retry				 			Copyright 2011: Tim Koschützki (tim@debuggable.com), Felix Geisendörfer (felix@debuggable.com)
+reusify	 			 			Copyright 2015 Matteo Collina
+rfdc	 						Copyright 2019 David Mark Clements <david.mark.clements@gmail.com>
+run-parallel		 			Copyright Feross Aboukhadijeh
+safer-buffer		 			Copyright 2018 Nikita Skovoroda <chalkerx@gmail.com>
+scheduler	 					Copyright Facebook, Inc. and its affiliates
+shebang-command		 			Copyright Kevin Mårtensson <kevinmartensson@gmail.com> (github.com/kevva)
+shebang-regex		 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+simple-swizzle					Copyright 2015 Josh Junon
+smart-buffer		 			Copyright 2013-2017 Josh Glazebrook
+socks	 			 			Copyright 2013 Josh Glazebrook
+socks-proxy-agent		 		Copyright 2013 Nathan Rajlich <nathan@tootallnate.net>
+spdx-expression-parse		 	Copyright 2015 Kyle E
+ssh2	 						Copyright Brian White
+stack-trace	 		 			Copyright 2011 Felix Geisendörfer (felix@debuggable.com)
+streamroller		 			Copyright 2013 Gareth Jones
+string-width				 	Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+strip-ansi	 					Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+supports-color				 	Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+toggle-selection		 		Copyright 2017.0 sudodoki
+to-regex-range		 			Copyright 2015 Jon Schlinkert
+								Copyright 2019 Jon Schlinkert (https://github.com/jonschlinkert)
+tuf-js				 			Copyright 2023 The Sigstore Authors
+uc.micro	 					Copyright Mathias Bynens <https://mathiasbynens.be/>
+underscore	 		 			Copyright 2009-2022 Jeremy Ashkenas
+universalify		 			Copyright 2017 Ryan Zimmerman <opensrc@ryanzim.com>
+use-resize-observer		 		Copyright 2018 Viktor Hubert <rpgmorpheus@gmail.com>
+use-sync-external-store		 	Copyright Facebook, Inc. and its affiliates
+uuid		 					Copyright 2010-2020 Robert Kieffer and other contributors
+void-elements					Copyright 2014 hemanth
+window-or-global				Copyright Purpose Industries
+wordwrap	 		 			
+wrap-ansi			 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
+yamljs	 						Copyright 2010 Jeremy Faivre
+zod	 				 			Copyright 2020 Colin McDonnell
+	
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+-----------------------------------------
+
+The Program includes some or all of the following that IBM obtained 
+under the MIT/X11 license:
+
+yargs 		  				Copyright 2010 James Halliday (mail@substack.net)
+
+Modified work Copyright 2014 Contributors (ben@npmjs.com)
+This project is free software released under the MIT/X11 license:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+=====================================================================
+END OF MIT LICENSE NOTICES AND INFORMATION
+=====================================================================
+
 Python 2.0 License
 
 The Program includes some or all of the following that IBM obtained 
 under the Python 2.0 License: 
 
-argparse	 	
-	Copyright (c) 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010,
+argparse			
+	Copyright 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010,
 	2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020 Python Software Foundation
 
 A. HISTORY OF THE SOFTWARE
@@ -1263,7 +1189,7 @@ END OF PYTHON 2.0 LICENSE NOTICES AND INFORMATION
 
 W3C Software Notice and Document License (2015-05-13)
 
-This Program includes - wicg-inert	 
+This Program includes - wicg-inert		
 
 IBM is required to provide to You the following notices and other important 
 information with respect to this component.
@@ -1284,7 +1210,7 @@ Unlicense
 The Program includes some or all of the following that IBM obtained 
 under the Unlicense License: 
 
-tweetnacl	 
+tweetnacl		
 
 This is free and unencumbered software released into the public domain.
 
@@ -1317,9 +1243,9 @@ END OF Unlicense LICENSE NOTICES AND INFORMATION
 
 
 =====================================================================
-End of Notices and Information for IBM Z Open Debug 4.0
+End of Notices and Information for IBM Z Open Debug
 =======================================================================
 
-L/N: L-HAPP-YAEANA
-D/N: L-HAPP-YAEANA
-P/N: L-HAPP-YAEANA
+L/N: L-BWHV-L934CJ
+D/N: L-BWHV-L934CJ
+P/N: L-BWHV-L934CJ
