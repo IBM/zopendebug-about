@@ -1,6 +1,6 @@
 TERMS AND CONDITIONS FOR SEPARATELY LICENSED CODE
 
-IBM Z Open Debug V4.0
+IBM Z Open Debug 4.1
 
 The IBM license agreement and any applicable information on the web
 download page for IBM products refers Licensee to this file for details
@@ -20,18 +20,52 @@ shipped with, the Program as Licensee installed it.
 
 The following are Separately Licensed Code:
 
- IBM Plex fonts 
+IBM Plex fonts  	
+spdx-exceptions		
+spdx-license-ids	
+
+-----------------------------------------------------------
+
+TABLE OF CONTENTS
+
+THIS NON-IBM-LICENSE FILE CONSISTS OF THE FOLLOWING SECTIONS:
+
+CREATIVE COMMONS LICENSES
+SIL OPEN FONT LICENSE 1.1
+
+-----------------------------------------------------------
+
+CREATIVE COMMONS LICENSES
+
+The Program includes some or all of the following works licensed under the 
+Creative Commons Attribution License 3.0 (“CC BY 3.0”).
+The url to the license is http://creativecommons.org/licenses/by/3.0/.
+
+spdx-exceptions		
+
+The Program includes some or all of the following works licensed under the 
+Creative Commons Zero v1.0 Universal License (“CC0-1.0”).
+The url to the license is https://creativecommons.org/publicdomain/zero/1.0/.
+
+spdx-license-ids
+
+-----------------------------------------------------------
+END OF CREATIVE COMMONS NON-IBM-LICENSES INFORMATION
+-----------------------------------------------------------
+
+SIL OPEN FONT LICENSE 1.1
+
+The Program includes some or all of the following works licensed under
+the SIL OPEN FONT LICENSE 1.1:
+
+IBM Plex fonts 
 
 	Copyright © 2017 IBM Corp. with Reserved Font Name "Plex"
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
-
-This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
+This license is copied below, and the url to the license is: https://openfontlicense.org/
 
 
------------------------------------------------------------
 SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
------------------------------------------------------------
 
 PREAMBLE
 The goals of the Open Font License (OFL) are to stimulate worldwide
@@ -116,7 +150,11 @@ DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.
 
+------------------------------------------------------------
+END OF SIL OPEN FONT LICENSE 1.1 NON-IBM-LICENSE INFORMATION
+------------------------------------------------------------
 
-L/N: L-HAPP-YAEANA
-D/N: L-HAPP-YAEANA
-P/N: L-HAPP-YAEANA
+
+L/N: L-BWHV-L934CJ
+D/N: L-BWHV-L934CJ
+P/N: L-BWHV-L934CJ
