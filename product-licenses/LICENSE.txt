@@ -3,7 +3,7 @@ LICENSE INFORMATION
 The Programs listed below are licensed under the following License Information terms and conditions in addition to the Program license terms previously agreed to by Client and IBM. If Client does not have previously agreed to license terms in effect for the Program, the International License Agreement for Non-Warranted Programs (i125-5589-06) applies.
 
 Program Name (Program Number):
-IBM Z Open Debug 4.1 (Component)
+IBM Z Open Debug 4.2 (Component)
 
 The following standard terms apply to Licensee's use of the Program.
 
@@ -24,9 +24,9 @@ Privacy
 Licensee acknowledges and agrees that IBM may use cookie and tracking technologies to collect personal information in gathering product usage statistics and information designed to help improve user experience and/or to tailor interactions with users in accordance with the IBM Online Privacy Policy, available at http://www.ibm.com/privacy/.
 
 
-L/N: L-BWHV-L934CJ
-D/N: L-BWHV-L934CJ
-P/N: L-BWHV-L934CJ
+L/N: L-FEJH-M3V4Z7
+D/N: L-FEJH-M3V4Z7
+P/N: L-FEJH-M3V4Z7
 
 International License Agreement for Non-Warranted Programs
 
