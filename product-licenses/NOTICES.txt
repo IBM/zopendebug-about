@@ -1,6 +1,6 @@
 NOTICES AND INFORMATION
 
-IBM Z Open Debug 4.1
+IBM Z Open Debug 4.2
 
 The IBM license agreement and any applicable information on the web
 download page for IBM products refers Licensee to this file for details
@@ -1246,6 +1246,6 @@ END OF Unlicense LICENSE NOTICES AND INFORMATION
 End of Notices and Information for IBM Z Open Debug
 =======================================================================
 
-L/N: L-BWHV-L934CJ
-D/N: L-BWHV-L934CJ
-P/N: L-BWHV-L934CJ
+L/N: L-FEJH-M3V4Z7
+D/N: L-FEJH-M3V4Z7
+P/N: L-FEJH-M3V4Z7
