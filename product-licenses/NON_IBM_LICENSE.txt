@@ -1,6 +1,6 @@
 TERMS AND CONDITIONS FOR SEPARATELY LICENSED CODE
 
-IBM Z Open Debug 4.2
+IBM Z Open Debug 4.3
 
 The IBM license agreement and any applicable information on the web
 download page for IBM products refers Licensee to this file for details
@@ -155,6 +155,6 @@ END OF SIL OPEN FONT LICENSE 1.1 NON-IBM-LICENSE INFORMATION
 ------------------------------------------------------------
 
 
-L/N: L-FEJH-M3V4Z7
-D/N: L-FEJH-M3V4Z7
-P/N: L-FEJH-M3V4Z7
+L/N: L-YPMD-JR9793
+D/N: L-YPMD-JR9793
+P/N: L-YPMD-JR9793
