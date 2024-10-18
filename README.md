@@ -18,7 +18,7 @@
 Review the [IBM Z Open Debug License Agreement](https://github.com/IBM/zopendebug-about/raw/main/product-licenses/LICENSE.txt), terms and conditions for [separately licensed code](https://github.com/IBM/zopendebug-about/raw/main/product-licenses/NON_IBM_LICENSE.txt), and [Third Party Notices](https://github.com/IBM/zopendebug-about/raw/main/product-licenses/NOTICES.txt) before downloading.
 
 - Client
-  - [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) Visual Studio Code extension version 2.12.0 or later
+  - [Zowe Explorer](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe) Visual Studio Code extension version 3.0.0 or later
   - [Visual Studio Code](https://code.visualstudio.com/download) version 1.48.2 or later
 - Host
   - IBM z/OS Debugger [Remote Debug Service](https://www.ibm.com/docs/en/debug-for-zos/latest?topic=users-adding-support-remote-debug-service): for interactively debugging compiled applications running on z/OS
@@ -28,7 +28,7 @@ Review the [IBM Z Open Debug License Agreement](https://github.com/IBM/zopendebu
 
 ## Migrating to IBM Z Open Debug v4 from earlier versions
 
-IBM Z Open Debug v4 uses Zowe connection profiles to define connections to z/OS machines, replacing the connection details that were previously defined in the VS Code Settings. Existing connection details defined in the VS Code Settings can be automatically migrated to a new Zowe team configuration, or added to an existing Zowe team configuration.
+Starting with v4, IBM Z Open Debug uses Zowe connection profiles to define connections to z/OS machines, replacing the connection details that were previously defined in the VS Code Settings. Existing connection details defined in the VS Code Settings can be automatically migrated to a new Zowe team configuration, or added to an existing Zowe team configuration.
 
 IBM Z Open Debug v4 uses a different internal format for storing debug profiles. Debug profiles in older formats can be automatically migrated.
 
