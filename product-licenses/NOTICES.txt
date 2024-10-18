@@ -1,6 +1,6 @@
 NOTICES AND INFORMATION
 
-IBM Z Open Debug 4.3.1
+IBM Z Open Debug 5.0
 
 The IBM license agreement and any applicable information on the web
 download page for IBM products refers Licensee to this file for details
@@ -58,15 +58,19 @@ see http://www.apache.org.
 @sigstore/sign	 				 	Copyright 2023 The Sigstore Authors
 @sigstore/tuf	 		 			Copyright 2023 The Sigstore Authors
 @sigstore/verify	 	
+ecdsa-sig-formatter	 	  			Copyright 2015 D2L Corporation
 exponential-backoff	 	
 log4js								Copyright 2015 Gareth Jones (with contributions from many other people)
 sigstore	 			 			Copyright 2023 The Sigstore Authors
 spdx-correct	 		 			Copyright spdx-correct.js contributors
-validate-npm-package-license 	 	Copyright Kyle E. Mitchell
+validate-npm-package-license 		Copyright Kyle E. Mitchell
 
 
+
+                                Apache License
 
                            Version 2.0, January 2004
+
                         http://www.apache.org/licenses/
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
@@ -240,8 +244,6 @@ validate-npm-package-license 	 	Copyright Kyle E. Mitchell
       incurred by, or claims asserted against, such Contributor by reason
       of your accepting any such warranty or additional liability.
 
-   END OF TERMS AND CONDITIONS
-
 =====================================================================
 END OF APACHE LICENSE 2.0 NOTICES AND INFORMATION
 =====================================================================
@@ -255,16 +257,17 @@ jackspeak
 path-scurry	
 
 
-Blue Oak Model License
+# Blue Oak Model License
+
 Version 1.0.0
 
-Purpose
+## Purpose
 
 This license gives everyone as much permission to work with
 this software as possible, while protecting contributors
 from liability.
 
-Acceptance
+## Acceptance
 
 In order to receive this license, you must agree to its
 rules.  The rules of this license are both obligations
@@ -272,20 +275,20 @@ under that agreement and conditions to your license.
 You must not do anything with this software that triggers
 a rule that you cannot or will not follow.
 
-Copyright
+## Copyright
 
 Each contributor licenses you to do everything with this
 software that would otherwise infringe that contributor's
 copyright in it.
 
-Notices
+## Notices
 
 You must ensure that everyone who gets a copy of
 any part of this software from you, with or without
 changes, also gets the text of this license or a link to
 <https://blueoakcouncil.org/license/1.0.0>.
 
-Excuse
+## Excuse
 
 If anyone notifies you in writing that you have not
 complied with [Notices](#notices), you can keep your
@@ -293,46 +296,45 @@ license by taking all practical steps to comply within 30
 days after the notice.  If you do not do so, your license
 ends immediately.
 
-Patent
+## Patent
 
 Each contributor licenses you to do everything with this
 software that would otherwise infringe any patent claims
 they can license or become able to license.
 
-Reliability
+## Reliability
 
 No contributor can revoke this license.
 
-No Liability
+## No Liability
 
-As far as the law allows, this software comes as is,
+***As far as the law allows, this software comes as is,
 without any warranty or condition, and no contributor
 will be liable to anyone for any damages related to this
-software or this license, under any kind of legal claim.
+software or this license, under any kind of legal claim.***
 
 =====================================================================
 END OF Blue Oak Model License 1.0.0 NOTICES AND INFORMATION
 =====================================================================
 
-BSD ZERO LICENSE
+ZERO-Clause BSD LICENSE
 
 The Program includes some or all of the following that IBM obtained under the 0BSD License:
  
 tslib	  	Copyright Microsoft Corporation.
 	
-Permission to use, copy, modify, and/or distribute this software for any\
-purpose with or without fee is hereby granted.
+Permission to use, copy, modify, and/or distribute this software for any purpose with or 
+without fee is hereby granted.
 
-THE SOFTWARE IS PROVIDED \"AS IS\" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
-REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
-AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
-INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
-LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
-OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
-PERFORMANCE OF THIS SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO 
+THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT 
+SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR 
+ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF 
+CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE 
+OR PERFORMANCE OF THIS SOFTWARE.
 
 =====================================================================
-END OF BSD ZERO LICENSE NOTICES AND INFORMATION
+END OF ZERO-CLAUSE BSD LICENSE NOTICES AND INFORMATION
 =====================================================================
 
 BSD-2-Clause License
@@ -340,34 +342,31 @@ BSD-2-Clause License
 The Program includes some or all of the following that IBM obtained 
 under the BSD-2-Clause License:
 
-entities					Copyright Felix Böhm
-esprima				 		Copyright JS Foundation and other contributors, https://js.foundation/
-http-cache-semantics	 	Copyright 2016-2018 Kornel Lesi
-normalize-package-data 	 	Copyright 2013 Meryn Stol
-npm-install-checks		 	Copyright Robert Kowalski and Isaac Z. Schlueter ("Authors")
+entities		 			Copyright Felix Böhm
+esprima			 	 		Copyright JS Foundation and other contributors, https://js.foundation/
+http-cache-semantics	  	Copyright 2016-2018 Kornel Lesi
+normalize-package-data 	  	Copyright 2013 Meryn Stol
+npm-install-checks		  	Copyright Robert Kowalski and Isaac Z. Schlueter ("Authors")
 
-All rights reserved.
+Redistribution and use in source and binary forms, with or without modification, 
+are permitted provided that the following conditions are met:
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+1. Redistributions of source code must retain the above copyright notice, this list 
+of conditions and the following disclaimer.
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright notice, this 
+list of conditions and the following disclaimer in the documentation and/or other 
+materials provided with the distribution.
 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES 
+OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT 
+SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, 
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT 
+OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) 
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, 
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF 
+THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 =====================================================================
 END OF BSD-2-CLAUSE LICENSE NOTICES AND INFORMATION
@@ -378,42 +377,43 @@ BSD-3-Clause License
 The Program includes some or all of the following that IBM obtained 
 under the BSD-3-Clause License:
 
-bcrypt-pbkdf	  	
+bcrypt-pbkdf	   	
 	Copyright 2016 Joyent Inc
 	Copyright 2013 Ted Unangst <tedu@openbsd.org>		
 	Copyright 1997 Niels Provos <provos@physnet.uni-hamburg.de>
-diff			  	Copyright 2009-2015 Kevin Decker <kpdecker@gmail.com>
-highlight.js	 	Copyright 2006 Ivan Sagalaev
-hoist-non-react-statics	 	Copyright 2015 Yahoo!
-sprintf-js	 	 	Copyright 2014 Alexandru Marasteanu
-sprintf-js	 	 	Copyright 2007 Alexandru Mărășteanu <hello@alexei.ro>
-wontache		
+buffer-equal-constant-time 	  	Copyright 2013 GoInstant Inc., a salesforce.com company
+diff			 	  			Copyright 2009-2015 Kevin Decker <kpdecker@gmail.com>
+highlight.js	  				Copyright 2006 Ivan Sagalaev
+hoist-non-react-statics		  	Copyright 2015 Yahoo!
+sprintf-js	 	  				Copyright 2007 Alexandru Mărășteanu <hello@alexei.ro>
+wontache		 
 
-All rights reserved.
+Redistribution and use in source and binary forms, with or without 
+modification, are permitted provided that the following conditions 
+are met:
 
-Redistribution and use in source and binary forms, with or without modification, is permitted 
-provided that the following conditions are met:
+1. Redistributions of source code must retain the above copyright 
+notice, this list of conditions and the following disclaimer.
 
-    Redistributions of source code must retain the above copyright notice, this list of 
-    conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright 
+notice, this list of conditions and the following disclaimer in the 
+documentation and/or other materials provided with the distribution.
 
-    Redistributions in binary form must reproduce the above copyright notice, this list of 
-    conditions and the following disclaimer in the documentation and/or other materials 
-    provided with the distribution.
+3. Neither the name of the copyright holder nor the names of its 
+contributors may be used to endorse or promote products derived from 
+this software without specific prior written permission.
 
-    Neither the name of the <ORGANIZATION> nor the names of its contributors may be used 
-    to endorse or promote products derived from this software without specific prior written 
-    permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS 
-OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY 
-AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR 
-CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL 
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, 
-DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, 
-WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN 
-ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS 
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED 
+TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A 
+PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT 
+HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, 
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED 
+TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR 
+PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF 
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING 
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS 
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 =====================================================================
 END OF BSD-3-CLAUSE LICENSE NOTICES AND INFORMATION
@@ -423,102 +423,240 @@ Eclipse Public License
 
 The Program contains open source software obtained from the Eclipse Foundation (herein collectively referred to as "Eclipse Code"). Notices and important information, including instructions for obtaining source code, for the Eclipse Code may be found in associated "about.html" files ("About Files") that accompany the Eclipse Code. These About Files are provided for informational purposes only, and notwithstanding anything to the contrary therein, your use of such Eclipse Code shall be governed by the terms of the IBM end user license agreement.
 
-@zowe/cli						
-@zowe/core-for-zowe-sdk			
-@zowe/imperative				
-@zowe/provisioning-for-zowe-sdk	
-@zowe/secrets-for-zowe-sdk		
-@zowe/zos-console-for-zowe-sdk	
-@zowe/zos-files-for-zowe-sdk	
+@zowe/core-for-zowe-sdk					
+@zowe/imperative				 		
+@zowe/secrets-for-zowe-sdk		  		
+@zowe/zos-console-for-zowe-sdk	  		
+@zowe/zos-files-for-zowe-sdk	  		
 @zowe/zos-jobs-for-zowe-sdk		
-@zowe/zos-logs-for-zowe-sdk		
 @zowe/zosmf-for-zowe-sdk		
 @zowe/zos-tso-for-zowe-sdk		
 @zowe/zos-uss-for-zowe-sdk	 	
-@zowe/zos-workflows-for-zowe-sdk	
 @zowe/zowe-explorer-api			
 
 
 Eclipse Public License - v 2.0
 
-THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS ECLIPSE PUBLIC LICENSE ("AGREEMENT"). ANY USE, REPRODUCTION OR DISTRIBUTION OF THE PROGRAM CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS AGREEMENT.
+THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS ECLIPSE PUBLIC LICENSE 
+("AGREEMENT"). ANY USE, REPRODUCTION OR DISTRIBUTION OF THE PROGRAM CONSTITUTES 
+RECIPIENT'S ACCEPTANCE OF THIS AGREEMENT.
 
-    1. DEFINITIONS
+1. DEFINITIONS
+"Contribution" means:
 
-    "Contribution" means:
-        a) in the case of the initial Contributor, the initial content Distributed under this Agreement, and
-        b) in the case of each subsequent Contributor:
-            i) changes to the Program, and
-            ii) additions to the Program;
+a) in the case of the initial Contributor, the initial content Distributed under 
+this Agreement, and
+b) in the case of each subsequent Contributor:
+i) changes to the Program, and
+ii) additions to the Program;
+where such changes and/or additions to the Program originate from and are Distributed 
+by that particular Contributor. A Contribution "originates" from a Contributor if 
+it was added to the Program by such Contributor itself or anyone acting on such 
+Contributor's behalf. Contributions do not include changes or additions to the Program 
+that are not Modified Works.
+"Contributor" means any person or entity that Distributes the Program.
 
-        where such changes and/or additions to the Program originate from and are Distributed by that particular Contributor. A Contribution "originates" from a Contributor if it was added to the Program by such Contributor itself or anyone acting on such Contributor's behalf. Contributions do not include changes or additions to the Program that are not Modified Works.
+"Licensed Patents" mean patent claims licensable by a Contributor which are necessarily 
+infringed by the use or sale of its Contribution alone or when combined with the 
+Program.
 
-    "Contributor" means any person or entity that Distributes the Program.
+"Program" means the Contributions Distributed in accordance with this Agreement.
 
-    "Licensed Patents" mean patent claims licensable by a Contributor which are necessarily infringed by the use or sale of its Contribution alone or when combined with the Program.
+"Recipient" means anyone who receives the Program under this Agreement or any Secondary 
+License (as applicable), including Contributors.
 
-    "Program" means the Contributions Distributed in accordance with this Agreement.
+"Derivative Works" shall mean any work, whether in Source Code or other form, that 
+is based on (or derived from) the Program and for which the editorial revisions, 
+annotations, elaborations, or other modifications represent, as a whole, an original 
+work of authorship.
 
-    "Recipient" means anyone who receives the Program under this Agreement or any Secondary License (as applicable), including Contributors.
+"Modified Works" shall mean any work in Source Code or other form that results from 
+an addition to, deletion from, or modification of the contents of the Program, including, 
+for purposes of clarity any new file in Source Code form that contains any contents 
+of the Program. Modified Works shall not include works that contain only declarations, 
+interfaces, types, classes, structures, or files of the Program solely in each case 
+in order to link to, bind by name, or subclass the Program or Modified Works thereof.
 
-    "Derivative Works" shall mean any work, whether in Source Code or other form, that is based on (or derived from) the Program and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship.
+"Distribute" means the acts of a) distributing or b) making available in any manner 
+that enables the transfer of a copy.
 
-    "Modified Works" shall mean any work in Source Code or other form that results from an addition to, deletion from, or modification of the contents of the Program, including, for purposes of clarity any new file in Source Code form that contains any contents of the Program. Modified Works shall not include works that contain only declarations, interfaces, types, classes, structures, or files of the Program solely in each case in order to link to, bind by name, or subclass the Program or Modified Works thereof.
+"Source Code" means the form of a Program preferred for making modifications, including 
+but not limited to software source code, documentation source, and configuration 
+files.
 
-    "Distribute" means the acts of a) distributing or b) making available in any manner that enables the transfer of a copy.
+"Secondary License" means either the GNU General Public License, Version 2.0, or 
+any later versions of that license, including any exceptions or additional permissions 
+as identified by the initial Contributor.
 
-    "Source Code" means the form of a Program preferred for making modifications, including but not limited to software source code, documentation source, and configuration files.
+2. GRANT OF RIGHTS
+a) Subject to the terms of this Agreement, each Contributor hereby grants Recipient 
+a non-exclusive, worldwide, royalty-free copyright license to reproduce, prepare 
+Derivative Works of, publicly display, publicly perform, Distribute and sublicense 
+the Contribution of such Contributor, if any, and such Derivative Works.
+b) Subject to the terms of this Agreement, each Contributor hereby grants Recipient 
+a non-exclusive, worldwide, royalty-free patent license under Licensed Patents to 
+make, use, sell, offer to sell, import and otherwise transfer the Contribution of 
+such Contributor, if any, in Source Code or other form. This patent license shall 
+apply to the combination of the Contribution and the Program if, at the time the 
+Contribution is added by the Contributor, such addition of the Contribution causes 
+such combination to be covered by the Licensed Patents. The patent license shall 
+not apply to any other combinations which include the Contribution. No hardware 
+per se is licensed hereunder.
+c) Recipient understands that although each Contributor grants the licenses to its 
+Contributions set forth herein, no assurances are provided by any Contributor that 
+the Program does not infringe the patent or other intellectual property rights of 
+any other entity. Each Contributor disclaims any liability to Recipient for claims 
+brought by any other entity based on infringement of intellectual property rights 
+or otherwise. As a condition to exercising the rights and licenses granted hereunder, 
+each Recipient hereby assumes sole responsibility to secure any other intellectual 
+property rights needed, if any. For example, if a third party patent license is 
+required to allow Recipient to Distribute the Program, it is Recipient's responsibility 
+to acquire that license before distributing the Program.
+d) Each Contributor represents that to its knowledge it has sufficient copyright 
+rights in its Contribution, if any, to grant the copyright license set forth in 
+this Agreement.
+e) Notwithstanding the terms of any Secondary License, no Contributor makes additional 
+grants to any Recipient (other than those set forth in this Agreement) as a result 
+of such Recipient's receipt of the Program under the terms of a Secondary License 
+(if permitted under the terms of Section 3).
+3. REQUIREMENTS
+3.1 If a Contributor Distributes the Program in any form, then:
 
-    "Secondary License" means either the GNU General Public License, Version 2.0, or any later versions of that license, including any exceptions or additional permissions as identified by the initial Contributor.
-    2. GRANT OF RIGHTS
-        a) Subject to the terms of this Agreement, each Contributor hereby grants Recipient a non-exclusive, worldwide, royalty-free copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, Distribute and sublicense the Contribution of such Contributor, if any, and such Derivative Works.
-        b) Subject to the terms of this Agreement, each Contributor hereby grants Recipient a non-exclusive, worldwide, royalty-free patent license under Licensed Patents to make, use, sell, offer to sell, import and otherwise transfer the Contribution of such Contributor, if any, in Source Code or other form. This patent license shall apply to the combination of the Contribution and the Program if, at the time the Contribution is added by the Contributor, such addition of the Contribution causes such combination to be covered by the Licensed Patents. The patent license shall not apply to any other combinations which include the Contribution. No hardware per se is licensed hereunder.
-        c) Recipient understands that although each Contributor grants the licenses to its Contributions set forth herein, no assurances are provided by any Contributor that the Program does not infringe the patent or other intellectual property rights of any other entity. Each Contributor disclaims any liability to Recipient for claims brought by any other entity based on infringement of intellectual property rights or otherwise. As a condition to exercising the rights and licenses granted hereunder, each Recipient hereby assumes sole responsibility to secure any other intellectual property rights needed, if any. For example, if a third party patent license is required to allow Recipient to Distribute the Program, it is Recipient's responsibility to acquire that license before distributing the Program.
-        d) Each Contributor represents that to its knowledge it has sufficient copyright rights in its Contribution, if any, to grant the copyright license set forth in this Agreement.
-        e) Notwithstanding the terms of any Secondary License, no Contributor makes additional grants to any Recipient (other than those set forth in this Agreement) as a result of such Recipient's receipt of the Program under the terms of a Secondary License (if permitted under the terms of Section 3).
-    3. REQUIREMENTS
-        3.1 If a Contributor Distributes the Program in any form, then:
-            a) the Program must also be made available as Source Code, in accordance with section 3.2, and the Contributor must accompany the Program with a statement that the Source Code for the Program is available under this Agreement, and informs Recipients how to obtain it in a reasonable manner on or through a medium customarily used for software exchange; and
-            b) the Contributor may Distribute the Program under a license different than this Agreement, provided that such license:
-                i) effectively disclaims on behalf of all other Contributors all warranties and conditions, express and implied, including warranties or conditions of title and non-infringement, and implied warranties or conditions of merchantability and fitness for a particular purpose;
-                ii) effectively excludes on behalf of all other Contributors all liability for damages, including direct, indirect, special, incidental and consequential damages, such as lost profits;
-                iii) does not attempt to limit or alter the recipients' rights in the Source Code under section 3.2; and
-                iv) requires any subsequent distribution of the Program by any party to be under a license that satisfies the requirements of this section 3.
-        3.2 When the Program is Distributed as Source Code:
-            a) it must be made available under this Agreement, or if the Program (i) is combined with other material in a separate file or files made available under a Secondary License, and (ii) the initial Contributor attached to the Source Code the notice described in Exhibit A of this Agreement, then the Program may be made available under the terms of such Secondary Licenses, and
-            b) a copy of this Agreement must be included with each copy of the Program.
-        3.3 Contributors may not remove or alter any copyright, patent, trademark, attribution notices, disclaimers of warranty, or limitations of liability ("notices") contained within the Program from any copy of the Program which they Distribute, provided that Contributors may add their own appropriate notices.
-    4. COMMERCIAL DISTRIBUTION
+a) the Program must also be made available as Source Code, in accordance with section 
+3.2, and the Contributor must accompany the Program with a statement that the Source 
+Code for the Program is available under this Agreement, and informs Recipients how 
+to obtain it in a reasonable manner on or through a medium customarily used for 
+software exchange; and
+b) the Contributor may Distribute the Program under a license different than this 
+Agreement, provided that such license:
+i) effectively disclaims on behalf of all other Contributors all warranties and 
+conditions, express and implied, including warranties or conditions of title and 
+non-infringement, and implied warranties or conditions of merchantability and fitness 
+for a particular purpose;
+ii) effectively excludes on behalf of all other Contributors all liability for damages, 
+including direct, indirect, special, incidental and consequential damages, such 
+as lost profits;
+iii) does not attempt to limit or alter the recipients' rights in the Source Code 
+under section 3.2; and
+iv) requires any subsequent distribution of the Program by any party to be under 
+a license that satisfies the requirements of this section 3.
+3.2 When the Program is Distributed as Source Code:
 
-    Commercial distributors of software may accept certain responsibilities with respect to end users, business partners and the like. While this license is intended to facilitate the commercial use of the Program, the Contributor who includes the Program in a commercial product offering should do so in a manner which does not create potential liability for other Contributors. Therefore, if a Contributor includes the Program in a commercial product offering, such Contributor ("Commercial Contributor") hereby agrees to defend and indemnify every other Contributor ("Indemnified Contributor") against any losses, damages and costs (collectively "Losses") arising from claims, lawsuits and other legal actions brought by a third party against the Indemnified Contributor to the extent caused by the acts or omissions of such Commercial Contributor in connection with its distribution of the Program in a commercial product offering. The obligations in this section do not apply to any claims or Losses relating to any actual or alleged intellectual property infringement. In order to qualify, an Indemnified Contributor must: a) promptly notify the Commercial Contributor in writing of such claim, and b) allow the Commercial Contributor to control, and cooperate with the Commercial Contributor in, the defense and any related settlement negotiations. The Indemnified Contributor may participate in any such claim at its own expense.
+a) it must be made available under this Agreement, or if the Program (i) is combined 
+with other material in a separate file or files made available under a Secondary 
+License, and (ii) the initial Contributor attached to the Source Code the notice 
+described in Exhibit A of this Agreement, then the Program may be made available 
+under the terms of such Secondary Licenses, and
+b) a copy of this Agreement must be included with each copy of the Program.
+3.3 Contributors may not remove or alter any copyright, patent, trademark, attribution 
+notices, disclaimers of warranty, or limitations of liability ('notices') contained 
+within the Program from any copy of the Program which they Distribute, provided 
+that Contributors may add their own appropriate notices.
 
-    For example, a Contributor might include the Program in a commercial product offering, Product X. That Contributor is then a Commercial Contributor. If that Commercial Contributor then makes performance claims, or offers warranties related to Product X, those performance claims and warranties are such Commercial Contributor's responsibility alone. Under this section, the Commercial Contributor would have to defend claims against the other Contributors related to those performance claims and warranties, and if a court requires any other Contributor to pay any damages as a result, the Commercial Contributor must pay those damages.
-    5. NO WARRANTY
+4. COMMERCIAL DISTRIBUTION
+Commercial distributors of software may accept certain responsibilities with respect 
+to end users, business partners and the like. While this license is intended to 
+facilitate the commercial use of the Program, the Contributor who includes the Program 
+in a commercial product offering should do so in a manner which does not create 
+potential liability for other Contributors. Therefore, if a Contributor includes 
+the Program in a commercial product offering, such Contributor ("Commercial Contributor") 
+hereby agrees to defend and indemnify every other Contributor ("Indemnified Contributor") 
+against any losses, damages and costs (collectively "Losses") arising from claims, 
+lawsuits and other legal actions brought by a third party against the Indemnified 
+Contributor to the extent caused by the acts or omissions of such Commercial Contributor 
+in connection with its distribution of the Program in a commercial product offering. 
+The obligations in this section do not apply to any claims or Losses relating to 
+any actual or alleged intellectual property infringement. In order to qualify, an 
+Indemnified Contributor must: a) promptly notify the Commercial Contributor in writing 
+of such claim, and b) allow the Commercial Contributor to control, and cooperate 
+with the Commercial Contributor in, the defense and any related settlement negotiations. 
+The Indemnified Contributor may participate in any such claim at its own expense.
 
-    EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, AND TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE PROGRAM IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. Each Recipient is solely responsible for determining the appropriateness of using and distributing the Program and assumes all risks associated with its exercise of rights under this Agreement, including but not limited to the risks and costs of program errors, compliance with applicable laws, damage to or loss of data, programs or equipment, and unavailability or interruption of operations.
-    6. DISCLAIMER OF LIABILITY
+For example, a Contributor might include the Program in a commercial product offering, 
+Product X. That Contributor is then a Commercial Contributor. If that Commercial 
+Contributor then makes performance claims, or offers warranties related to Product 
+X, those performance claims and warranties are such Commercial Contributor's responsibility 
+alone. Under this section, the Commercial Contributor would have to defend claims 
+against the other Contributors related to those performance claims and warranties, 
+and if a court requires any other Contributor to pay any damages as a result, the 
+Commercial Contributor must pay those damages.
 
-    EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, AND TO THE EXTENT PERMITTED BY APPLICABLE LAW, NEITHER RECIPIENT NOR ANY CONTRIBUTORS SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OR DISTRIBUTION OF THE PROGRAM OR THE EXERCISE OF ANY RIGHTS GRANTED HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
-    7. GENERAL
+5. NO WARRANTY
+EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, AND TO THE EXTENT PERMITTED BY 
+APPLICABLE LAW, THE PROGRAM IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES 
+OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, 
+ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS 
+FOR A PARTICULAR PURPOSE. Each Recipient is solely responsible for determining the 
+appropriateness of using and distributing the Program and assumes all risks associated 
+with its exercise of rights under this Agreement, including but not limited to the 
+risks and costs of program errors, compliance with applicable laws, damage to or 
+loss of data, programs or equipment, and unavailability or interruption of operations.
 
-    If any provision of this Agreement is invalid or unenforceable under applicable law, it shall not affect the validity or enforceability of the remainder of the terms of this Agreement, and without further action by the parties hereto, such provision shall be reformed to the minimum extent necessary to make such provision valid and enforceable.
+6. DISCLAIMER OF LIABILITY
+EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, AND TO THE EXTENT PERMITTED BY 
+APPLICABLE LAW, NEITHER RECIPIENT NOR ANY CONTRIBUTORS SHALL HAVE ANY LIABILITY 
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES 
+(INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF 
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE 
+OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OR DISTRIBUTION OF THE PROGRAM OR 
+THE EXERCISE OF ANY RIGHTS GRANTED HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY 
+OF SUCH DAMAGES.
 
-    If Recipient institutes patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Program itself (excluding combinations of the Program with other software or hardware) infringes such Recipient's patent(s), then such Recipient's rights granted under Section 2(b) shall terminate as of the date such litigation is filed.
+7. GENERAL
+If any provision of this Agreement is invalid or unenforceable under applicable 
+law, it shall not affect the validity or enforceability of the remainder of the 
+terms of this Agreement, and without further action by the parties hereto, such 
+provision shall be reformed to the minimum extent necessary to make such provision 
+valid and enforceable.
 
-    All Recipient's rights under this Agreement shall terminate if it fails to comply with any of the material terms or conditions of this Agreement and does not cure such failure in a reasonable period of time after becoming aware of such noncompliance. If all Recipient's rights under this Agreement terminate, Recipient agrees to cease use and distribution of the Program as soon as reasonably practicable. However, Recipient's obligations under this Agreement and any licenses granted by Recipient relating to the Program shall continue and survive.
+If Recipient institutes patent litigation against any entity (including a cross-claim 
+or counterclaim in a lawsuit) alleging that the Program itself (excluding combinations 
+of the Program with other software or hardware) infringes such Recipient's patent(s), 
+then such Recipient's rights granted under Section 2(b) shall terminate as of the 
+date such litigation is filed.
 
-    Everyone is permitted to copy and distribute copies of this Agreement, but in order to avoid inconsistency the Agreement is copyrighted and may only be modified in the following manner. The Agreement Steward reserves the right to publish new versions (including revisions) of this Agreement from time to time. No one other than the Agreement Steward has the right to modify this Agreement. The Eclipse Foundation is the initial Agreement Steward. The Eclipse Foundation may assign the responsibility to serve as the Agreement Steward to a suitable separate entity. Each new version of the Agreement will be given a distinguishing version number. The Program (including Contributions) may always be Distributed subject to the version of the Agreement under which it was received. In addition, after a new version of the Agreement is published, Contributor may elect to Distribute the Program (including its Contributions) under the new version.
+All Recipient's rights under this Agreement shall terminate if it fails to comply 
+with any of the material terms or conditions of this Agreement and does not cure 
+such failure in a reasonable period of time after becoming aware of such noncompliance. 
+If all Recipient's rights under this Agreement terminate, Recipient agrees to cease 
+use and distribution of the Program as soon as reasonably practicable. However, 
+Recipient's obligations under this Agreement and any licenses granted by Recipient 
+relating to the Program shall continue and survive.
 
-    Except as expressly stated in Sections 2(a) and 2(b) above, Recipient receives no rights or licenses to the intellectual property of any Contributor under this Agreement, whether expressly, by implication, estoppel or otherwise. All rights in the Program not expressly granted under this Agreement are reserved. Nothing in this Agreement is intended to be enforceable by any entity that is not a Contributor or Recipient. No third-party beneficiary rights are created under this Agreement.
-    Exhibit A - Form of Secondary Licenses Notice
+Everyone is permitted to copy and distribute copies of this Agreement, but in order 
+to avoid inconsistency the Agreement is copyrighted and may only be modified in 
+the following manner. The Agreement Steward reserves the right to publish new versions 
+(including revisions) of this Agreement from time to time. No one other than the 
+Agreement Steward has the right to modify this Agreement. The Eclipse Foundation 
+is the initial Agreement Steward. The Eclipse Foundation may assign the responsibility 
+to serve as the Agreement Steward to a suitable separate entity. Each new version 
+of the Agreement will be given a distinguishing version number. The Program (including 
+Contributions) may always be Distributed subject to the version of the Agreement 
+under which it was received. In addition, after a new version of the Agreement is 
+published, Contributor may elect to Distribute the Program (including its Contributions) 
+under the new version.
 
-    "This Source Code may also be made available under the following Secondary Licenses when the conditions for such availability set forth in the Eclipse Public License, v. 2.0 are satisfied: {name license(s), version(s), and exceptions or additional permissions here}."
+Except as expressly stated in Sections 2(a) and 2(b) above, Recipient receives no 
+rights or licenses to the intellectual property of any Contributor under this Agreement, 
+whether expressly, by implication, estoppel or otherwise. All rights in the Program 
+not expressly granted under this Agreement are reserved. Nothing in this Agreement 
+is intended to be enforceable by any entity that is not a Contributor or Recipient. 
+No third-party beneficiary rights are created under this Agreement.
 
-    Simply including a copy of this Agreement, including this Exhibit A is not sufficient to license the Source Code under Secondary Licenses.
+Exhibit A - Form of Secondary Licenses Notice
+"This Source Code may also be made available under the following Secondary Licenses 
+when the conditions for such availability set forth in the Eclipse Public License, 
+v. 2.0 are satisfied: {name license(s), version(s), and exceptions or additional 
+permissions here}."
 
-    If it is not possible or desirable to put the notice in a particular file, then You may include the notice in a location (such as a LICENSE file in a relevant directory) where a recipient would be likely to look for such a notice.
+Simply including a copy of this Agreement, including this Exhibit A is not sufficient 
+to license the Source Code under Secondary Licenses.
 
-    You may add additional accurate notices of copyright ownership.
+If it is not possible or desirable to put the notice in a particular file, then 
+You may include the notice in a location (such as a LICENSE file in a relevant directory) 
+where a recipient would be likely to look for such a notice.
+
+You may add additional accurate notices of copyright ownership.
 
 =====================================================================
 END OF Eclipse 2.0 LICENSE NOTICES AND INFORMATION
@@ -534,7 +672,7 @@ under the ISC License:
 @npmcli/fs					Copyright npm, Inc
 @npmcli/git					Copyright npm, Inc
 @npmcli/installed-package-contents	  	Copyright npm, Inc
-@npmcli/node-gyp 		 	
+@npmcli/node-gyp 			
 @npmcli/package-json	 	Copyright GitHub Inc.
 @npmcli/promise-spawn		Copyright npm, Inc.
 @npmcli/run-script		 	Copyright npm, Inc.
@@ -543,25 +681,19 @@ chownr						Copyright Isaac Z. Schlueter and Contributors
 cliui						Copyright 2015 Contributors
 fastq						Copyright 2015-2020 Matteo Collina <matteo.collina@gmail.com>
 flatted			 			Copyright 2018-2020 Andrea Giammarchi
-foreground-child			Copyright 2015-2023 Isaac Z. Schlueter and Contributors
-fs.realpath					Copyright Isaac Z. Schlueter and Contributors
-fs-minipass		 			Copyright Isaac Z. Schlueter and Contributors
+foreground-child	 		Copyright 2015-2023 Isaac Z. Schlueter and Contributors
+fs-minipass					Copyright Isaac Z. Schlueter and Contributors
 get-caller-file				Copyright 2018 Stefan Penner
-glob			 			Copyright Isaac Z. Schlueter and Contributors
 glob						Copyright 2009-2023 Isaac Z. Schlueter and Contributors
 glob-parent					Copyright 2015-2019 Elan Shanker
 graceful-fs					Copyright Isaac Z. Schlueter, Ben Noordhuis, and Contributors
-hosted-git-info	   			Copyright 2015 Rebecca Turner	
+hosted-git-info	 		  	Copyright 2015 Rebecca Turner	
 ignore-walk					Copyright Isaac Z. Schlueter and Contributors
-inflight		 			Copyright Isaac Z. Schlueter
-inherits		  			Copyright Isaac Z. Schlueter
+ini 			 			Copyright Isaac Z. Schlueter and Contributors
 isexe						Copyright Isaac Z. Schlueter and Contributors
 isexe			  			Copyright 2016-2022 Isaac Z. Schlueter and Contributors
-lru-cache			  		Copyright Isaac Z. Schlueter and Contributors
-lru-cache		 			Copyright 2010-2023 Isaac Z. Schlueter and Contributors
+lru-cache		 		 	Copyright 2010-2023 Isaac Z. Schlueter and Contributors
 make-fetch-happen			Copyright npm, Inc
-minimatch					Copyright Isaac Z. Schlueter and Contributors
-minimatch					Copyright 2011-2022 Isaac Z. Schlueter and Contributors
 minimatch					Copyright 2011-2023 Isaac Z. Schlueter and Contributors
 minipass					Copyright 2017-2022 npm, Inc
 minipass					Copyright 2017-2023 npm, Inc
@@ -572,31 +704,24 @@ minipass-sized	  			Copyright Isaac Z. Schlueter and Contributors
 mute-stream		  			Copyright Isaac Z. Schlueter and Contributors
 nopt			 			Copyright Isaac Z. Schlueter and Contributors
 npm-bundled		  			Copyright npm, Inc. and Contributors
-npm-normalize-package-bin		Copyright npm, Inc.
-npm-package-arg	  			Copyright npm, Inc.
+npm-normalize-package-bin	Copyright npm, Inc.
+npm-package-arg	     		Copyright npm, Inc.
 npm-packlist	  			Copyright Isaac Z. Schlueter and Contributors
 npm-pick-manifest			Copyright npm, Inc.
 npm-registry-fetch	 		Copyright npm, Inc.
-once						Copyright Isaac Z. Schlueter and Contributors
-pacote			  			Copyright Isaac Z. Schlueter, Kat Marchán, npm, Inc., and Contributors
-proc-log		 			Copyright GitHub, Inc.
+pacote				  		Copyright Isaac Z. Schlueter, Kat Marchán, npm, Inc., and Contributors
+proc-log		  			Copyright GitHub, Inc.
 promise-inflight	  		Copyright 2017 Rebecca Turner <me@re-becca.org>	
 read			  			Copyright Isaac Z. Schlueter and Contributors
-read-package-json	 		Copyright Isaac Z. Schlueter
-read-package-json-fast		Copyright npm, Inc. and Contributors
-require-main-filename	  	Copyright 2016 Contributors
 semver					  	Copyright Isaac Z. Schlueter and Contributors
-set-blocking	  			Copyright 2016 Contributors
 signal-exit	 	 			Copyright 2015-2023 Benjamin Coe
 ssri			 			Copyright 2021 npm, Inc.
 tar				 			Copyright Isaac Z. Schlueter and Contributors
 unique-filename	  			Copyright npm, Inc.
 unique-slug		  			Copyright npm, Inc.
-validate-npm-package-name		Copyright 2015 npm, Inc.
+validate-npm-package-name	Copyright 2015 npm, Inc.
 which						Copyright Isaac Z. Schlueter and Contributors
-which-module	  			Copyright 2016 Contributors
-wrappy	 		  			Copyright Isaac Z. Schlueter and Contributors
-y18n	 		  			Copyright 2015 Contributors
+y18n	 		 			Copyright 2015 Contributors
 yallist	 		 			Copyright Isaac Z. Schlueter and Contributors
 yargs-parser	  			Copyright 2016 Contributors
 
@@ -622,299 +747,281 @@ MIT LICENSE
 The Program includes some or all of the following that IBM obtained 
 under the MIT License:
 
-@babel/runtime	 			Copyright 2014 Sebastian McKenzie and other contributors
-@colors/colors	 			Copyright DABH (https://github.com/DABH)
-							Copyright Marak Squires
-							Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-@floating-ui/core 		 	Copyright 2021 Floating UI contributors
-@floating-ui/dom	 	 	Copyright 2021 Floating UI contributors
-@floating-ui/react	 		Copyright 2021 Floating UI contributors
-@floating-ui/react-dom		Copyright 2019 Federico Zivolo
-							Copyright 2021 Floating UI contributors
-@floating-ui/utils	 	 	Copyright 2016 Federico Zivolo
-							Copyright 2016 Federico Zivolo and contributors
-							Copyright 2021 Floating UI contributors
-@hookform/resolvers 	 	Copyright 2019 Beier(Bill) Luo
-@nodelib/fs.scandir	 	 	Copyright Denis Malinochkin
-@nodelib/fs.stat	 	 	Copyright Denis Malinochkin
-@nodelib/fs.walk	 	 	Copyright Denis Malinochkin
-@reduxjs/toolkit		 	Copyright 2018 Mark Erikson
-@tufjs/canonical-json	 	Copyright 2022 GitHub and the TUF Contributors
-@tufjs/models	 		 	Copyright 2022 GitHub and the TUF Contributors
-@types/hoist-non-react-statics	 	Copyright Microsoft Corporation
-@types/prop-types 			Copyright Microsoft Corporation
-@types/react	 		 	Copyright Microsoft Corporation
-@types/scheduler		 	Copyright Microsoft Corporation
-@types/use-sync-external-store	 	Copyright Microsoft Corporation
-@types/vscode	 		 	Copyright Microsoft Corporation
-@types/yargs	 		 	Copyright Microsoft Corporation
-@types/yargs-parser	 	 	Copyright Microsoft Corporation
-@vscode/debugadapter 	 	Copyright Microsoft Corporation
-@vscode/debugprotocol	 	Copyright Microsoft Corporation
-abbrev	 		 			Copyright Isaac Z. Schlueter and Contributors
-agent-base 		 			Copyright 2013 Nathan Rajlich <nathan@tootallnate.net>
-aggregate-error  			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-ansi-regex 		 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-ansi-styles					Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-argparse 		 			Copyright 2012 by Vitaly Puzrin (https://github.com/puzrin)
-array-timsort 	 			Copyright 2015 Marco Ziccardi
-asn1 			 			Copyright 2011 Mark Cavage, All rights reserved
-asynckit 		 			Copyright 2016 Alex Indigo
-axios	 		 			Copyright 2014 Matt Zabriskie & Collaborators
-balanced-match 	 			Copyright 2013 Julian Gruber <julian@juliangruber.com>
-brace-expansion	 			Copyright 2013 Julian Gruber <julian@juliangruber.com>
-braces	 		 			Copyright 2014-2018 Jon Schlinkert
-							Copyright 2019 [Jon Schlinkert](https://github.com/jonschlinkert)
-buildcheck	 	 			Copyright Brian White.
-builtins	 	 			Copyright 2015 Julian Gruber <julian@juliangruber.com>
-camelcase	 	 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-chalk	 					Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-classnames	 	 			Copyright 2018 Jed Watson
-clean-stack	 	 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-cli-table3 		 			Copyright 2010 LearnBoost <dev@learnboost.com>
-							Copyright 2014 James Talmage <james.talmage@jrtechnical.com>
-color	 		 			Copyright 2012 Heather Arthur
-color-convert	 			Copyright 2011-2016 Heather Arthur and Josh Junon
-							Copyright 2011-2016 Heather Arthur <fayearthur@gmail.com>
-color-name 		  			Copyright 2015 Dmitry Ivanov
-colors	 		 			Copyright Marak Squires
-							Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-color-string 	 			Copyright 2011 Heather Arthur <fayearthur@gmail.com>
-combined-stream	 			Copyright 2011 Debuggable Limited <felix@debuggable.com>
-commander	 	 			Copyright 2011 TJ Holowaychuk <tj@vision-media.ca>
-comment-json				Copyright 2013 kaelzhang <>, contributors
-compute-scroll-into-view  	Copyright 2023 Cody Olsen
-concat-map	 	 			Copyright James Halliday
-copy-to-clipboard	 		Copyright 2017 sudodoki <smd.deluzion@gmail.com>
-core-util-is  				Copyright Node.js contributors
-cpu-features 	 			Copyright Brian White
-cross-spawn 				Copyright 2018 Made With MOXY Lda <hello@moxy.studio>
-csstype 		 			Copyright 2017-2018 Fredrik Nicol
-dataobject-parser	 		Copyright 2014 Gigzolo Inc.
-date-format 	 			Copyright 2013 Gareth Jones
-debug 	 		 			Copyright 2017 TJ Holowaychuk <tj@vision-media.ca>
-							Copyright 2021 Josh Junon
-decamelize	 	 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-deepmerge	 	 			Copyright 2012 James Halliday, Josh Duff, and other contributors
-delayed-stream	 			Copyright 2011 Debuggable Limited <felix@debuggable.com>
-diff2html	 				Copyright 2014-2016 Rodrigo Fernandes https
-							Copyright 2014 Rodrigo Fernandes
-diff-sequences	 			Copyright Facebook, Inc. and its affiliates
-downshift	 	 			Copyright 2017 PayPal
-eastasianwidth	
-emoji-regex 	 			Copyright Mathias Bynens <https://mathiasbynens.be/>
-encoding  	 	 			Copyright 2012-2014 Andris Reinman
-env-paths	 	 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-err-code 		 			
-escape-string-regexp 	 	Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-fastest-levenshtein	 	 	Copyright 2020 Kasper Unn Weihe
-fast-glob	 	 			Copyright Denis Malinochkin
-fill-range	 	 			Copyright 2014 Jon Schlinkert
-							Copyright 2019 Jon Schlinkert (https://github.com/jonschlinkert)
-find-process	 			Copyright 2016 Zoujie
-find-up	 		 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-flatpickr	 	 			Copyright 2017 Gregory Petrosyan
-follow-redirects	 		Copyright 2014 Olivier Lalonde <olalonde@gmail.com>, 
+@babel/runtime		 			Copyright 2014 Sebastian McKenzie and other contributors
+@colors/colors					Copyright DABH (https://github.com/DABH)
+								Copyright Marak Squires
+								Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+@floating-ui/core 			 	Copyright 2021 Floating UI contributors
+@floating-ui/dom	 			Copyright 2021 Floating UI contributors
+@floating-ui/react	 			Copyright 2021 Floating UI contributors
+@floating-ui/react-dom			Copyright 2019 Federico Zivolo
+								Copyright 2021 Floating UI contributors
+@floating-ui/utils	 		 	Copyright 2016 Federico Zivolo
+								Copyright 2016 Federico Zivolo and contributors
+								Copyright 2021 Floating UI contributors
+@hookform/resolvers 		 	Copyright 2019 Beier(Bill) Luo
+@jest/schemas	 			 	Copyright Meta Platforms, Inc. and affiliates
+@nodelib/fs.scandir	 		 	Copyright Denis Malinochkin
+@nodelib/fs.stat	 		 	Copyright Denis Malinochkin
+@nodelib/fs.walk	 		 	Copyright Denis Malinochkin
+@npmcli/redact	 			 	Copyright 2024 npm
+@reduxjs/toolkit			 	Copyright 2018 Mark Erikson
+@sinclair/typebox	 		 	Copyright 2017-2023 Haydn Paterson
+@tufjs/canonical-json			Copyright 2022 GitHub and the TUF Contributors
+@tufjs/models	 			 	Copyright 2022 GitHub and the TUF Contributors
+@types/hoist-non-react-statics	Copyright Microsoft Corporation
+@types/prop-types 				Copyright Microsoft Corporation
+@types/react	 				Copyright Microsoft Corporation
+@types/scheduler			 	Copyright Microsoft Corporation
+@types/use-sync-external-store	Copyright Microsoft Corporation
+@types/vscode	 				Copyright Microsoft Corporation
+@types/yargs	 			 	Copyright Microsoft Corporation
+@types/yargs-parser	 		 	Copyright Microsoft Corporation
+@vscode/debugadapter 		 	Copyright Microsoft Corporation
+@vscode/debugprotocol		 	Copyright Microsoft Corporation
+abbrev	 			 			Copyright Isaac Z. Schlueter and Contributors
+agent-base 			 			Copyright 2013 Nathan Rajlich <nathan@tootallnate.net>
+aggregate-error 	 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+ansi-regex 					 	Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+ansi-styles						Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+array-timsort 		 			Copyright 2015 Marco Ziccardi
+asn1 				 			Copyright 2011 Mark Cavage, All rights reserved
+asynckit 			 			Copyright 2016 Alex Indigo
+axios	 			 			Copyright 2014 Matt Zabriskie & Collaborators
+balanced-match 		 			Copyright 2013 Julian Gruber <julian@juliangruber.com>
+brace-expansion		  			Copyright 2013 Julian Gruber <julian@juliangruber.com>
+braces	 			 			Copyright 2014-2018 Jon Schlinkert
+								Copyright 2019 [Jon Schlinkert](https://github.com/jonschlinkert)
+buildcheck	 		 			Copyright Brian White.
+chalk	 			  			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+classnames	 		 			Copyright 2018 Jed Watson
+clean-stack	 		 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+cli-table3 			 			Copyright 2010 LearnBoost <dev@learnboost.com>
+								Copyright 2014 James Talmage <james.talmage@jrtechnical.com>
+color	 			 			Copyright 2012 Heather Arthur
+color-convert					Copyright 2011-2016 Heather Arthur and Josh Junon
+								Copyright 2011-2016 Heather Arthur <fayearthur@gmail.com>
+color-name 			 			Copyright 2015 Dmitry Ivanov
+colors	 			 			Copyright Marak Squires
+								Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+color-string 		 			Copyright 2011 Heather Arthur <fayearthur@gmail.com>
+combined-stream		 			Copyright 2011 Debuggable Limited <felix@debuggable.com>
+comment-json				 	Copyright 2013 kaelzhang <>, contributors
+compute-scroll-into-view 	 	Copyright 2023 Cody Olsen
+copy-to-clipboard		 		Copyright 2017 sudodoki <smd.deluzion@gmail.com>
+core-util-is 		 			Copyright Node.js contributors
+cpu-features 		 			Copyright Brian White
+cross-spawn 					Copyright 2018 Made With MOXY Lda <hello@moxy.studio>
+csstype 			 			Copyright 2017-2018 Fredrik Nicol
+dataobject-parser		 		Copyright 2014 Gigzolo Inc
+								Copyright 2024 Canvas Digital LLC
+date-format 		 			Copyright 2013 Gareth Jones
+debug 	 			 			Copyright 2018-2021 Josh Junon
+								Copyright 2014-2017 TJ Holowaychuk <tj@vision-media.ca>
+deepmerge	 		 			Copyright 2012 James Halliday, Josh Duff, and other contributors
+deep-object-diff		 		Copyright 2016 Matt Phillips <mattphillips>
+delayed-stream		 			Copyright 2011 Debuggable Limited <felix@debuggable.com>
+diff2html	 					Copyright 2014-2016 Rodrigo Fernandes https
+								Copyright 2014 Rodrigo Fernandes
+diff-sequences		 			Copyright Facebook, Inc. and its affiliates
+downshift	 		 			Copyright 2017 PayPal
+eastasianwidth		
+emoji-regex 				 	Copyright Mathias Bynens <https://mathiasbynens.be/>
+encoding  	 		 			Copyright 2012-2014 Andris Reinman
+env-paths	 		 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+err-code 						
+escalade	 		 			Copyright Luke Edwards <luke.edwards05@gmail.com> (lukeed.com)
+fastest-levenshtein	 		 	Copyright 2020 Kasper Unn Weihe
+fast-glob	 		 			Copyright Denis Malinochkin
+fill-range	 		 			Copyright 2014 Jon Schlinkert
+								Copyright 2019 Jon Schlinkert (https://github.com/jonschlinkert)
+find-up	 			 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+flatpickr	 		 			Copyright 2017 Gregory Petrosyan
+follow-redirects				Copyright 2014 Olivier Lalonde <olalonde@gmail.com>, 
 											James Talmage <james@talmage.io>, Ruben Verborgh
-form-data 		 			Copyright 2012 Felix Geisendörfer (felix@debuggable.com) and contributors
-fs-extra 		 			Copyright 2011-2017 JP Richardson
-function-bind	 			Copyright 2013 Raynos
-get-stream	 	 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
-has	 			 			Copyright 2013 Thiago de Arruda
-has-flag	 	 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-has-own-prop	 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-html-parse-stringify	
-http-proxy-agent  	  		Copyright 2013 Nathan Rajlich <nathan@tootallnate.net>
-https-proxy-agent 			Copyright 2013 Nathan Rajlich <nathan@tootallnate.net>
-i18next	 		 			Copyright 2017 i18next
-i18next	 					Copyright 2024 i18next
-i18next-browser-languagedetector	 	Copyright 2015 i18next
-iconv-lite	 	 			Copyright 2011 Alexander Shtuchkin
-immer			 			Copyright 2017 Michel Weststrate
-imurmurhash	 	 			Copyright 2013 Gary Court, Jens Taylor
-indent-string 	 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-invariant 		 			Copyright 2013 Facebook, Inc
-ip-address	 	 			Copyright 2011 by Beau Gunderson
-is-arrayish	 				Copyright 2015 JD Ballard
-is-core-module	 			Copyright 2014 Dave Justice
-is-extglob 		 			Copyright 2016 Jon Schlinkert (https://github.com/jonschlinkert)
-							Copyright 2014-2016 Jon Schlinkert
-is-fullwidth-code-point	 	Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-is-glob	 		 			Copyright 2019 Jon Schlinkert (https://github.com/jonschlinkert)
-							Copyright 2014-2017 Jon Schlinkert
-is-lambda	 	 			Copyright (2016-2017 Thomas Watson Steen
-is-number	 	 			Copyright 2018 Jon Schlinkert (https://github.com/jonschlinkert)
-							Copyright 2014 Jon Schlinkert
-jest-diff	 	 			Copyright Facebook, Inc. and its affiliates
-jest-get-type 	 			Copyright Facebook, Inc. and its affiliates
-jsbn	 		 			Copyright 2003-2005  Tom Wu
-jsonfile	 	 			Copyright 2012-2015 JP Richardson <jprichardson@gmail.com>
-							Copyright 2012-2016 JP Richardson  <jprichardson@gmail.com>
-jsonparse	 	 			Copyright 2011-2012 Tim Caswell
-							Copyright 2012 Tim Caswell
-json-parse-even-better-errors  		Copyright npm, Inc
-									Copyright 2017 Kat Marchán
-jsonschema	 	 			Copyright 2012-2015 Tom de Grunt <tom@degrunt.nl>
-js-tokens	 	 			Copyright 2014-2015 2016, 2017, 2018 Simon Lydell
-js-yaml	 		 			Copyright 2011-2015 by Vitaly Puzrin
-linkify-it	 	 			Copyright 2015 Vitaly Puzrin
-locate-path	 	 			Copyright (indre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-lodash	 		 			Copyright jQuery Foundation and other contributors <https://jquery.org/>
-lodash.debounce	 			Copyright jQuery Foundation and other contributors <https://jquery.org/>
-lodash.findlast	 			Copyright 2009-2016 Jeremy Ashkenas,
-							Copyright jQuery Foundation and other contributors <https://jquery.org/>
-							Copyright 2012-2016 The Dojo Foundation <http://dojofoundation.org/>"
-lodash.isequal				Copyright 2023 JS Foundation
-lodash.omit	 	 			Copyright 2009-2016 Jeremy Ashkenas,
-							Copyright jQuery Foundation and other contributors <https://jquery.org/>
-							Copyright 2012-2016 The Dojo Foundation <http://dojofoundation.org/>"
-lodash.throttle	 			Copyright jQuery Foundation and other contributors <https://jquery.org/>
-lodash-deep	 	 			Copyright 2014-2016 Mark Lagendijk
-loose-envify	 			Copyright 2015 Andres Suarez <zertosh@gmail.com>
-markdown-it	 	 			Copyright 2014 Vitaly Puzrin, Alex Kocharin
-mdurl	 		 			Copyright 2015 Vitaly Puzrin, Alex Kocharin
-merge2	 		 			Copyright 2014-2020 Teambition
-micromatch		 			Copyright 2023 Jon Schlinkert (https://github.com/jonschlinkert)
-							Copyright 2014 Jon Schlinkert
-mime-db	 					Copyright 2014 Jonathan Ong <me@jongleberry.com>
-							Copyright 2015-2022 Douglas Christopher Wilson <doug@somethingdoug.com>
-mime-types		 			Copyright 2014 Jonathan Ong <me@jongleberry.com>
-							Copyright 2015 Douglas Christopher Wilson <doug@somethingdoug.com>
-minimist		
-minipass-fetch	 			Copyright Isaac Z. Schlueter and Contributors
-							Copyright 2016 David Frank
-minipass-json-stream 	 	Copyright 2011 Dominic Tarr
-							Copyright Isaac Z
-minizlib		 			Copyright Isaac Z. Schlueter and Contributors
-							Copyright Node.js contributors. All rights reserved.
-							Copyright Joyent, Inc. and other Node contributors. All rights reserved.
-mkdirp			 			Copyright James Halliday (mail@substack.net) and Isaac Z
-ms	 			 			Copyright 2016 Zeit, Inc.
-mustache	 	 			Copyright 2009 Chris Wanstrath (Ruby)
-							Copyright 2010-2014 Jan Lehnardt (JavaScript)
-							Copyright 2010-2015 The mustache.js community
-nan	 			 			Copyright 2018 NAN contributors (https://github.com/nodejs/nan#wg-members--collaborators)
-negotiator	 				Copyright 2014-2015 Douglas Christopher Wilson
-							Copyright 2012-2014 Federico Romero
-							Copyright 2012-2014 Isaac Z. Schlueter
-node-gyp 		
-object-assign	 			Copyright Sindre Sorhus (sindresorhus@gmail.com) (sindresorhus.com)
-opener	 					Copyright 2012-2020 Domenic Denicola <d@domenic.me>
-							Copyright 2004 Sam Hocevar <sam@hocevar.net>
-path-exists	 	 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-path-is-absolute	 		Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-path-key		 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-picomatch	 	 			Copyright 2017 Jon Schlinkert (https://github.com/jonschlinkert)
-p-limit	 		 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-p-locate	 	 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-p-map	 		 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
-pretty-format	 			Copyright Facebook, Inc. and its affiliates
-prettyjson	 	 			Copyright 2011 Rafael de Oleza <rafeca@gmail.com>
-progress	 	 			Copyright 2017 TJ Holowaychuk <tj@vision-media.ca>
-promise-retry	 			Copyright 2014 IndigoUnited
-prop-types	 	 			Copyright 2013-present, Facebook, Inc.
-proxy-from-env	 			Copyright 2016-2018 Rob Wu <rob@robwu.nl>
-p-try	 		 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-punycode.js	 	 			Copyright Mathias Bynens <https://mathiasbynens.be/>
-queue-microtask	 			Copyright Feross Aboukhadijeh
-react	 		 			Copyright Facebook, Inc. and its affiliates
-react-dom	 	 			Copyright Facebook, Inc. and its affiliates
-react-hook-form	 			Copyright 2019 Beier(Bill) Luo
-react-i18next	 			Copyright 2022 i18next
-react-is					Copyright Facebook, Inc. and its affiliates.
-react-redux	 	 			Copyright 2015 Dan Abramov
-readline-sync	 			Copyright 2019 anseki
-redux	 		 			Copyright 2015 Dan Abramov
-redux-thunk	 	 			Copyright 2015 Dan Abramov
-regenerator-runtime  		Copyright 2014 Facebook, Inc.
-repeat-string	 			Copyright 2014-2015 Jon Schlinkert
-							Copyright 2014-2016 Jon Schlinkert
-							Copyright 2016 Jon Schlinkert (http://github.com/jonschlinkert)
-require-directory 	 		Copyright 2011 Troy Goode <troygoode@gmail.com>
-reselect	 	 			Copyright 2015-2018 Reselect Contributors
-resize-observer-polyfill 	Copyright 2016 Denis Rul
-retry			 			Copyright 2011: Tim Koschützki (tim@debuggable.com), Felix Geisendörfer (felix@debuggable.com)
-reusify	 		 			Copyright 2015 Matteo Collina
-rfdc	 		 			Copyright 2019 David Mark Clements <david.mark.clements@gmail.com>
-run-parallel	 			Copyright Feross Aboukhadijeh
-safer-buffer	 			Copyright 2018 Nikita Skovoroda <chalkerx@gmail.com>
-scheduler	 	 			Copyright Facebook, Inc. and its affiliates
-shebang-command	 			Copyright Kevin Mårtensson <kevinmartensson@gmail.com> (github.com/kevva)
-shebang-regex				Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-simple-swizzle	 			Copyright 2015 Josh Junon
-smart-buffer	 			Copyright 2013-2017 Josh Glazebrook
-socks	 		 			Copyright 2013 Josh Glazebrook
-socks-proxy-agent	 		Copyright 2013 Nathan Rajlich <nathan@tootallnate.net>
-spdx-expression-parse	 	Copyright 2015 Kyle E
-ssh2	 		 			Copyright Brian White
-stack-trace	 	 			Copyright 2011 Felix Geisendörfer (felix@debuggable.com)
-streamroller	 			Copyright 2013 Gareth Jones
-string-width	 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-strip-ansi	 				Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-supports-color	 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
-tabbable	 			 	Copyright 2015 David Clark
-toggle-selection	 		Copyright 2017.0 sudodoki
-to-regex-range	 			Copyright 2015 Jon Schlinkert
-							Copyright 2019 Jon Schlinkert (https://github.com/jonschlinkert)
-tuf-js			 			Copyright 2023 The Sigstore Authors
-uc.micro	 				Copyright Mathias Bynens <https://mathiasbynens.be/>
-underscore	 	 			Copyright 2009-2022 Jeremy Ashkenas
-universalify	 			Copyright 2017 Ryan Zimmerman <opensrc@ryanzim.com>
-use-resize-observer	 		Copyright 2018 Viktor Hubert <rpgmorpheus@gmail.com>
-use-sync-external-store	 	Copyright Facebook, Inc. and its affiliates
-uuid		 	 			Copyright 2010-2020 Robert Kieffer and other contributors
-void-elements	 			Copyright 2014 hemanth
-window-or-global	 		Copyright Purpose Industries
-wrap-ansi					Copyright Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
-yamljs	 					Copyright 2010 Jeremy Faivre
-zod	 			 			Copyright 2020 Colin McDonnell
+form-data 						Copyright 2012 Felix Geisendörfer (felix@debuggable.com) and contributors
+fs-extra 					 	Copyright 2011-2017 JP Richardson
+has-flag	 					Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+has-own-prop		 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+html-parse-stringify		
+http-proxy-agent  		 		Copyright 2013 Nathan Rajlich <nathan@tootallnate.net>
+https-proxy-agent 				Copyright 2013 Nathan Rajlich <nathan@tootallnate.net>
+i18next	 			 			Copyright 2017 i18next
+i18next	 						Copyright 2024 i18next
+i18next-browser-languagedetector		Copyright 2015 i18next
+iconv-lite	 		 			Copyright 2011 Alexander Shtuchkin
+immer							Copyright 2017 Michel Weststrate
+imurmurhash	 		 			Copyright 2013 Gary Court, Jens Taylor
+indent-string 		 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+invariant 						Copyright 2013 Facebook, Inc
+ip-address	 		 			Copyright 2011 by Beau Gunderson
+is-arrayish	 		 			Copyright 2015 JD Ballard
+is-extglob 			 			Copyright 2016 Jon Schlinkert (https://github.com/jonschlinkert)
+								Copyright 2014-2016 Jon Schlinkert
+is-fullwidth-code-point		 	Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+is-glob	 						Copyright 2019 Jon Schlinkert (https://github.com/jonschlinkert)
+								Copyright 2014-2017 Jon Schlinkert
+is-lambda	 		 			Copyright (2016-2017 Thomas Watson Steen
+is-number	 		 			Copyright 2018 Jon Schlinkert (https://github.com/jonschlinkert)
+								Copyright 2014 Jon Schlinkert
+jest-diff	 		 			Copyright Facebook, Inc. and its affiliates
+jest-get-type 		 			Copyright Facebook, Inc. and its affiliates
+jsbn	 			 			Copyright 2003-2005  Tom Wu
+jsonfile	 				 	Copyright 2012-2015 JP Richardson <jprichardson@gmail.com>
+								Copyright 2012-2016 JP Richardson  <jprichardson@gmail.com>
+jsonparse	 		 			Copyright 2011-2012 Tim Caswell
+								Copyright 2012 Tim Caswell
+json-parse-even-better-errors  	Copyright npm, Inc
+								Copyright 2017 Kat Marchán
+jsonschema	 		 			Copyright 2012-2015 Tom de Grunt <tom@degrunt.nl>
+jsonwebtoken		 			Copyright 2015 Auth0, Inc
+js-tokens	 		 			Copyright 2014-2015 2016, 2017, 2018 Simon Lydell
+js-yaml	 			 			Copyright 2011-2015 by Vitaly Puzrin
+jwa	 				 			Copyright 2013 Brian J
+jws	 				 			Copyright 2013-2015 Brian J
+linkify-it	 		 			Copyright 2015 Vitaly Puzrin
+locate-path	 					Copyright (indre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+lodash	 				 		Copyright jQuery Foundation and other contributors <https://jquery.org/>
+lodash.debounce		 			Copyright jQuery Foundation and other contributors <https://jquery.org/>
+lodash.findlast		 			Copyright 2009-2016 Jeremy Ashkenas,
+								Copyright jQuery Foundation and other contributors <https://jquery.org/>
+								Copyright 2012-2016 The Dojo Foundation <http://dojofoundation.org/>"
+lodash.includes		 			Copyright 2009-2016 Jeremy Ashkenas,
+								Copyright jQuery Foundation and other contributors <https://jquery.org/>
+								Copyright 2012-2016 The Dojo Foundation <http://dojofoundation.org
+lodash.isboolean				Copyright 2009-2016 Jeremy Ashkenas,
+								Copyright 2011 Jeremy Ashkenas, DocumentCloud
+								Copyright 2012-2016 The Dojo Foundation <http://dojofoundation.org/>
+lodash.isequal			 		Copyright 2023 JS Foundation
+lodash.isinteger		 		Copyright jQuery Foundation and other contributors <https://jquery.org/>
+lodash.isnumber			 		Copyright 2009-2016 Jeremy Ashkenas,
+								Copyright 2011 Jeremy Ashkenas, DocumentCloud
+								Copyright 2012-2016 The Dojo Foundation <http://dojofoundation.org/>
+lodash.isplainobject		 	Copyright jQuery Foundation and other contributors <https://jquery.org/>
+lodash.isstring				 	Copyright 2009-2016 Jeremy Ashkenas,
+								Copyright 2012-2016 The Dojo Foundation <http://dojofoundation.org/>
+lodash.omit	 		 			Copyright 2009-2016 Jeremy Ashkenas,
+								Copyright jQuery Foundation and other contributors <https://jquery.org/>
+								Copyright 2012-2016 The Dojo Foundation <http://dojofoundation.org/>"
+lodash.once			 			Copyright jQuery Foundation and other contributors <https://jquery.org/>
+lodash.throttle		 			Copyright jQuery Foundation and other contributors <https://jquery.org/>
+lodash-deep	 		 			Copyright 2014-2016 Mark Lagendijk
+loose-envify		 			Copyright 2015 Andres Suarez <zertosh@gmail.com>
+markdown-it	 					Copyright 2014 Vitaly Puzrin, Alex Kocharin
+mdurl	 			 			Copyright 2015 Vitaly Puzrin, Alex Kocharin
+merge2	 			 			Copyright 2014-2020 Teambition
+micromatch			 			Copyright 2023 Jon Schlinkert (https://github.com/jonschlinkert)
+								Copyright 2014 Jon Schlinkert
+mime-db	 			 			Copyright 2014 Jonathan Ong <me@jongleberry.com>
+								Copyright 2015-2022 Douglas Christopher Wilson <doug@somethingdoug.com>
+mime-types			 			Copyright 2014 Jonathan Ong <me@jongleberry.com>
+								Copyright 2015 Douglas Christopher Wilson <doug@somethingdoug.com>
+minimist			
+minipass-fetch					Copyright Isaac Z. Schlueter and Contributors
+								Copyright 2016 David Frank
+minizlib						Copyright Isaac Z. Schlueter and Contributors
+								Copyright Node.js contributors. All rights reserved.
+								Copyright Joyent, Inc. and other Node contributors. All rights reserved.
+mkdirp				 			Copyright James Halliday (mail@substack.net) and Isaac Z
+ms	 							Copyright 2016 Zeit, Inc.
+mustache	 		 			Copyright 2009 Chris Wanstrath (Ruby)
+								Copyright 2010-2014 Jan Lehnardt (JavaScript)
+								Copyright 2010-2015 The mustache.js community
+nan	 				 			Copyright 2018 NAN WG Members / Collaborators (listed above)
+								Copyright 2018 NAN contributors" (https://github.com/nodejs/nan#wg-members--collaborators)
+negotiator	 					Copyright 2014-2015 Douglas Christopher Wilson
+								Copyright 2012-2014 Federico Romero
+								Copyright 2012-2014 Isaac Z. Schlueter
+node-gyp 			
+object-assign		 			Copyright Sindre Sorhus (sindresorhus@gmail.com) (sindresorhus.com)
+opener   						Copyright 2012-2020 Domenic Denicola <d@domenic.me>
+								Copyright 2004 Sam Hocevar <sam@hocevar.net>
+path-exists	 		 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+path-key			 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+picomatch	 		 			Copyright 2017 Jon Schlinkert (https://github.com/jonschlinkert)
+p-limit	 			 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+p-locate	 		 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+p-map	 			 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
+pretty-format					Copyright Facebook, Inc. and its affiliates
+prettyjson	 					Copyright 2011 Rafael de Oleza <rafeca@gmail.com>
+progress	 		 			Copyright 2017 TJ Holowaychuk <tj@vision-media.ca>
+promise-retry		 			Copyright 2014 IndigoUnited
+prop-types	 		 			Copyright 2013-present, Facebook, Inc.
+proxy-from-env		  			Copyright 2016-2018 Rob Wu <rob@robwu.nl>
+punycode.js	 		 			Copyright Mathias Bynens <https://mathiasbynens.be/>
+queue-microtask					Copyright Feross Aboukhadijeh
+react	 			 			Copyright Facebook, Inc. and its affiliates
+react-dom	 					Copyright Facebook, Inc. and its affiliates
+react-hook-form		 			Copyright 2019 Beier(Bill) Luo
+react-i18next					Copyright 2022 i18next
+react-is					 	Copyright Facebook, Inc. and its affiliates.
+react-redux	 					Copyright 2015 Dan Abramov
+redux	 			 			Copyright 2015 Dan Abramov
+redux-thunk	 		 			Copyright 2015 Dan Abramov
+regenerator-runtime				Copyright 2014 Facebook, Inc.
+repeat-string					Copyright 2014-2015 Jon Schlinkert
+								Copyright 2014-2016 Jon Schlinkert
+								Copyright 2016 Jon Schlinkert (http://github.com/jonschlinkert)
+require-directory 		 		Copyright 2011 Troy Goode <troygoode@gmail.com>
+reselect	 		 			Copyright 2015-2018 Reselect Contributors
+resize-observer-polyfill 		Copyright 2016 Denis Rul
+retry				 			Copyright 2011: Tim Koschützki (tim@debuggable.com), Felix Geisendörfer (felix@debuggable.com)
+reusify	 			 			Copyright 2015 Matteo Collina
+rfdc	 			 			Copyright 2019 David Mark Clements <david.mark.clements@gmail.com>
+run-parallel		 			Copyright Feross Aboukhadijeh
+safer-buffer				 	Copyright 2018 Nikita Skovoroda <chalkerx@gmail.com>
+scheduler	 					Copyright Facebook, Inc. and its affiliates
+shebang-command					Copyright Kevin Mårtensson <kevinmartensson@gmail.com> (github.com/kevva)
+shebang-regex		 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+simple-swizzle					Copyright 2015 Josh Junon
+smart-buffer		 			Copyright 2013-2017 Josh Glazebrook
+socks	 			 			Copyright 2013 Josh Glazebrook
+socks-proxy-agent				Copyright 2013 Nathan Rajlich <nathan@tootallnate.net>
+spdx-expression-parse		 	Copyright 2015 Kyle E
+ssh2	 			 			Copyright Brian White
+stack-trace	 					Copyright 2011 Felix Geisendörfer (felix@debuggable.com)
+streamroller		 			Copyright 2013 Gareth Jones
+string-width				 	Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+strip-ansi	 					Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+supports-color		  			Copyright Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+tabbable	 				 	Copyright 2015 David Clark
+toggle-selection		 		Copyright 2017.0 sudodoki
+to-regex-range					Copyright 2015 Jon Schlinkert
+								Copyright 2019 Jon Schlinkert (https://github.com/jonschlinkert)
+tuf-js							Copyright 2023 The Sigstore Authors
+uc.micro	 					Copyright Mathias Bynens <https://mathiasbynens.be/>
+underscore	 		 			Copyright 2009-2022 Jeremy Ashkenas
+universalify					Copyright 2017 Ryan Zimmerman <opensrc@ryanzim.com>
+use-resize-observer		 		Copyright 2018 Viktor Hubert <rpgmorpheus@gmail.com>
+use-sync-external-store		 	Copyright Facebook, Inc. and its affiliates
+uuid		 		 			Copyright 2010-2020 Robert Kieffer and other contributors
+void-elements		 			Copyright 2014 hemanth
+window-or-global		 		Copyright Purpose Industries
+wrap-ansi					 	Copyright Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
+yargs	 			 			Copyright 2010-2014 Contributors
+yocto-queue	 		 			Copyright Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
+zod	 							Copyright 2020 Colin McDonnell
 	
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to 
+any person obtaining a copy of this software and 
+associated documentation files (the Software), 
+to deal in the Software without restriction, 
+including without limitation the rights to use, 
+copy, modify, merge, publish, distribute, sublicense, 
+and/or sell copies of the Software, and to permit 
+persons to whom the Software is furnished to do so.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF 
+ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED 
+TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A 
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT 
+SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR 
+ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN 
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE 
+OR OTHER DEALINGS IN THE SOFTWARE.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
------------------------------------------
-
-The Program includes some or all of the following that IBM obtained 
-under the MIT/X11 license:
-
-yargs 					Copyright 2010 James Halliday (mail@substack.net)
-
-Modified work Copyright 2014 Contributors (ben@npmjs.com)
-This project is free software released under the MIT/X11 license:
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
 
 =====================================================================
 END OF MIT LICENSE NOTICES AND INFORMATION
@@ -925,9 +1032,11 @@ Python 2.0 License
 The Program includes some or all of the following that IBM obtained 
 under the Python 2.0 License: 
 
-argparse		
+argparse			
 	Copyright 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010,
 	2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020 Python Software Foundation
+
+Python 2.0 License Information
 
 A. HISTORY OF THE SOFTWARE
 ==========================
@@ -1194,7 +1303,7 @@ Unlicense
 The Program includes some or all of the following that IBM obtained 
 under the Unlicense License: 
 
-tweetnacl	
+tweetnacl		
 
 This is free and unencumbered software released into the public domain.
 
@@ -1230,6 +1339,6 @@ END OF Unlicense LICENSE NOTICES AND INFORMATION
 End of Notices and Information for IBM Z Open Debug
 =======================================================================
 
-L/N: L-YSBU-V66MFG
-D/N: L-YSBU-V66MFG
-P/N: L-YSBU-V66MFG
+L/N: L-QJTP-FG7P5U
+D/N: L-QJTP-FG7P5U
+P/N: L-QJTP-FG7P5U
