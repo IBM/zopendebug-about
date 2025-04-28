@@ -1,6 +1,6 @@
 NOTICES AND INFORMATION
 
-IBM Z Open Debug 5.3
+IBM Z Open Debug 5.4
 
 The IBM license agreement and any applicable information on the web
 download page for IBM products refers Licensee to this file for details
@@ -1340,6 +1340,6 @@ END OF Unlicense LICENSE NOTICES AND INFORMATION
 End of Notices and Information for IBM Z Open Debug
 =======================================================================
 
-L/N: L-XLVH-TWZERP
-D/N: L-XLVH-TWZERP
-P/N: L-XLVH-TWZERP
+L/N: L-JMYJ-2EM8D8
+D/N: L-JMYJ-2EM8D8
+P/N: L-JMYJ-2EM8D8
