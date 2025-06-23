@@ -3,6 +3,11 @@
 **IBM Z Open Debug is an extension for Visual Studio Code that provides interactive debugging support for debugging z/OS COBOL, PL/I and High Level Assembler applications in VS Code, in conjunction with IBM z/OS Debugger.**
 
 
+> Go here for the full [Documentation](https://www.ibm.com/docs/en/developer-for-zos/latest?topic=code-debugging-applications) online. 
+
+Simplify your installation experience by using newly bundled extension packs that contain Z Open Debug as well as other extensions available for [IDzEE](https://marketplace.visualstudio.com/items?itemName=IBM.developer-for-zos-on-vscode-extension-pack) and [ADFz](https://marketplace.visualstudio.com/items?itemName=IBM.application-delivery-foundation-for-zos-vscode-extension-pack) customers.
+
+
 ## Table of contents
 
 - [Prerequisites](#prerequisites)
@@ -23,6 +28,7 @@ Review the [IBM Z Open Debug License Agreement](https://github.com/IBM/zopendebu
 - Host
   - IBM z/OS Debugger [Remote Debug Service](https://www.ibm.com/docs/en/debug-for-zos/latest?topic=users-adding-support-remote-debug-service): for interactively debugging compiled applications running on z/OS
   - IBM z/OS Debugger [Debug Profile Service](https://www.ibm.com/docs/en/debug-for-zos/latest?topic=users-adding-support-debug-profile-service-apis): for creating debug profiles which can be used to trigger IBM z/OS Debugger in Batch, TSO, CICS and IMS environments
+  - A valid host registration for [IBM Developer for z/OS Enterprise Edition (IDzEE)](https://www.ibm.com/products/developer-for-zos) or [IBM Application Delivery Foundation for z/OS (ADFz)](https://www.ibm.com/products/app-delivery-foundation-for-zos) 
 
 
 
