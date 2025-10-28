@@ -1,6 +1,6 @@
 TERMS AND CONDITIONS FOR SEPARATELY LICENSED CODE
 
-IBM Z Open Debug 5.5.3
+IBM Z Open Debug 5.6
 
 The IBM license agreement and any applicable information on the web
 download page for IBM products refers Licensee to this file for details
@@ -155,6 +155,6 @@ END OF SIL OPEN FONT LICENSE 1.1 NON-IBM-LICENSE INFORMATION
 ------------------------------------------------------------
 
 
-L/N: L-XBSB-APCGMJ
-D/N: L-XBSB-APCGMJ
-P/N: L-XBSB-APCGMJ
+L/N: L-CQRM-PANYVH
+D/N: L-CQRM-PANYVH
+P/N: L-CQRM-PANYVH
