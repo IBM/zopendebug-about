@@ -28,7 +28,7 @@ Review the [IBM Z Open Debug License Agreement](https://github.com/IBM/zopendebu
 - Host
   - IBM z/OS Debugger [Remote Debug Service](https://www.ibm.com/docs/en/debug-for-zos/latest?topic=users-adding-support-remote-debug-service): for interactively debugging compiled applications running on z/OS
   - IBM z/OS Debugger [Debug Profile Service](https://www.ibm.com/docs/en/debug-for-zos/latest?topic=users-adding-support-debug-profile-service-apis): for creating debug profiles which can be used to trigger IBM z/OS Debugger in Batch, TSO, CICS and IMS environments
-  - A valid host registration for [IBM Developer for z/OS Enterprise Edition (IDzEE)](https://www.ibm.com/products/developer-for-zos) or [IBM Application Delivery Foundation for z/OS (ADFz)](https://www.ibm.com/products/app-delivery-foundation-for-zos) 
+  - A valid host registration for [IBM Developer for z/OS Enterprise Edition (IDzEE)](https://www.ibm.com/products/developer-for-zos), [IBM Developer for z/OS Select](https://www.ibm.com/support/pages/ibm-developer-zos-select100) or [IBM Application Delivery Foundation for z/OS (ADFz)](https://www.ibm.com/products/app-delivery-foundation-for-zos) 
 
 
 
