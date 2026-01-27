@@ -1,6 +1,6 @@
 NOTICES AND INFORMATION
 
-IBM Z Open Debug 5.6.1
+IBM Z Open Debug 5.6.2
 
 The IBM license agreement and any applicable information on the web
 download page for IBM products refers Licensee to this file for details
@@ -1362,6 +1362,6 @@ END OF Unlicense LICENSE NOTICES AND INFORMATION
 End of Notices and Information for IBM Z Open Debug
 =======================================================================
 
-L/N: L-TCSN-BMJF6G
-D/N: L-TCSN-BMJF6G
-P/N: L-TCSN-BMJF6G
+L/N: L-XTQB-6FGMD7
+D/N: L-XTQB-6FGMD7
+P/N: L-XTQB-6FGMD7
