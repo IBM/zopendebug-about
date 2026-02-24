@@ -1,6 +1,6 @@
 TERMS AND CONDITIONS FOR SEPARATELY LICENSED CODE
 
-IBM Z Open Debug 5.6.2
+IBM Z Open Debug 5.6.3
 
 The IBM license agreement and any applicable information on the web
 download page for IBM products refers Licensee to this file for details
@@ -20,52 +20,36 @@ shipped with, the Program as Licensee installed it.
 
 The following are Separately Licensed Code:
 
-IBM Plex fonts  	
-spdx-exceptions		
-spdx-license-ids	
 
------------------------------------------------------------
-
-TABLE OF CONTENTS
-
-THIS NON-IBM-LICENSE FILE CONSISTS OF THE FOLLOWING SECTIONS:
-
-CREATIVE COMMONS LICENSES
-SIL OPEN FONT LICENSE 1.1
-
------------------------------------------------------------
-
-CREATIVE COMMONS LICENSES
-
-The Program includes some or all of the following works licensed under the 
-Creative Commons Attribution License 3.0 (“CC BY 3.0”).
-The url to the license is http://creativecommons.org/licenses/by/3.0/.
-
-spdx-exceptions		
-
-The Program includes some or all of the following works licensed under the 
-Creative Commons Zero v1.0 Universal License (“CC0-1.0”).
-The url to the license is https://creativecommons.org/publicdomain/zero/1.0/.
-
-spdx-license-ids
-
------------------------------------------------------------
-END OF CREATIVE COMMONS NON-IBM-LICENSES INFORMATION
------------------------------------------------------------
-
-SIL OPEN FONT LICENSE 1.1
+======================================================================
+SIL Open Font 1.1 License
+======================================================================
 
 The Program includes some or all of the following works licensed under
 the SIL OPEN FONT LICENSE 1.1:
 
-IBM Plex fonts 
+- @ibm/plex
+- @ibm/plex-mono
+- @ibm/plex-sans
+- @ibm/plex-sans-arabic
+- @ibm/plex-sans-devanagari
+- @ibm/plex-sans-hebrew
+- @ibm/plex-sans-thai
+- @ibm/plex-sans-thai-looped
+- @ibm/plex-serif
 
-	Copyright © 2017 IBM Corp. with Reserved Font Name "Plex"
+  Copyright (c) 2017 IBM Corp. with Reserved Font Name "Plex"
 
-This license is copied below, and the url to the license is: https://openfontlicense.org/
+----------------------------------------------------------------------
+SIL Open Font License, Version 1.1
+
+This license is copied below, and is also available with a FAQ at:
+https://openfontlicense.org
 
 
+-----------------------------------------------------------
 SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
 
 PREAMBLE
 The goals of the Open Font License (OFL) are to stimulate worldwide
@@ -76,7 +60,7 @@ with others.
 
 The OFL allows the licensed fonts to be used, studied, modified and
 redistributed freely as long as they are not sold by themselves. The
-fonts, including any derivative works, can be bundled, embedded, 
+fonts, including any derivative works, can be bundled, embedded,
 redistributed and/or sold with any software provided that any reserved
 names are not used by derivative works. The fonts and derivatives,
 however, cannot be released under any other type of license. The
@@ -150,11 +134,16 @@ DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.
 
-------------------------------------------------------------
-END OF SIL OPEN FONT LICENSE 1.1 NON-IBM-LICENSE INFORMATION
-------------------------------------------------------------
+=====================================================================
+END OF SIL OPEN FONT LICENSE Version 1.1 NOTICES AND INFORMATION
+=====================================================================
 
 
-L/N: L-XTQB-6FGMD7
-D/N: L-XTQB-6FGMD7
-P/N: L-XTQB-6FGMD7
+======================================================================
+END OF NON-IBM LICENSE INFORMATION for IBM Z Open Debug 5.6.3
+======================================================================
+
+
+L/N: L-CQHW-ZMTTKL
+D/N: L-CQHW-ZMTTKL
+P/N: L-CQHW-ZMTTKL
