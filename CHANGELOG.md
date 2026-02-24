@@ -1,7 +1,14 @@
 # IBM Z® Open Debug Change Log
 
+
+## 5.6.3
+- Defect and security fixes.
+
+## 5.0.0
+- Added support for token authentication and Multi-Factor Authentication.
+
 ## 4.0.0
- - IBM Z Open Debug v4 uses Zowe connection profiles to define connections to z/OS machines, replacing the connection details that were previously defined in the VS Code Settings. Existing connection details defined in the VS Code Settings can be automatically migrated to a new Zowe team configuration, or added to an existing Zowe team configuration.
+- IBM Z Open Debug v4 uses Zowe connection profiles to define connections to z/OS machines, replacing the connection details that were previously defined in the VS Code Settings. Existing connection details defined in the VS Code Settings can be automatically migrated to a new Zowe team configuration, or added to an existing Zowe team configuration.
 
 - IBM Z Open Debug v4 uses a different internal format for storing debug profiles. Debug profiles in older formats can be automatically migrated.
 
