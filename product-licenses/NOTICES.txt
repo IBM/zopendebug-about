@@ -1,6 +1,6 @@
 NOTICES AND INFORMATION
 
-IBM Z Open Debug 5.6.3
+IBM Z Open Debug 5.6.4
 
 The IBM license agreement and any applicable information on the web
 download page for IBM products refers Licensee to this file for details
@@ -408,6 +408,7 @@ The Program includes some or all of the following that IBM obtained under the
 Blue Oak Model License 1.0.0:
 
 - isexe
+- minimatch
 
 ----------------------------------------------------------------------
 
@@ -802,8 +803,6 @@ ISC License:
   Copyright (c) Isaac Z. Schlueter and Contributors
 - lru-cache
   Copyright (c) 2010-2023 Isaac Z. Schlueter and Contributors
-- minimatch
-  Copyright (c) 2011-2023 Isaac Z. Schlueter and Contributors
 - mute-stream
   Copyright (c) Isaac Z. Schlueter and Contributors
 - npm-package-arg
@@ -958,9 +957,11 @@ MIT License:
 - axios
   Copyright (c) 2014-present Matt Zabriskie & Collaborators
 - balanced-match
-  Copyright (c) 2013 Julian Gruber <julian@juliangruber.com>
+  Original code Copyright Julian Gruber <julian@juliangruber.com>
+  Port to TypeScript Copyright Isaac Z. Schlueter <i@izs.me>
 - brace-expansion
-  Copyright (c) 2013 Julian Gruber <julian@juliangruber.com>
+  Copyright Julian Gruber <julian@juliangruber.com>
+  TypeScript port Copyright Isaac Z. Schlueter <i@izs.me>
 - braces
   Copyright (c) 2014-present, Jon Schlinkert.
 - buildcheck
@@ -1044,6 +1045,7 @@ MIT License:
   Copyright (c) 2022 ECMAScript Shims
 - es-toolkit
   Copyright (c) 2024 Viva Republica, Inc
+  Copyright OpenJS Foundation and other contributors
 - escalade
   Copyright (c) Luke Edwards <luke.edwards05@gmail.com> (lukeed.com)
 - fast-glob
@@ -1064,6 +1066,8 @@ MIT License:
   Copyright 2014-present Olivier Lalonde <olalonde@gmail.com>, James Talmage <james@talmage.io>, Ruben Verborgh
 - form-data
   Copyright (c) 2012 Felix Geisendörfer (felix@debuggable.com) and contributors
+- fs-extra
+  Copyright (c) 2011-2024 JP Richardson
 - fs-extra
   Copyright (c) 2011-2017 JP Richardson
 - function-bind
@@ -1249,7 +1253,7 @@ MIT License:
 - reselect
   Copyright (c) 2015-2018 Reselect Contributors
 - reusify
-  Copyright (c) 2015 Matteo Collina
+  Copyright (c) 2015-2024 Matteo Collina
 - rfdc
   Copyright 2019 "David Mark Clements <david.mark.clements@gmail.com>"
 - run-parallel
@@ -1660,10 +1664,10 @@ END OF Unlicense LICENSE NOTICES AND INFORMATION
 
 
 ======================================================================
-END OF NOTICES AND INFORMATION for IBM Z Open Debug 5.6.3
+END OF NOTICES AND INFORMATION for IBM Z Open Debug 5.6.4
 ======================================================================
 
 
-L/N: L-CQHW-ZMTTKL
-D/N: L-CQHW-ZMTTKL
-P/N: L-CQHW-ZMTTKL
+L/N: L-TQUL-EVAGCB
+D/N: L-TQUL-EVAGCB
+P/N: L-TQUL-EVAGCB
