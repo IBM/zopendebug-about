@@ -1,5 +1,7 @@
 # IBM Z® Open Debug Change Log
 
+## 5.6.4
+- Defect and security fixes.
 
 ## 5.6.3
 - Defect and security fixes.
