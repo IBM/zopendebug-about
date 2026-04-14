@@ -1,6 +1,6 @@
 TERMS AND CONDITIONS FOR SEPARATELY LICENSED CODE
 
-IBM Z Open Debug 5.6.3
+IBM Z Open Debug 5.6.4
 
 The IBM license agreement and any applicable information on the web
 download page for IBM products refers Licensee to this file for details
@@ -37,10 +37,10 @@ the SIL OPEN FONT LICENSE 1.1:
 - @ibm/plex-sans-thai
 - @ibm/plex-sans-thai-looped
 - @ibm/plex-serif
-
   Copyright (c) 2017 IBM Corp. with Reserved Font Name "Plex"
 
 ----------------------------------------------------------------------
+
 SIL Open Font License, Version 1.1
 
 This license is copied below, and is also available with a FAQ at:
@@ -140,10 +140,10 @@ END OF SIL OPEN FONT LICENSE Version 1.1 NOTICES AND INFORMATION
 
 
 ======================================================================
-END OF NON-IBM LICENSE INFORMATION for IBM Z Open Debug 5.6.3
+END OF NON-IBM LICENSE INFORMATION for IBM Z Open Debug 5.6.4
 ======================================================================
 
 
-L/N: L-CQHW-ZMTTKL
-D/N: L-CQHW-ZMTTKL
-P/N: L-CQHW-ZMTTKL
+L/N: L-TQUL-EVAGCB
+D/N: L-TQUL-EVAGCB
+P/N: L-TQUL-EVAGCB
