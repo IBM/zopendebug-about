@@ -1,3 +1,9 @@
+# License
+
+- The license for the [IBM Z Open Debug](https://marketplace.visualstudio.com/items?itemName=IBM.zopendebug) extension can be found in the [product-licenses](./product-licenses/) folder in this repository.
+- This repository (except for the folder `product-licenses` and the attachments of our release items) contain samples that are used for tutorials. The license for these files you can find in the file [LICENSE](./LICENSE).
+
+
 # IBM Z® Open Debug
 
 **IBM Z Open Debug is an extension for Visual Studio Code that provides interactive debugging support for debugging z/OS COBOL, PL/I and High Level Assembler applications in VS Code, in conjunction with IBM z/OS Debugger.**
