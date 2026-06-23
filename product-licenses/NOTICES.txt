@@ -1,6 +1,6 @@
 NOTICES AND INFORMATION
 
-IBM Z Open Debug 5.6.5
+IBM Z Open Debug 5.6.6
 
 The IBM license agreement and any applicable information on the web
 download page for IBM products refers Licensee to this file for details
@@ -1063,7 +1063,7 @@ MIT License:
 - fn.name
   Copyright (c) 2015 Arnout Kazemier, Martijn Swaagman, the Contributors.
 - follow-redirects
-  Copyright 2014-present Olivier Lalonde <olalonde@gmail.com>, James Talmage <james@talmage.io>, Ruben Verborgh
+  Copyright 2014–present Olivier Lalonde <olalonde@gmail.com>, James Talmage <james@talmage.io>, Ruben Verborgh
 - form-data
   Copyright (c) 2012 Felix Geisendörfer (felix@debuggable.com) and contributors
 - fs-extra
@@ -1664,10 +1664,10 @@ END OF Unlicense LICENSE NOTICES AND INFORMATION
 
 
 ======================================================================
-END OF NOTICES AND INFORMATION for IBM Z Open Debug 5.6.5
+END OF NOTICES AND INFORMATION for IBM Z Open Debug 5.6.6
 ======================================================================
 
 
-L/N: L-PCRK-VPCGGM
-D/N: L-PCRK-VPCGGM
-P/N: L-PCRK-VPCGGM
+L/N: L-XGSL-YMVVXL
+D/N: L-XGSL-YMVVXL
+P/N: L-XGSL-YMVVXL
