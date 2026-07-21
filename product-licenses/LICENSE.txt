@@ -3,7 +3,7 @@ LICENSE INFORMATION
 The Programs listed below are licensed under the following License Information terms and conditions in addition to the Program license terms previously agreed to by Client and IBM. If Client does not have previously agreed to license terms in effect for the Program, the International Program License Agreement (i125-3301-15) applies.
 
 Program Name (Program Number):
-IBM Z Open Debug 5.6.6 (Component)
+IBM Z Open Debug 5.6.7 (Component)
 
 The following standard terms apply to Licensee's use of the Program.
 
@@ -34,9 +34,9 @@ Privacy
 Licensee acknowledges and agrees that IBM may use cookie and tracking technologies to collect personal information in gathering product usage statistics and information designed to help improve user experience and/or to tailor interactions with users in accordance with the IBM Online Privacy Policy, available at http://www.ibm.com/privacy/.
 
 
-L/N: L-XGSL-YMVVXL
-D/N: L-XGSL-YMVVXL
-P/N: L-XGSL-YMVVXL
+L/N: L-FCCA-AF628E
+D/N: L-FCCA-AF628E
+P/N: L-FCCA-AF628E
 
 International Program License Agreement
 
