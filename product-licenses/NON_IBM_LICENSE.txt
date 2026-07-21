@@ -1,6 +1,6 @@
 TERMS AND CONDITIONS FOR SEPARATELY LICENSED CODE
 
-IBM Z Open Debug 5.6.6
+IBM Z Open Debug 5.6.7
 
 The IBM license agreement and any applicable information on the web
 download page for IBM products refers Licensee to this file for details
@@ -140,10 +140,10 @@ END OF SIL OPEN FONT LICENSE Version 1.1 NOTICES AND INFORMATION
 
 
 ======================================================================
-END OF NON-IBM LICENSE INFORMATION for IBM Z Open Debug
+END OF NON-IBM LICENSE INFORMATION for IBM Z Open Debug 5.6.7
 ======================================================================
 
 
-L/N: L-XGSL-YMVVXL
-D/N: L-XGSL-YMVVXL
-P/N: L-XGSL-YMVVXL
+L/N: L-FCCA-AF628E
+D/N: L-FCCA-AF628E
+P/N: L-FCCA-AF628E
