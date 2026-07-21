@@ -1,6 +1,6 @@
 NOTICES AND INFORMATION
 
-IBM Z Open Debug 5.6.6
+IBM Z Open Debug 5.6.7
 
 The IBM license agreement and any applicable information on the web
 download page for IBM products refers Licensee to this file for details
@@ -9,9 +9,8 @@ above ("the Program").
 
 Notwithstanding the terms and conditions of any other agreement Licensee
 may have with IBM or any of its related or affiliated entities
-(collectively "IBM"), the third party code identified below is subject
-to the terms and conditions of the IBM license agreement for the Program
-and not the license terms that may be contained in the notices below.
+(collectively "IBM"), the following licenses apply to the applicable
+third party code included in this application.
 The notices are provided for informational purposes.
 
 Please note: This Notices file may identify information that is not used
@@ -286,8 +285,16 @@ BSD-2-CLAUSE License
 The Program includes some or all of the following that IBM obtained under the 
 BSD-2-CLAUSE License:
 
+- domelementtype
+  Copyright (c) Felix Böhm
+- domhandler
+  Copyright (c) Felix Böhm
+- domutils
+  Copyright (c) Felix Böhm
 - entities
   Copyright (c) Felix Bohm
+- entities
+  Copyright (c) Felix Böhm
 - esprima
   Copyright JS Foundation and other contributors, https://js.foundation/
 
@@ -807,6 +814,8 @@ ISC License:
   Copyright (c) Isaac Z. Schlueter and Contributors
 - npm-package-arg
   Copyright (c) npm, Inc.
+- picocolors
+  Copyright (c) 2021-2024 Oleksii Raspopov, Kostiantyn Denysov, Anton Verinov
 - proc-log
   Copyright (c) GitHub, Inc.
 - read
@@ -1027,6 +1036,8 @@ MIT License:
   Copyright (c) Meta Platforms, Inc. and affiliates.
 - diff2html
   Copyright 2014-2016 Rodrigo Fernandes https://rtfpessoa.github.io/
+- dom-serializer
+  Copyright 2017 Nathan Rajlich
 - downshift
   Copyright (c) 2017 PayPal
 - dunder-proto
@@ -1048,6 +1059,8 @@ MIT License:
   Copyright OpenJS Foundation and other contributors
 - escalade
   Copyright (c) Luke Edwards <luke.edwards05@gmail.com> (lukeed.com)
+- escape-string-regexp
+  Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
 - fast-glob
   Copyright (c) Denis Malinochkin
 - fastest-levenshtein
@@ -1089,6 +1102,8 @@ MIT License:
 - hasown
   Copyright (c) Jordan Harband and contributors
 - html-parse-stringify
+- htmlparser2
+  Copyright 2010, 2011, Chris Winberry <chris@winberry.net>
 - http-proxy-agent
   Copyright (c) 2013 Nathan Rajlich <nathan@tootallnate.net>
 - https-proxy-agent
@@ -1100,7 +1115,7 @@ MIT License:
 - immer
   Copyright (c) 2017 Michel Weststrate
 - immutable
-  Copyright (c) 2014-present, Lee Byron and other contributors.
+  Copyright (c) 2014-present, Lee Byron and other contributors
 - invariant
   Copyright (c) 2013-present, Facebook, Inc.
 - is-arrayish
@@ -1113,6 +1128,8 @@ MIT License:
   Copyright (c) 2014-2017, Jon Schlinkert.
 - is-number
   Copyright (c) 2014-present, Jon Schlinkert.
+- is-plain-object
+  Copyright (c) 2014-2017, Jon Schlinkert.
 - is-stream
   Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
 - jest-diff
@@ -1135,6 +1152,8 @@ MIT License:
   Copyright (c) 2013 Brian J. Brennan
 - kuler
   Copyright 2014 Arnout Kazemier
+- launder
+  Copyright (c) 2014 Zach Smith
 - linkify-it
   Copyright (c) 2015 Vitaly Puzrin.
 - locate-path
@@ -1187,6 +1206,8 @@ MIT License:
   Copyright (c) 2010-2015 The mustache.js community
 - nan
   Copyright (c) 2018 [NAN contributors](<https://github.com/nodejs/nan#wg-members--collaborators>)
+- nanoid
+  Copyright 2017 Andrey Sitnik <andrey@sitnik.ru>
 - node-addon-api
   Copyright (c) 2017 [Node.js API collaborators](https://github.com/nodejs/node-addon-api#collaborators)
 - nopt
@@ -1201,12 +1222,16 @@ MIT License:
   Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
 - p-locate
   Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
+- parse-srcset
+  Copyright (c) 2014 Alex Bell
 - path-exists
   Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 - path-key
   Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 - picomatch
   Copyright (c) 2017-present, Jon Schlinkert.
+- postcss
+  Copyright 2013 Andrey Sitnik <andrey@sitnik.es>
 - pretty-format
   Copyright (c) Meta Platforms, Inc. and affiliates.
 - prettyjson
@@ -1264,6 +1289,8 @@ MIT License:
   Copyright (c) Ruben Bridgewater
 - safer-buffer
   Copyright (c) 2018 Nikita Skovoroda <chalkerx@gmail.com>
+- sanitize-html
+  Copyright (c) 2013, 2014, 2015 P'unk Avenue LLC
 - sass
   Copyright (c) 2016, Google Inc.
 - scheduler
@@ -1664,10 +1691,10 @@ END OF Unlicense LICENSE NOTICES AND INFORMATION
 
 
 ======================================================================
-END OF NOTICES AND INFORMATION for IBM Z Open Debug 5.6.6
+END OF NOTICES AND INFORMATION for IBM Z Open Debug 5.6.7
 ======================================================================
 
 
-L/N: L-XGSL-YMVVXL
-D/N: L-XGSL-YMVVXL
-P/N: L-XGSL-YMVVXL
+L/N: L-FCCA-AF628E
+D/N: L-FCCA-AF628E
+P/N: L-FCCA-AF628E
