@@ -1,9 +1,12 @@
 # IBM Z® Open Debug Change Log
 
+## 5.6.7
+- Defect and security fixes.
+
 ## 5.6.6
 - You can now specify Code Coverage Service connection details on the Z Open Debug Zowe connection profile using the `ccsPort` and `ccsSecured` attributes.
 - Defect and security fixes.
-  
+
 ## 5.6.5
 - Defect and security fixes.
 
