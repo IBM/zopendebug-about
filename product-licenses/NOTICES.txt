@@ -1,6 +1,6 @@
 NOTICES AND INFORMATION
 
-IBM Z Open Debug 5.6.7
+IBM Z Open Debug 5.6.8
 
 The IBM license agreement and any applicable information on the web
 download page for IBM products refers Licensee to this file for details
@@ -1691,10 +1691,10 @@ END OF Unlicense LICENSE NOTICES AND INFORMATION
 
 
 ======================================================================
-END OF NOTICES AND INFORMATION for IBM Z Open Debug 5.6.7
+END OF NOTICES AND INFORMATION for IBM Z Open Debug 5.6.8
 ======================================================================
 
 
-L/N: L-FCCA-AF628E
-D/N: L-FCCA-AF628E
-P/N: L-FCCA-AF628E
+L/N: L-ZPUD-H3Q3AN
+D/N: L-ZPUD-H3Q3AN
+P/N: L-ZPUD-H3Q3AN
