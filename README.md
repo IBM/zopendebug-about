@@ -87,7 +87,11 @@ IBM Z Open Debug provides a user interface in Visual Studio Code for creating an
 
 ## Launching and debugging applications
 
-IBM Z Open Debug provides several `launch.json` configuration types for working with z/OS Debugger sessions on a remote z/OS host. Launch configurations can be created and triggered through the *Run and Debug* view in order to:
+After logging in to a connection in the _z/OS Debugger Profiles_ view, Z Open Debug version 5.6.8 or higher will now automatically connect to new parked debug sessions or code coverage sessions as they become available on the _Remote Debug Service_, replacing the requirement to manually trigger debug launches. The connection profile entry in the _z/OS Debugger Profiles_ view shows the listening status for debug events and code coverage events separately.
+
+A new `zopendebug.autoAttachToParkedSessions` setting (enabled by default) controls whether parked debug sessions are attached to automatically. When disabled, a prompt is shown with the option to list available parked sessions, or they can be listed manually by running a launch configuration of type `attach`, as described below. Selecting a parked debug session from the list will attach Z Open Debug to it and allow interactive debugging of the application.
+
+Additionally, IBM Z Open Debug provides several `launch.json` configuration types for working with z/OS Debugger sessions on a remote z/OS host. Launch configurations can be created and triggered through the *Run and Debug* view in order to:
 
 * Launch a z/OS application via a client-side command line, and then automatically connect to it once it is parked on the z/OS host. Use a `launch` config that specifies an `applicationLaunch: commandLine` attribute.
 ```json
