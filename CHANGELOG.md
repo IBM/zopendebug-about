@@ -1,5 +1,12 @@
 # IBM Z® Open Debug Change Log
 
+## 5.6.8
+
+- After logging in to a connection in the **z/OS Debugger Profiles** view, Z Open Debug will now automatically connect to new parked debug sessions or code coverage sessions as they become available on the **Remote Debug Service**, replacing the requirement to manually trigger debug launches. The connection profile entry in the **z/OS Debugger Profiles** view shows the listening status for debug events and code coverage events separately.
+- A new `zopendebug.autoAttachToParkedSessions` setting (enabled by default) controls whether parked debug sessions are attached to automatically. When disabled, a prompt is shown with the option to list available parked sessions, or they can be listed manually by running a launch configuration of type `attach`. Selecting a session from the list will attach to it.
+- The `DETAIL` log level for the `zopendebug.logger.logLevel` setting has been renamed to `DEBUG`. The default log level has changed from `DETAIL` to `INFO`.
+- IMS Isolation profiles can now be created in the **z/OS Debugger Profiles** view to isolate recording or debug sessions from other users by launching the z/OS Debugger in a private IMS region.
+
 ## 5.6.7
 - Defect and security fixes.
 
