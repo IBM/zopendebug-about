@@ -1,6 +1,6 @@
 TERMS AND CONDITIONS FOR SEPARATELY LICENSED CODE
 
-IBM Z Open Debug 5.6.8
+IBM Z Open Debug 5.6.9
 
 The IBM license agreement and any applicable information on the web
 download page for IBM products refers Licensee to this file for details
@@ -29,6 +29,7 @@ The Program includes some or all of the following works licensed under
 the SIL OPEN FONT LICENSE 1.1:
 
 - @ibm/plex
+  Copyright (c) 2017 IBM Corp. with Reserved Font Name "Plex"
 - @ibm/plex-mono
 - @ibm/plex-sans
 - @ibm/plex-sans-arabic
@@ -139,10 +140,10 @@ END OF SIL OPEN FONT LICENSE Version 1.1 NOTICES AND INFORMATION
 
 
 ======================================================================
-END OF NON-IBM LICENSE INFORMATION for IBM Z Open Debug 5.6.8
+END OF NON-IBM LICENSE INFORMATION for IBM Z Open Debug 
 ======================================================================
 
 
-L/N: L-ZPUD-H3Q3AN
-D/N: L-ZPUD-H3Q3AN
-P/N: L-ZPUD-H3Q3AN
+L/N: L-HKCA-K9N2KB
+D/N: L-HKCA-K9N2KB
+P/N: L-HKCA-K9N2KB
