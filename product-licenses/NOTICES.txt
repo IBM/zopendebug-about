@@ -1,6 +1,6 @@
 NOTICES AND INFORMATION
 
-IBM Z Open Debug 5.6.8
+IBM Z Open Debug 5.6.9
 
 The IBM license agreement and any applicable information on the web
 download page for IBM products refers Licensee to this file for details
@@ -297,6 +297,21 @@ BSD-2-CLAUSE License:
   Copyright (c) Felix Böhm
 - esprima
   Copyright JS Foundation and other contributors, https://js.foundation/
+- json-schema-typed
+  Original source code is copyright (c) 2019-2025 Remy Rylan <https://github.com/RemyRylan>
+  All JSON Schema documentation and descriptions are copyright (c):
+  2009 [draft-0] IETF Trust <https://www.ietf.org/>, Kris Zyp <kris@sitepen.com>, and SitePen (USA) <https://www.sitepen.com/>.
+  2009 [draft-1] IETF Trust <https://www.ietf.org/>, Kris Zyp <kris@sitepen.com>, and SitePen (USA) <https://www.sitepen.com/>.
+  2010 [draft-2] IETF Trust <https://www.ietf.org/>, Kris Zyp <kris@sitepen.com>, and SitePen (USA) <https://www.sitepen.com/>.
+  2010 [draft-3] IETF Trust <https://www.ietf.org/>, Kris Zyp <kris@sitepen.com>, Gary Court <gary.court@gmail.com>, and SitePen (USA) <https://www.sitepen.com/>.
+  2013 [draft-4] IETF Trust <https://www.ietf.org/>), Francis Galiegue <fgaliegue@gmail.com>, Kris Zyp <kris@sitepen.com>, Gary Court
+  <gary.court@gmail.com>, and SitePen (USA) <https://www.sitepen.com/>.
+  2018 [draft-7] IETF Trust <https://www.ietf.org/>, Austin Wright <aaa@bzfx.net>, Henry Andrews <henry@cloudflare.com>, Geraint Luff <luffgd@gmail.com>, and
+  Cloudflare, Inc. <https://www.cloudflare.com/>.
+  2019 [draft-2019-09] IETF Trust <https://www.ietf.org/>, Austin Wright <aaa@bzfx.net>, Henry Andrews <andrews_henry@yahoo.com>, Ben Hutton
+  <bh7@sanger.ac.uk>, and Greg Dennis <gregsdennis@yahoo.com>.
+  2020 [draft-2020-12] IETF Trust <https://www.ietf.org/>, Austin Wright <aaa@bzfx.net>, Henry Andrews <andrews_henry@yahoo.com>, Ben Hutton
+  <ben@jsonschema.dev>, and Greg Dennis <gregsdennis@yahoo.com>.
 
 ----------------------------------------------------------------------
 
@@ -338,10 +353,15 @@ BSD-3-CLAUSE License:
   Copyright (c) 2013, GoInstant Inc., a salesforce.com company
 - diff
   Copyright (c) 2009-2015, Kevin Decker <kpdecker@gmail.com>
+- fast-uri
+  Copyright (c) 2011-2021, Gary Court until https://github.com/garycourt/uri-js/commit/a1acf730b4bba3f1097c9f52e7d9d3aba8cdcaae
+  Copyright (c) 2021-present The Fastify team <https://github.com/fastify/fastify#team>
 - highlight.js
   Copyright (c) 2006, Ivan Sagalaev.
 - hoist-non-react-statics
   Copyright (c) 2015, Yahoo! Inc. All rights reserved.
+- qs
+  Copyright (c) 2014, Nathan LaFreniere and other [contributors](https://github.com/ljharb/qs/graphs/contributors)
 - source-map-js
   Copyright (c) 2009-2011, Mozilla Foundation and contributors
 
@@ -814,6 +834,8 @@ ISC License:
   Copyright (c) Isaac Z. Schlueter and Contributors
 - npm-package-arg
   Copyright (c) npm, Inc.
+- once
+  Copyright (c) Isaac Z. Schlueter and Contributors
 - picocolors
   Copyright (c) 2021-2024 Oleksii Raspopov, Kostiantyn Denysov, Anton Verinov
 - proc-log
@@ -822,14 +844,22 @@ ISC License:
   Copyright (c) Isaac Z. Schlueter and Contributors
 - semver
   Copyright (c) Isaac Z. Schlueter and Contributors
+- setprototypeof
+  Copyright (c) 2015, Wes Todd
 - validate-npm-package-name
   Copyright (c) 2015, npm, Inc
 - which
   Copyright (c) Isaac Z. Schlueter and Contributors
+- wrappy
+  Copyright (c) Isaac Z. Schlueter and Contributors
 - y18n
   Copyright (c) 2015, Contributors
+- yaml
+  Copyright Eemeli Aro <eemeli@gmail.com>
 - yargs-parser
   Copyright (c) 2016, Contributors
+- zod-to-json-schema
+  Copyright (c) 2020, Stefan Terdell
 
 ----------------------------------------------------------------------
 
@@ -875,10 +905,14 @@ MIT License:
   Copyright (c) 2021-present Floating UI contributors
 - @floating-ui/utils
   Copyright (c) 2021-present Floating UI contributors
+- @hono/node-server
+  Copyright (c) 2022 - present, Yusuke Wada and Hono contributors
 - @hookform/resolvers
   Copyright (c) 2019-present Beier(Bill) Luo
 - @jest/schemas
   Copyright (c) Meta Platforms, Inc. and affiliates.
+- @modelcontextprotocol/sdk
+  Copyright (c) 2024 Anthropic, PBC
 - @nodelib/fs.scandir
   Copyright (c) Denis Malinochkin
 - @nodelib/fs.stat
@@ -947,8 +981,15 @@ MIT License:
   Copyright (c) Microsoft Corporation
 - abbrev
   Copyright Isaac Z. Schlueter and Contributors
+- accepts
+  Copyright (c) 2014 Jonathan Ong <me@jongleberry.com>
+  Copyright (c) 2015 Douglas Christopher Wilson <doug@somethingdoug.com>
 - agent-base
   Copyright (c) 2013 Nathan Rajlich <nathan@tootallnate.net>
+- ajv
+  Copyright (c) 2015-2021 Evgeny Poberezkin
+- ajv-formats
+  Copyright (c) 2020 Evgeny Poberezkin
 - ansi-regex
   Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 - ansi-styles
@@ -968,6 +1009,9 @@ MIT License:
 - balanced-match
   Original code Copyright Julian Gruber <julian@juliangruber.com>
   Port to TypeScript Copyright Isaac Z. Schlueter <i@izs.me>
+- body-parser
+  Copyright (c) 2014 Jonathan Ong <me@jongleberry.com>
+  Copyright (c) 2014-2015 Douglas Christopher Wilson <doug@somethingdoug.com>
 - brace-expansion
   Copyright Julian Gruber <julian@juliangruber.com>
   TypeScript port Copyright Isaac Z. Schlueter <i@izs.me>
@@ -975,7 +1019,12 @@ MIT License:
   Copyright (c) 2014-present, Jon Schlinkert.
 - buildcheck
   Copyright Brian White. All rights reserved.
+- bytes
+  Copyright (c) 2012-2014 TJ Holowaychuk <tj@vision-media.ca>
+  Copyright (c) 2015 Jed Watson <jed.watson@me.com>
 - call-bind-apply-helpers
+  Copyright (c) 2024 Jordan Harband
+- call-bound
   Copyright (c) 2024 Jordan Harband
 - chalk
   Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
@@ -1007,10 +1056,21 @@ MIT License:
   Copyright (c) 2013 kaelzhang <>, contributors - http://kael.me/
 - compute-scroll-into-view
   Copyright (c) 2025 Cody Olsen
+- content-disposition
+  Copyright (c) 2014-2017 Douglas Christopher Wilson
+- content-type
+  Copyright (c) 2015 Douglas Christopher Wilson
+- cookie
+  Copyright (c) 2012-2014 Roman Shtylman <shtylman@gmail.com>
+  Copyright (c) 2015 Douglas Christopher Wilson <doug@somethingdoug.com>
+- cookie-signature
+  Copyright (c) 2012–2024 LearnBoost <tj@learnboost.com> and other contributors;
 - copy-to-clipboard
   Copyright (c) 2017 sudodoki <smd.deluzion@gmail.com>
 - core-util-is
   Copyright Node.js contributors. All rights reserved.
+- cors
+  Copyright (c) 2013 Troy Goode <troygoode@gmail.com>
 - cpu-features
   Copyright Brian White. All rights reserved.
 - cross-spawn
@@ -1032,6 +1092,8 @@ MIT License:
   Copyright (c) 2012 James Halliday, Josh Duff, and other contributors
 - delayed-stream
   Copyright (c) 2011 Debuggable Limited <felix@debuggable.com>
+- depd
+  Copyright (c) 2014-2018 Douglas Christopher Wilson
 - diff-sequences
   Copyright (c) Meta Platforms, Inc. and affiliates.
 - diff2html
@@ -1042,10 +1104,14 @@ MIT License:
   Copyright (c) 2017 PayPal
 - dunder-proto
   Copyright (c) 2024 ECMAScript Shims
+- ee-first
+  Copyright (c) 2014 Jonathan Ong me@jongleberry.com
 - emoji-regex
   Copyright Mathias Bynens <https://mathiasbynens.be/>
 - enabled
   Copyright (c) 2015 Arnout Kazemier, Martijn Swaagman, the Contributors.
+- encodeurl
+  Copyright (c) 2016 Douglas Christopher Wilson
 - es-define-property
   Copyright (c) 2024 Jordan Harband
 - es-errors
@@ -1059,8 +1125,26 @@ MIT License:
   Copyright OpenJS Foundation and other contributors
 - escalade
   Copyright (c) Luke Edwards <luke.edwards05@gmail.com> (lukeed.com)
+- escape-html
+  Copyright (c) 2012-2013 TJ Holowaychuk
+  Copyright (c) 2015 Andreas Lubbe
+  Copyright (c) 2015 Tiancheng "Timothy" Gu
 - escape-string-regexp
   Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
+- etag
+  Copyright (c) 2014-2016 Douglas Christopher Wilson
+- eventsource
+  Copyright (c) EventSource GitHub organisation
+- eventsource-parser
+  Copyright (c) 2026 Espen Hovlandsdal <espen@hovlandsdal.com>
+- express
+  Copyright (c) 2009-2014 TJ Holowaychuk <tj@vision-media.ca>
+  Copyright (c) 2013-2014 Roman Shtylman <shtylman+expressjs@gmail.com>
+  Copyright (c) 2014-2015 Douglas Christopher Wilson <doug@somethingdoug.com>
+- express-rate-limit
+  Copyright 2023 Nathan Friedly, Vedant K
+- fast-deep-equal
+  Copyright (c) 2017 Evgeny Poberezkin
 - fast-glob
   Copyright (c) Denis Malinochkin
 - fastest-levenshtein
@@ -1069,6 +1153,8 @@ MIT License:
   Copyright (c) 2015 Taylor Hakes
 - fill-range
   Copyright (c) 2014-present, Jon Schlinkert.
+- finalhandler
+  Copyright (c) 2014-2022 Douglas Christopher Wilson <doug@somethingdoug.com>
 - find-up
   Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
 - flatpickr
@@ -1079,6 +1165,11 @@ MIT License:
   Copyright 2014–present Olivier Lalonde <olalonde@gmail.com>, James Talmage <james@talmage.io>, Ruben Verborgh
 - form-data
   Copyright (c) 2012 Felix Geisendörfer (felix@debuggable.com) and contributors
+- forwarded
+  Copyright (c) 2014-2017 Douglas Christopher Wilson
+- fresh
+  Copyright (c) 2012 TJ Holowaychuk <tj@vision-media.ca>
+  Copyright (c) 2016-2017 Douglas Christopher Wilson <doug@somethingdoug.com>
 - fs-extra
   Copyright (c) 2011-2024 JP Richardson
 - fs-extra
@@ -1101,23 +1192,35 @@ MIT License:
   Copyright (c) 2021 Inspect JS
 - hasown
   Copyright (c) Jordan Harband and contributors
+- hono
+  Copyright (c) 2021 - present, Yusuke Wada and Hono contributors
 - html-parse-stringify
 - htmlparser2
   Copyright 2010, 2011, Chris Winberry <chris@winberry.net>
+- http-errors
+  Copyright (c) 2014 Jonathan Ong me@jongleberry.com
+  Copyright (c) 2016 Douglas Christopher Wilson doug@somethingdoug.com
 - http-proxy-agent
   Copyright (c) 2013 Nathan Rajlich <nathan@tootallnate.net>
+- http-status-codes
 - https-proxy-agent
   Copyright (c) 2013 Nathan Rajlich <nathan@tootallnate.net>
 - i18next
   Copyright (c) 2025 i18next
 - i18next-browser-languagedetector
   Copyright (c) 2025 i18next
+- iconv-lite
+  Copyright (c) 2011 Alexander Shtuchkin
 - immer
   Copyright (c) 2017 Michel Weststrate
 - immutable
   Copyright (c) 2014-present, Lee Byron and other contributors
 - invariant
   Copyright (c) 2013-present, Facebook, Inc.
+- ip-address
+  Copyright (C) 2011 by Beau Gunderson
+- ipaddr.js
+  Copyright (C) 2011-2017 whitequark <whitequark@whitequark.org>
 - is-arrayish
   Copyright (c) 2015 JD Ballard
 - is-extglob
@@ -1130,16 +1233,22 @@ MIT License:
   Copyright (c) 2014-present, Jon Schlinkert.
 - is-plain-object
   Copyright (c) 2014-2017, Jon Schlinkert.
+- is-promise
+  Copyright (c) 2014 Forbes Lindesay
 - is-stream
   Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
 - jest-diff
   Copyright (c) Meta Platforms, Inc. and affiliates.
 - jest-get-type
   Copyright (c) Meta Platforms, Inc. and affiliates.
+- jose
+  Copyright (c) 2018 Filip Skokan
 - js-tokens
   Copyright (c) 2014, 2015, 2016, 2017, 2018 Simon Lydell
 - js-yaml
   Copyright (C) 2011-2015 by Vitaly Puzrin
+- json-schema-traverse
+  Copyright (c) 2017 Evgeny Poberezkin
 - jsonfile
   Copyright (c) 2012-2015, JP Richardson <jprichardson@gmail.com>
 - jsonschema
@@ -1186,6 +1295,12 @@ MIT License:
   Copyright (c) 2024 ECMAScript Shims
 - mdurl
   Copyright (c) 2015 Vitaly Puzrin, Alex Kocharin.
+- media-typer
+  Copyright (c) 2014-2017 Douglas Christopher Wilson
+- merge-descriptors
+  Copyright (c) Jonathan Ong <me@jongleberry.com>
+  Copyright (c) Douglas Christopher Wilson <doug@somethingdoug.com>
+  Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
 - merge2
   Copyright (c) 2014-2020 Teambition
 - micromatch
@@ -1208,12 +1323,21 @@ MIT License:
   Copyright (c) 2018 [NAN contributors](<https://github.com/nodejs/nan#wg-members--collaborators>)
 - nanoid
   Copyright 2017 Andrey Sitnik <andrey@sitnik.ru>
+- negotiator
+  Copyright (c) 2012-2014 Federico Romero
+  Copyright (c) 2012-2014 Isaac Z. Schlueter
+  Copyright (c) 2014-2015 Douglas Christopher Wilson
 - node-addon-api
   Copyright (c) 2017 [Node.js API collaborators](https://github.com/nodejs/node-addon-api#collaborators)
 - nopt
   Copyright 2009, 2010, 2011 Isaac Z. Schlueter.
 - object-assign
   Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+- object-inspect
+  Copyright (c) 2013 James Halliday
+- on-finished
+  Copyright (c) 2013 Jonathan Ong <me@jongleberry.com>
+  Copyright (c) 2014 Douglas Christopher Wilson <doug@somethingdoug.com>
 - one-time
   Copyright (c) 2015 Unshift.io, Arnout Kazemier,  the Contributors.
 - opener
@@ -1224,12 +1348,19 @@ MIT License:
   Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)
 - parse-srcset
   Copyright (c) 2014 Alex Bell
+- parseurl
+  Copyright (c) 2014 Jonathan Ong <me@jongleberry.com>
+  Copyright (c) 2014-2017 Douglas Christopher Wilson <doug@somethingdoug.com>
 - path-exists
   Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
 - path-key
   Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+- path-to-regexp
+  Copyright (c) 2014 Blake Embrey (hello@blakeembrey.com)
 - picomatch
   Copyright (c) 2017-present, Jon Schlinkert.
+- pkce-challenge
+  Copyright (c) 2019
 - postcss
   Copyright 2013 Andrey Sitnik <andrey@sitnik.es>
 - pretty-format
@@ -1240,12 +1371,20 @@ MIT License:
   Copyright (c) 2017 TJ Holowaychuk <tj@vision-media.ca>
 - prop-types
   Copyright (c) 2013-present, Facebook, Inc.
+- proxy-addr
+  Copyright (c) 2014-2016 Douglas Christopher Wilson
 - proxy-from-env
   Copyright (C) 2016-2018 Rob Wu <rob@robwu.nl>
 - punycode.js
   Copyright Mathias Bynens <https://mathiasbynens.be/>
 - queue-microtask
   Copyright (c) Feross Aboukhadijeh
+- range-parser
+  Copyright (c) 2012-2014 TJ Holowaychuk <tj@vision-media.ca>
+  Copyright (c) 2015-2016 Douglas Christopher Wilson <doug@somethingdoug.com
+- raw-body
+  Copyright (c) 2013-2014 Jonathan Ong <me@jongleberry.com>
+  Copyright (c) 2014-2022 Douglas Christopher Wilson <doug@somethingdoug.com>
 - react
   Copyright (c) Facebook, Inc. and its affiliates.
 - react-dom
@@ -1275,12 +1414,17 @@ MIT License:
   Copyright (c) 2014-2016, Jon Schlinkert.
 - require-directory
   Copyright (c) 2011 Troy Goode <troygoode@gmail.com>
+- require-from-string
+  Copyright (c) Vsevolod Strukchinsky <floatdrop@gmail.com> (github.com/floatdrop)
 - reselect
   Copyright (c) 2015-2018 Reselect Contributors
 - reusify
   Copyright (c) 2015-2024 Matteo Collina
 - rfdc
   Copyright 2019 "David Mark Clements <david.mark.clements@gmail.com>"
+- router
+  Copyright (c) 2013 Roman Shtylman
+  Copyright (c) 2014-2022 Douglas Christopher Wilson
 - run-parallel
   Copyright (c) Feross Aboukhadijeh
 - safe-buffer
@@ -1295,16 +1439,35 @@ MIT License:
   Copyright (c) 2016, Google Inc.
 - scheduler
   Copyright (c) Facebook, Inc. and its affiliates.
+- send
+  Copyright (c) 2012 TJ Holowaychuk
+  Copyright (c) 2014-2022 Douglas Christopher Wilson
+- serve-static
+  Copyright (c) 2010 Sencha Inc.
+  Copyright (c) 2011 LearnBoost
+  Copyright (c) 2011 TJ Holowaychuk
+  Copyright (c) 2014-2016 Douglas Christopher Wilson
 - shebang-command
   Copyright (c) Kevin Martensson <kevinmartensson@gmail.com> (github.com/kevva)
 - shebang-regex
   Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+- side-channel
+  Copyright (c) 2019 Jordan Harband
+- side-channel-list
+  Copyright (c) 2024 Jordan Harband
+- side-channel-map
+  Copyright (c) 2024 Jordan Harband
+- side-channel-weakmap
+  Copyright (c) 2019 Jordan Harband
 - simple-swizzle
   Copyright (c) 2015 Josh Junon
 - ssh2
   Copyright Brian White
 - stack-trace
   Copyright (c) 2011 Felix Geisendorfer (felix@debuggable.com)
+- statuses
+  Copyright (c) 2014 Jonathan Ong <me@jongleberry.com>
+  Copyright (c) 2016 Douglas Christopher Wilson <doug@somethingdoug.com>
 - streamroller
   Copyright (c) 2013 Gareth Jones
 - string-width
@@ -1323,20 +1486,31 @@ MIT License:
   Copyright (c) 2015-present, Jon Schlinkert.
 - toggle-selection
   Copyright (c) 2017 sudodoki <smd.deluzion@gmail.com>
+- toidentifier
+  Copyright (c) 2016 Douglas Christopher Wilson <doug@somethingdoug.com>
 - triple-beam
   Copyright (c) 2017 winstonjs
+- type-is
+  Copyright (c) 2014 Jonathan Ong <me@jongleberry.com>
+  Copyright (c) 2014-2015 Douglas Christopher Wilson <doug@somethingdoug.com>
 - uc.micro
   Copyright Mathias Bynens <https://mathiasbynens.be/>
 - universalify
   Copyright (c) 2017, Ryan Zimmerman <opensrc@ryanzim.com>
+- unpipe
+  Copyright (c) 2015 Douglas Christopher Wilson <doug@somethingdoug.com>
 - use-sync-external-store
   Copyright (c) Meta Platforms, Inc. and affiliates.
 - util-deprecate
   Copyright (c) 2014 Nathan Rajlich <nathan@tootallnate.net>
 - uuid
   Copyright (c) 2010-2020 Robert Kieffer and other contributors
+- vary
+  Copyright (c) 2014-2017 Douglas Christopher Wilson
 - void-elements
   Copyright (c) 2014 hemanth
+- vscode-extension-telemetry
+  Copyright (c) Microsoft Corporation
 - winston
   Copyright (c) 2010 Charlie Robbins
 - winston-transport
@@ -1691,10 +1865,10 @@ END OF Unlicense LICENSE NOTICES AND INFORMATION
 
 
 ======================================================================
-END OF NOTICES AND INFORMATION for IBM Z Open Debug 5.6.8
+END OF NOTICES AND INFORMATION for IBM Z Open Debug 
 ======================================================================
 
 
-L/N: L-ZPUD-H3Q3AN
-D/N: L-ZPUD-H3Q3AN
-P/N: L-ZPUD-H3Q3AN
+L/N: L-HKCA-K9N2KB
+D/N: L-HKCA-K9N2KB
+P/N: L-HKCA-K9N2KB
