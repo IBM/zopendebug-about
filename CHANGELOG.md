@@ -1,5 +1,9 @@
 # IBM Z® Open Debug Change Log
 
+## 5.6.10
+
+- Defect and security fixes.
+ 
 ## 5.6.9
 
 - Added MCP support for basic interactive debug commands (stepping, running) and debug profile management in IBM Bob.
